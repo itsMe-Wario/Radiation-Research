@@ -1,0 +1,11 @@
+Sujeenthar Tharmalingam, Shayenthiran Sreetharan, Antone L. Brooks, Douglas R. Boreham,
+Re-evaluation of the linear no-threshold (LNT) model using new paradigms and modern molecular studies,
+Chemico-Biological Interactions,
+Volume 301,
+2019,
+Pages 54-67,
+ISSN 0009-2797,
+https://doi.org/10.1016/j.cbi.2018.11.013.
+(https://www.sciencedirect.com/science/article/pii/S0009279718310858)
+Abstract: The linear no-threshold (LNT) model is currently used to estimate low dose radiation (LDR) induced health risks. This model lacks safety thresholds and postulates that health risks caused by ionizing radiation is directly proportional to dose. Therefore even the smallest radiation dose has the potential to cause an increase in cancer risk. Advances in LDR biology and cell molecular techniques demonstrate that the LNT model does not appropriately reflect the biology or the health effects at the low dose range. The main pitfall of the LNT model is due to the extrapolation of mutation and DNA damage studies that were conducted at high radiation doses delivered at a high dose-rate. These studies formed the basis of several outdated paradigms that are either incorrect or do not hold for LDR doses. Thus, the goal of this review is to summarize the modern cellular and molecular literature in LDR biology and provide new paradigms that better represent the biological effects in the low dose range. We demonstrate that LDR activates a variety of cellular defense mechanisms including DNA repair systems, programmed cell death (apoptosis), cell cycle arrest, senescence, adaptive memory, bystander effects, epigenetics, immune stimulation, and tumor suppression. The evidence presented in this review reveals that there are minimal health risks (cancer) with LDR exposure, and that a dose higher than some threshold value is necessary to achieve the harmful effects classically observed with high doses of radiation. Knowledge gained from this review can help the radiation protection community in making informed decisions regarding radiation policy and limits.
+Keywords: Low dose radiation; LNT; Adaptive response; Immune stimulation; Tumor suppression

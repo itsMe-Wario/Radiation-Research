@@ -1,0 +1,20 @@
+Source : https://www.rerf.or.jp/en/library/data-en/
+
+Title : Life Span Study Report 14. Cancer and Noncancer Disease Mortality Data, 1950-2003
+
+IMPORTANT:
+If these data are used as the basis for analyses in any publication including working papers or technical reports, a statement of acknowledgment must be included in the manuscript. This statement should read:
+
+This report makes use of data obtained from the Radiation Effects Research Foundation (RERF), Hiroshima and Nagasaki, Japan. RERF is a private, non-profit foundation funded by the Japanese Ministry of Health, Labour and Welfare and the U.S. Department of Energy, the latter through the National Academy of Sciences.The conclusions in this report are those of the authors and do not necessarily reflect the scientific judgment of RERF or its funding agencies.
+
+Please send a copy of any reprints that make use of these data to:
+
+Library and Archives Section
+Department of Information Technology
+Radiation Effects Research Foundation
+5-2 Hijiyama Park
+Minami-ku,
+Hiroshima, 732-0815 JAPAN
+E-mail: pub-info@rerf.or.jp
+
+By submitting this entry, you are agreeing to the above terms, and the download procedure will begin.
