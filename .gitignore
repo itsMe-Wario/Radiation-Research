@@ -5,3 +5,4 @@ venv
 .~lock.combined_output.csv#
 .~lock.lss14_copy.ods#
 .~lock.UNSCEAR_2020_21_Annex-D_Attach.xlsx#
+safe_hours_model.pth
