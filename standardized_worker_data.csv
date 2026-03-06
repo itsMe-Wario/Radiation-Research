@@ -1,1233 +1,1233 @@
 Sector,Country_Code,Dose_mSv,Age_at_Exposure,Person_Years,Exposure_Type,Target_Outcome
-Civil Aviation,BEL  ,1.37,30,11.0,Chronic,0
-Civil Aviation,BGR  ,7.6,43,27.0,Chronic,0
-Civil Aviation,BGR  ,3.84,60,23.0,Chronic,0
-Civil Aviation,DNK  ,1.98579519980227,42,10.0,Chronic,0
-Civil Aviation,DNK  ,10.683273099994299,28,17.0,Chronic,0
-Civil Aviation,DNK  ,10.02792061666715,25,12.0,Chronic,0
-Civil Aviation,FIN  ,1.745,23,10.0,Chronic,0
-Civil Aviation,FIN  ,10.440000000000001,35,17.0,Chronic,0
-Civil Aviation,FIN  ,11.92,49,12.0,Chronic,0
-Civil Aviation,FRA  ,10.975,40,17.0,Chronic,0
-Civil Aviation,FRA  ,9.41,23,12.0,Chronic,0
-Civil Aviation,DEU,1.3975,26,20.0,Chronic,0
-Civil Aviation,DEU,11.3245,43,17.0,Chronic,0
-Civil Aviation,DEU,10.312289999999999,22,12.0,Chronic,0
-Civil Aviation,GRC,5.127200296024,23,12.0,Chronic,0
-Civil Aviation,ISL,10.700000000000001,24,17.0,Chronic,0
-Civil Aviation,ISL,9.225,27,12.0,Chronic,0
-Civil Aviation,NLD  ,2.6,51,22.5,Chronic,0
-Civil Aviation,SVN,5.44217620436555,43,12.0,Chronic,0
-Civil Aviation,USA,13.406647097216384,23,22.0,Chronic,0
-Civil Aviation,USA,13.908544842196992,38,17.0,Chronic,0
-Civil Aviation,USA,13.386775951506669,32,12.0,Chronic,0
-Civil Aviation,POL,2.8499999999999996,57,22.0,Chronic,0
-Civil Aviation,POL,2.9,21,17.0,Chronic,0
-Civil Aviation,POL,2.4,24,12.0,Chronic,0
-Civil Aviation,AUS,2.8000000000000003,56,32.0,Chronic,0
-Civil Aviation,BRA,12.9,45,12.0,Chronic,0
-Civil Aviation,FIN,28.35,55,27.0,Chronic,0
-Civil Aviation,FIN,10.59,40,23.0,Chronic,0
-Civil Aviation,DEU,11.55,20,32.0,Chronic,0
-Civil Aviation,DEU,8.7,28,27.0,Chronic,0
-Civil Aviation,DEU,5.07,41,23.0,Chronic,0
-Civil Aviation,IND  ,3.08,43,11.5,Chronic,0
+Civil Aviation,BEL  ,1.37,42,11.0,Chronic,0
+Civil Aviation,BGR  ,7.6,23,27.0,Chronic,0
+Civil Aviation,BGR  ,3.84,54,23.0,Chronic,0
+Civil Aviation,DNK  ,1.98579519980227,37,10.0,Chronic,0
+Civil Aviation,DNK  ,10.683273099994299,35,17.0,Chronic,0
+Civil Aviation,DNK  ,10.02792061666715,50,12.0,Chronic,0
+Civil Aviation,FIN  ,1.745,48,10.0,Chronic,0
+Civil Aviation,FIN  ,10.440000000000001,33,17.0,Chronic,0
+Civil Aviation,FIN  ,11.92,25,12.0,Chronic,0
+Civil Aviation,FRA  ,10.975,59,17.0,Chronic,0
+Civil Aviation,FRA  ,9.41,28,12.0,Chronic,0
+Civil Aviation,DEU,1.3975,20,20.0,Chronic,0
+Civil Aviation,DEU,11.3245,26,17.0,Chronic,0
+Civil Aviation,DEU,10.312289999999999,25,12.0,Chronic,0
+Civil Aviation,GRC,5.127200296024,48,12.0,Chronic,0
+Civil Aviation,ISL,10.700000000000001,38,17.0,Chronic,0
+Civil Aviation,ISL,9.225,22,12.0,Chronic,0
+Civil Aviation,NLD  ,2.6,50,22.5,Chronic,0
+Civil Aviation,SVN,5.44217620436555,22,12.0,Chronic,0
+Civil Aviation,USA,13.406647097216384,29,22.0,Chronic,0
+Civil Aviation,USA,13.908544842196992,23,17.0,Chronic,0
+Civil Aviation,USA,13.386775951506669,60,12.0,Chronic,0
+Civil Aviation,POL,2.8499999999999996,47,22.0,Chronic,0
+Civil Aviation,POL,2.9,40,17.0,Chronic,0
+Civil Aviation,POL,2.4,33,12.0,Chronic,0
+Civil Aviation,AUS,2.8000000000000003,45,32.0,Chronic,0
+Civil Aviation,BRA,12.9,57,12.0,Chronic,0
+Civil Aviation,FIN,28.35,53,27.0,Chronic,0
+Civil Aviation,FIN,10.59,51,23.0,Chronic,0
+Civil Aviation,DEU,11.55,43,32.0,Chronic,0
+Civil Aviation,DEU,8.7,51,27.0,Chronic,0
+Civil Aviation,DEU,5.07,27,23.0,Chronic,0
+Civil Aviation,IND  ,3.08,54,11.5,Chronic,0
 Civil Aviation,IND  ,0.76,59,8.5,Chronic,0
-Civil Aviation,SVN,173.5,48,32.0,Chronic,0
-Civil Aviation,SVN,4.71,54,23.0,Chronic,0
-Civil Aviation,SVN,1.3,47,17.0,Chronic,0
-Civil Aviation,USA,10.526315789473683,56,27.0,Chronic,0
-Civil Aviation,USA,12.790090090090091,25,22.0,Chronic,0
-Civil Aviation,USA,14.492592592592592,57,17.0,Chronic,0
-Civil Aviation,USA,12.593356807511737,51,12.0,Chronic,0
-Civil Aviation,TWN  ,0.05,31,27.0,Chronic,0
-Civil Aviation,TWN  ,0.03,34,23.0,Chronic,0
-Civil Aviation,MMR  ,3.3000000000000003,60,32.0,Chronic,0
-Civil Aviation,GBR,1.05,33,32.0,Chronic,0
-Civil Aviation,USA,6.2749999999999995,31,27.0,Chronic,0
-Civil Aviation,BRA  ,7.0025134440028,31,12.0,Chronic,0
-Civil Aviation,NLD  ,3.4000000000000004,53,27.0,Chronic,0
-Civil Aviation,NLD  ,1.92,26,23.0,Chronic,0
-Civil Aviation,ZAF,5.45,50,32.0,Chronic,0
-Civil Aviation,ZAF,3.4000000000000004,24,27.0,Chronic,0
-Civil Aviation,ZAF,3.180212014134276,42,22.0,Chronic,0
-Civil Aviation,ZAF,7.0025134440028,58,12.0,Chronic,0
-Civil Aviation,FIN,2.04,53,23.0,Chronic,0
-Civil Aviation,FIN,17.61,47,17.0,Chronic,0
-Civil Aviation,FIN,29.8,36,12.0,Chronic,0
-Civil Aviation,DEU,10.3,22,27.0,Chronic,0
-Civil Aviation,DEU,1.2405630630630626,46,10.0,Chronic,0
-Civil Aviation,DEU,13.6737691300055,43,17.0,Chronic,0
-Civil Aviation,DEU,14.22205197287705,32,12.0,Chronic,0
-Civil Aviation,POL,2.52,25,20.5,Chronic,0
-Civil Aviation,POL,5.15,57,17.0,Chronic,0
-Civil Aviation,POL,19.0,54,12.0,Chronic,0
-Civil Aviation,SVK  ,8.73,37,23.0,Chronic,0
-Civil Aviation,SVN  ,11.94,38,23.0,Chronic,0
-Civil Aviation,SVN  ,18.022986759642702,46,17.0,Chronic,0
-Civil Aviation,SVN  ,20.025351316853648,24,12.0,Chronic,0
-Civil Aviation,GBR,10.377358490566039,41,27.0,Chronic,0
-Civil Aviation,GBR,26.34509644231493,20,22.0,Chronic,0
-Civil Aviation,GBR,14.845249783339678,33,17.0,Chronic,0
-Civil Aviation,GBR,17.554708528976576,33,12.0,Chronic,0
-Uranium Mining,ARG,6.8,40,31.5,Chronic,0
-Uranium Mining,ARG,1.4000000000000001,25,27.0,Chronic,0
-Uranium Mining,AUS,20.55,32,37.0,Chronic,0
-Uranium Mining,AUS,5.32,46,31.5,Chronic,0
-Uranium Mining,AUS,10.2,59,21.5,Chronic,0
-Uranium Mining,AUS,7.829611463903749,54,12.0,Chronic,0
-Uranium Mining,CAN,33.1,24,47.0,Chronic,0
-Uranium Mining,CAN,28.5,22,42.0,Chronic,0
-Uranium Mining,CAN,24.0,53,37.0,Chronic,0
-Uranium Mining,CAN,17.9,40,32.0,Chronic,0
-Uranium Mining,CAN,8.14679986324255,24,27.0,Chronic,0
-Uranium Mining,CAN,2.486009947841514,46,23.0,Chronic,0
-Uranium Mining,CAN,4.9275,44,22.0,Chronic,0
-Uranium Mining,CAN,3.148937371913265,20,12.0,Chronic,0
-Uranium Mining,CZE,76.0,57,32.0,Chronic,0
-Uranium Mining,CZE,23.16,26,23.0,Chronic,0
-Uranium Mining,CZE,39.97256515775034,45,22.0,Chronic,0
-Uranium Mining,CZE,41.302625820568935,30,17.0,Chronic,0
-Uranium Mining,CZE,35.9269341662662,22,12.0,Chronic,0
-Uranium Mining,FRA,26.6,20,40.5,Chronic,0
-Uranium Mining,FRA,37.8,24,37.0,Chronic,0
-Uranium Mining,FRA,42.400000000000006,41,32.0,Chronic,0
-Uranium Mining,FRA,1.25,21,12.0,Chronic,0
-Uranium Mining,DEU,54.5,29,47.0,Chronic,0
-Uranium Mining,DEU,48.449999999999996,46,42.0,Chronic,0
-Uranium Mining,DEU,41.2,45,37.0,Chronic,0
-Uranium Mining,DEU,21.5,58,32.0,Chronic,0
-Uranium Mining,DEU,8.65,33,27.0,Chronic,0
-Uranium Mining,DEU,2.37,44,23.0,Chronic,0
-Uranium Mining,IND  ,17.5625,23,12.0,Chronic,0
-Uranium Mining,ROU  ,37.3531589123309,44,27.0,Chronic,0
-Uranium Mining,ROU  ,15.75528824049513,49,23.0,Chronic,0
-Uranium Mining,RUS,11.05,32,32.0,Chronic,0
-Uranium Mining,RUS,16.8,60,12.0,Chronic,0
-Uranium Mining,SVN,12.3,22,32.0,Chronic,0
-Uranium Mining,SVN,3.4499999999999997,36,23.0,Chronic,0
-Uranium Mining,ESP,3.4000000000000004,27,37.0,Chronic,0
-Uranium Mining,ESP,1.3,20,32.0,Chronic,0
-Uranium Mining,USA,16.45,31,42.0,Chronic,0
-Uranium Mining,USA,17.3,54,37.0,Chronic,0
-Uranium Mining,UZB  ,25.35,42,32.0,Chronic,0
-Uranium Mining,UZB  ,23.051381341113036,51,27.0,Chronic,0
-Uranium Mining,UZB  ,13.965507050361403,60,12.0,Chronic,0
-Uranium Mining,UZB  ,22.5,20,32.0,Chronic,0
-Uranium Mining,UZB  ,19.577723085215,38,27.0,Chronic,0
-Nuclear Reactors,ARM,2.6202625570776257,25,10.0,Chronic,0
-Nuclear Reactors,ARM,2.428813847900113,58,10.0,Chronic,0
-Nuclear Reactors,ARM,1.97,49,10.0,Chronic,0
-Nuclear Reactors,BEL,0.7055156634647876,32,10.0,Chronic,0
-Nuclear Reactors,BEL,0.5334153544129318,59,10.0,Chronic,0
-Nuclear Reactors,BEL,0.4407699358386801,59,10.0,Chronic,0
-Nuclear Reactors,BRA,11.950000000000001,41,32.0,Chronic,0
-Nuclear Reactors,BRA,2.36,55,10.0,Chronic,0
-Nuclear Reactors,BRA,1.2726640115858072,34,10.0,Chronic,0
-Nuclear Reactors,BRA,1.159651145923992,22,10.0,Chronic,0
-Nuclear Reactors,BRA,0.9431740196078432,38,10.0,Chronic,0
-Nuclear Reactors,BGR  ,2.615621946271159,23,10.0,Chronic,0
-Nuclear Reactors,BGR  ,1.8895,25,10.0,Chronic,0
-Nuclear Reactors,BGR  ,1.2662390476190475,54,10.0,Chronic,0
-Nuclear Reactors,BGR  ,0.7676853625170998,40,10.0,Chronic,0
-Nuclear Reactors,CHN,2.7600000000000002,43,31.0,Chronic,0
-Nuclear Reactors,CHN,2.38,31,10.0,Chronic,0
-Nuclear Reactors,CHN,1.14,57,10.0,Chronic,0
-Nuclear Reactors,CHN,0.9741005889525283,50,20.5,Chronic,0
-Nuclear Reactors,CHN,0.661217931967187,43,10.0,Chronic,0
-Nuclear Reactors,CHN,0.5213595967867485,47,10.0,Chronic,0
-Nuclear Reactors,CHN,0.4969992055017497,37,10.0,Chronic,0
-Nuclear Reactors,TWN  ,7.45,53,32.0,Chronic,0
-Nuclear Reactors,TWN  ,1.9462931625861022,37,10.0,Chronic,0
-Nuclear Reactors,TWN  ,2.1260280301020065,22,10.0,Chronic,0
-Nuclear Reactors,CZE,3.51,30,48.0,Chronic,0
-Nuclear Reactors,CZE,23.0,36,39.5,Chronic,0
-Nuclear Reactors,CZE,8.2,22,37.0,Chronic,0
-Nuclear Reactors,CZE,5.550000000000001,26,32.0,Chronic,0
+Civil Aviation,SVN,173.5,39,32.0,Chronic,0
+Civil Aviation,SVN,4.71,57,23.0,Chronic,0
+Civil Aviation,SVN,1.3,36,17.0,Chronic,0
+Civil Aviation,USA,10.526315789473683,52,27.0,Chronic,0
+Civil Aviation,USA,12.790090090090091,60,22.0,Chronic,0
+Civil Aviation,USA,14.492592592592592,33,17.0,Chronic,0
+Civil Aviation,USA,12.593356807511737,33,12.0,Chronic,0
+Civil Aviation,TWN  ,0.05,36,27.0,Chronic,0
+Civil Aviation,TWN  ,0.03,21,23.0,Chronic,0
+Civil Aviation,MMR  ,3.3000000000000003,34,32.0,Chronic,0
+Civil Aviation,GBR,1.05,42,32.0,Chronic,0
+Civil Aviation,USA,6.2749999999999995,40,27.0,Chronic,0
+Civil Aviation,BRA  ,7.0025134440028,27,12.0,Chronic,0
+Civil Aviation,NLD  ,3.4000000000000004,58,27.0,Chronic,0
+Civil Aviation,NLD  ,1.92,50,23.0,Chronic,0
+Civil Aviation,ZAF,5.45,59,32.0,Chronic,0
+Civil Aviation,ZAF,3.4000000000000004,39,27.0,Chronic,0
+Civil Aviation,ZAF,3.180212014134276,21,22.0,Chronic,0
+Civil Aviation,ZAF,7.0025134440028,50,12.0,Chronic,0
+Civil Aviation,FIN,2.04,23,23.0,Chronic,0
+Civil Aviation,FIN,17.61,55,17.0,Chronic,0
+Civil Aviation,FIN,29.8,51,12.0,Chronic,0
+Civil Aviation,DEU,10.3,48,27.0,Chronic,0
+Civil Aviation,DEU,1.2405630630630626,55,10.0,Chronic,0
+Civil Aviation,DEU,13.6737691300055,48,17.0,Chronic,0
+Civil Aviation,DEU,14.22205197287705,21,12.0,Chronic,0
+Civil Aviation,POL,2.52,56,20.5,Chronic,0
+Civil Aviation,POL,5.15,31,17.0,Chronic,0
+Civil Aviation,POL,19.0,57,12.0,Chronic,0
+Civil Aviation,SVK  ,8.73,57,23.0,Chronic,0
+Civil Aviation,SVN  ,11.94,29,23.0,Chronic,0
+Civil Aviation,SVN  ,18.022986759642702,36,17.0,Chronic,0
+Civil Aviation,SVN  ,20.025351316853648,36,12.0,Chronic,0
+Civil Aviation,GBR,10.377358490566039,32,27.0,Chronic,0
+Civil Aviation,GBR,26.34509644231493,32,22.0,Chronic,0
+Civil Aviation,GBR,14.845249783339678,49,17.0,Chronic,0
+Civil Aviation,GBR,17.554708528976576,30,12.0,Chronic,0
+Uranium Mining,ARG,6.8,47,31.5,Chronic,0
+Uranium Mining,ARG,1.4000000000000001,38,27.0,Chronic,0
+Uranium Mining,AUS,20.55,24,37.0,Chronic,0
+Uranium Mining,AUS,5.32,58,31.5,Chronic,0
+Uranium Mining,AUS,10.2,37,21.5,Chronic,0
+Uranium Mining,AUS,7.829611463903749,41,12.0,Chronic,0
+Uranium Mining,CAN,33.1,33,47.0,Chronic,0
+Uranium Mining,CAN,28.5,29,42.0,Chronic,0
+Uranium Mining,CAN,24.0,38,37.0,Chronic,0
+Uranium Mining,CAN,17.9,56,32.0,Chronic,0
+Uranium Mining,CAN,8.14679986324255,27,27.0,Chronic,0
+Uranium Mining,CAN,2.486009947841514,36,23.0,Chronic,0
+Uranium Mining,CAN,4.9275,60,22.0,Chronic,0
+Uranium Mining,CAN,3.148937371913265,50,12.0,Chronic,0
+Uranium Mining,CZE,76.0,30,32.0,Chronic,0
+Uranium Mining,CZE,23.16,36,23.0,Chronic,0
+Uranium Mining,CZE,39.97256515775034,27,22.0,Chronic,0
+Uranium Mining,CZE,41.302625820568935,27,17.0,Chronic,0
+Uranium Mining,CZE,35.9269341662662,49,12.0,Chronic,0
+Uranium Mining,FRA,26.6,37,40.5,Chronic,0
+Uranium Mining,FRA,37.8,23,37.0,Chronic,0
+Uranium Mining,FRA,42.400000000000006,38,32.0,Chronic,0
+Uranium Mining,FRA,1.25,34,12.0,Chronic,0
+Uranium Mining,DEU,54.5,27,47.0,Chronic,0
+Uranium Mining,DEU,48.449999999999996,35,42.0,Chronic,0
+Uranium Mining,DEU,41.2,60,37.0,Chronic,0
+Uranium Mining,DEU,21.5,31,32.0,Chronic,0
+Uranium Mining,DEU,8.65,60,27.0,Chronic,0
+Uranium Mining,DEU,2.37,49,23.0,Chronic,0
+Uranium Mining,IND  ,17.5625,60,12.0,Chronic,0
+Uranium Mining,ROU  ,37.3531589123309,29,27.0,Chronic,0
+Uranium Mining,ROU  ,15.75528824049513,38,23.0,Chronic,0
+Uranium Mining,RUS,11.05,58,32.0,Chronic,0
+Uranium Mining,RUS,16.8,22,12.0,Chronic,0
+Uranium Mining,SVN,12.3,28,32.0,Chronic,0
+Uranium Mining,SVN,3.4499999999999997,54,23.0,Chronic,0
+Uranium Mining,ESP,3.4000000000000004,34,37.0,Chronic,0
+Uranium Mining,ESP,1.3,46,32.0,Chronic,0
+Uranium Mining,USA,16.45,52,42.0,Chronic,0
+Uranium Mining,USA,17.3,43,37.0,Chronic,0
+Uranium Mining,UZB  ,25.35,45,32.0,Chronic,0
+Uranium Mining,UZB  ,23.051381341113036,56,27.0,Chronic,0
+Uranium Mining,UZB  ,13.965507050361403,24,12.0,Chronic,0
+Uranium Mining,UZB  ,22.5,51,32.0,Chronic,0
+Uranium Mining,UZB  ,19.577723085215,40,27.0,Chronic,0
+Nuclear Reactors,ARM,2.6202625570776257,57,10.0,Chronic,0
+Nuclear Reactors,ARM,2.428813847900113,50,10.0,Chronic,0
+Nuclear Reactors,ARM,1.97,60,10.0,Chronic,0
+Nuclear Reactors,BEL,0.7055156634647876,44,10.0,Chronic,0
+Nuclear Reactors,BEL,0.5334153544129318,31,10.0,Chronic,0
+Nuclear Reactors,BEL,0.4407699358386801,48,10.0,Chronic,0
+Nuclear Reactors,BRA,11.950000000000001,60,32.0,Chronic,0
+Nuclear Reactors,BRA,2.36,31,10.0,Chronic,0
+Nuclear Reactors,BRA,1.2726640115858072,37,10.0,Chronic,0
+Nuclear Reactors,BRA,1.159651145923992,51,10.0,Chronic,0
+Nuclear Reactors,BRA,0.9431740196078432,41,10.0,Chronic,0
+Nuclear Reactors,BGR  ,2.615621946271159,45,10.0,Chronic,0
+Nuclear Reactors,BGR  ,1.8895,27,10.0,Chronic,0
+Nuclear Reactors,BGR  ,1.2662390476190475,46,10.0,Chronic,0
+Nuclear Reactors,BGR  ,0.7676853625170998,22,10.0,Chronic,0
+Nuclear Reactors,CHN,2.7600000000000002,28,31.0,Chronic,0
+Nuclear Reactors,CHN,2.38,51,10.0,Chronic,0
+Nuclear Reactors,CHN,1.14,56,10.0,Chronic,0
+Nuclear Reactors,CHN,0.9741005889525283,39,20.5,Chronic,0
+Nuclear Reactors,CHN,0.661217931967187,57,10.0,Chronic,0
+Nuclear Reactors,CHN,0.5213595967867485,41,10.0,Chronic,0
+Nuclear Reactors,CHN,0.4969992055017497,38,10.0,Chronic,0
+Nuclear Reactors,TWN  ,7.45,20,32.0,Chronic,0
+Nuclear Reactors,TWN  ,1.9462931625861022,31,10.0,Chronic,0
+Nuclear Reactors,TWN  ,2.1260280301020065,35,10.0,Chronic,0
+Nuclear Reactors,CZE,3.51,58,48.0,Chronic,0
+Nuclear Reactors,CZE,23.0,35,39.5,Chronic,0
+Nuclear Reactors,CZE,8.2,54,37.0,Chronic,0
+Nuclear Reactors,CZE,5.550000000000001,56,32.0,Chronic,0
 Nuclear Reactors,CZE,1.61,39,10.0,Chronic,0
-Nuclear Reactors,CZE,0.6415735353808687,38,10.0,Chronic,0
-Nuclear Reactors,CZE,0.41618946346629004,55,10.0,Chronic,0
-Nuclear Reactors,CZE,0.2674472035794183,31,10.0,Chronic,0
-Nuclear Reactors,FIN,5.07,36,46.0,Chronic,0
-Nuclear Reactors,FIN,12.4,36,42.0,Chronic,0
-Nuclear Reactors,FIN,13.3,30,37.0,Chronic,0
-Nuclear Reactors,FIN,15.95,43,32.0,Chronic,0
-Nuclear Reactors,FIN,2.47,58,10.0,Chronic,0
-Nuclear Reactors,FIN,2.651050561797753,32,10.0,Chronic,0
-Nuclear Reactors,FIN,1.8773548608725523,29,10.0,Chronic,0
-Nuclear Reactors,FIN,1.817071115604988,46,10.0,Chronic,0
-Nuclear Reactors,FRA,14.61,49,46.0,Chronic,0
-Nuclear Reactors,FRA,23.0,44,42.0,Chronic,0
-Nuclear Reactors,FRA,23.4,46,37.0,Chronic,0
-Nuclear Reactors,DEU,29.25,23,37.0,Chronic,0
-Nuclear Reactors,DEU,0.7673839303694091,43,10.0,Chronic,0
-Nuclear Reactors,DEU,0.7510737028550544,26,10.0,Chronic,0
-Nuclear Reactors,DEU,0.3306099216075516,20,10.0,Chronic,0
-Nuclear Reactors,HUN,2.18,23,40.5,Chronic,0
+Nuclear Reactors,CZE,0.6415735353808687,58,10.0,Chronic,0
+Nuclear Reactors,CZE,0.41618946346629004,33,10.0,Chronic,0
+Nuclear Reactors,CZE,0.2674472035794183,53,10.0,Chronic,0
+Nuclear Reactors,FIN,5.07,23,46.0,Chronic,0
+Nuclear Reactors,FIN,12.4,46,42.0,Chronic,0
+Nuclear Reactors,FIN,13.3,54,37.0,Chronic,0
+Nuclear Reactors,FIN,15.95,47,32.0,Chronic,0
+Nuclear Reactors,FIN,2.47,53,10.0,Chronic,0
+Nuclear Reactors,FIN,2.651050561797753,35,10.0,Chronic,0
+Nuclear Reactors,FIN,1.8773548608725523,22,10.0,Chronic,0
+Nuclear Reactors,FIN,1.817071115604988,51,10.0,Chronic,0
+Nuclear Reactors,FRA,14.61,31,46.0,Chronic,0
+Nuclear Reactors,FRA,23.0,53,42.0,Chronic,0
+Nuclear Reactors,FRA,23.4,36,37.0,Chronic,0
+Nuclear Reactors,DEU,29.25,56,37.0,Chronic,0
+Nuclear Reactors,DEU,0.7673839303694091,50,10.0,Chronic,0
+Nuclear Reactors,DEU,0.7510737028550544,55,10.0,Chronic,0
+Nuclear Reactors,DEU,0.3306099216075516,50,10.0,Chronic,0
+Nuclear Reactors,HUN,2.18,27,40.5,Chronic,0
 Nuclear Reactors,HUN,8.6,59,37.0,Chronic,0
-Nuclear Reactors,HUN,13.700000000000001,42,32.0,Chronic,0
-Nuclear Reactors,HUN,2.1388123624323097,34,10.0,Chronic,0
-Nuclear Reactors,HUN,0.6549,29,10.0,Chronic,0
-Nuclear Reactors,HUN,0.4911,21,10.0,Chronic,0
-Nuclear Reactors,HUN,0.53598,34,10.0,Chronic,0
-Nuclear Reactors,JPN,11.6,56,47.0,Chronic,0
-Nuclear Reactors,JPN,16.65,34,42.0,Chronic,0
-Nuclear Reactors,JPN,13.799999999999999,29,37.0,Chronic,0
-Nuclear Reactors,JPN,10.4,45,32.0,Chronic,0
-Nuclear Reactors,JPN,20.812047610105296,51,10.0,Chronic,0
-Nuclear Reactors,JPN,1.9816242445693064,51,10.0,Chronic,0
-Nuclear Reactors,NLD  ,10.35,59,32.0,Chronic,0
-Nuclear Reactors,NLD  ,1.49,56,10.0,Chronic,0
-Nuclear Reactors,NLD  ,0.6920576707726762,57,10.0,Chronic,0
-Nuclear Reactors,NLD  ,0.5439819318971508,50,10.0,Chronic,0
-Nuclear Reactors,NLD  ,0.5759520807061791,44,10.0,Chronic,0
-Nuclear Reactors,PAK,0.2619818652849741,42,10.0,Chronic,0
-Nuclear Reactors,PAK,0.34894584909416687,46,10.0,Chronic,0
-Nuclear Reactors,PAK,0.39443583127664344,24,10.0,Chronic,0
-Nuclear Reactors,KOR,18.85,36,27.0,Chronic,0
+Nuclear Reactors,HUN,13.700000000000001,29,32.0,Chronic,0
+Nuclear Reactors,HUN,2.1388123624323097,39,10.0,Chronic,0
+Nuclear Reactors,HUN,0.6549,20,10.0,Chronic,0
+Nuclear Reactors,HUN,0.4911,23,10.0,Chronic,0
+Nuclear Reactors,HUN,0.53598,51,10.0,Chronic,0
+Nuclear Reactors,JPN,11.6,50,47.0,Chronic,0
+Nuclear Reactors,JPN,16.65,48,42.0,Chronic,0
+Nuclear Reactors,JPN,13.799999999999999,55,37.0,Chronic,0
+Nuclear Reactors,JPN,10.4,41,32.0,Chronic,0
+Nuclear Reactors,JPN,20.812047610105296,49,10.0,Chronic,0
+Nuclear Reactors,JPN,1.9816242445693064,27,10.0,Chronic,0
+Nuclear Reactors,NLD  ,10.35,50,32.0,Chronic,0
+Nuclear Reactors,NLD  ,1.49,40,10.0,Chronic,0
+Nuclear Reactors,NLD  ,0.6920576707726762,51,10.0,Chronic,0
+Nuclear Reactors,NLD  ,0.5439819318971508,54,10.0,Chronic,0
+Nuclear Reactors,NLD  ,0.5759520807061791,48,10.0,Chronic,0
+Nuclear Reactors,PAK,0.2619818652849741,50,10.0,Chronic,0
+Nuclear Reactors,PAK,0.34894584909416687,51,10.0,Chronic,0
+Nuclear Reactors,PAK,0.39443583127664344,56,10.0,Chronic,0
+Nuclear Reactors,KOR,18.85,32,27.0,Chronic,0
 Nuclear Reactors,KOR,5.781980742778543,24,10.0,Chronic,0
-Nuclear Reactors,KOR,1.4841115359642156,59,10.0,Chronic,0
-Nuclear Reactors,RUS,2.6186579378068737,48,10.0,Chronic,0
-Nuclear Reactors,RUS,1.5929295942720765,27,10.0,Chronic,0
-Nuclear Reactors,RUS,1.6367549019607848,44,10.0,Chronic,0
-Nuclear Reactors,SVK  ,9.85,49,32.0,Chronic,0
-Nuclear Reactors,SVK  ,0.968273273542601,32,10.0,Chronic,0
-Nuclear Reactors,SVK  ,0.7052044405147853,47,10.0,Chronic,0
-Nuclear Reactors,SVK  ,0.4352434370965428,27,10.0,Chronic,0
-Nuclear Reactors,SVN  ,10.2,31,32.0,Chronic,0
-Nuclear Reactors,SVN  ,1.691,55,10.0,Chronic,0
-Nuclear Reactors,SVN  ,1.4229433760683758,24,10.0,Chronic,0
-Nuclear Reactors,SVN  ,0.8272018927444794,57,10.0,Chronic,0
+Nuclear Reactors,KOR,1.4841115359642156,47,10.0,Chronic,0
+Nuclear Reactors,RUS,2.6186579378068737,49,10.0,Chronic,0
+Nuclear Reactors,RUS,1.5929295942720765,51,10.0,Chronic,0
+Nuclear Reactors,RUS,1.6367549019607848,41,10.0,Chronic,0
+Nuclear Reactors,SVK  ,9.85,55,32.0,Chronic,0
+Nuclear Reactors,SVK  ,0.968273273542601,20,10.0,Chronic,0
+Nuclear Reactors,SVK  ,0.7052044405147853,45,10.0,Chronic,0
+Nuclear Reactors,SVK  ,0.4352434370965428,26,10.0,Chronic,0
+Nuclear Reactors,SVN  ,10.2,44,32.0,Chronic,0
+Nuclear Reactors,SVN  ,1.691,40,10.0,Chronic,0
+Nuclear Reactors,SVN  ,1.4229433760683758,35,10.0,Chronic,0
+Nuclear Reactors,SVN  ,0.8272018927444794,42,10.0,Chronic,0
 Nuclear Reactors,SVN  ,0.7552865779927449,26,10.0,Chronic,0
-Nuclear Reactors,ZAF,1.45,23,40.0,Chronic,0
-Nuclear Reactors,ZAF,13.75,41,37.0,Chronic,0
-Nuclear Reactors,ZAF,13.5,55,32.0,Chronic,0
-Nuclear Reactors,ZAF,1.6784835976537043,60,10.0,Chronic,0
-Nuclear Reactors,ZAF,1.56784770711455,20,10.0,Chronic,0
-Nuclear Reactors,ZAF,1.0973961792131,33,10.0,Chronic,0
-Nuclear Reactors,ESP,23.25,58,37.0,Chronic,0
-Nuclear Reactors,ESP,12.3,52,32.0,Chronic,0
-Nuclear Reactors,ESP,1.5899728666532182,46,10.0,Chronic,0
-Nuclear Reactors,ESP,1.3919972441319017,55,10.0,Chronic,0
-Nuclear Reactors,ESP,0.8969788150807898,44,10.0,Chronic,0
-Nuclear Reactors,SWE,12.3,34,47.0,Chronic,0
-Nuclear Reactors,SWE,18.400000000000002,43,42.0,Chronic,0
-Nuclear Reactors,SWE,13.25,58,37.0,Chronic,0
-Nuclear Reactors,SWE,0.968549198510271,48,10.0,Chronic,0
-Nuclear Reactors,SWE,0.7277247438481312,46,10.0,Chronic,0
-Nuclear Reactors,SWE,0.7393396293911424,50,10.0,Chronic,0
-Nuclear Reactors,SWE,1.1398414054727908,39,10.0,Chronic,0
-Nuclear Reactors,CHE,1.6105339569927586,38,10.0,Chronic,0
-Nuclear Reactors,USA,32.35,52,47.0,Chronic,0
-Nuclear Reactors,USA,27.05,27,42.0,Chronic,0
-Nuclear Reactors,USA,18.35,59,37.0,Chronic,0
-Nuclear Reactors,USA,1.55,27,32.0,Chronic,0
-Nuclear Reactors,USA,2.5878120435086687,33,10.0,Chronic,0
-Nuclear Reactors,USA,1.47,35,10.0,Chronic,0
-Nuclear Reactors,USA,1.15,54,10.0,Chronic,0
-Nuclear Reactors,USA,0.5303090676390759,49,10.0,Chronic,0
-Nuclear Reactors,USA,13.049999999999999,59,32.0,Chronic,0
-Nuclear Reactors,USA,21.482134501057637,52,27.0,Chronic,0
-Nuclear Reactors,USA,6.6923816343264395,53,22.0,Chronic,0
-Nuclear Reactors,USA,4.910989752529348,57,17.0,Chronic,0
-Nuclear Reactors,USA,3.808324901428957,28,12.0,Chronic,0
-Nuclear Reactors,USA,12.549999999999999,42,32.0,Chronic,0
-Nuclear Reactors,USA,3.2765148746029276,59,10.0,Chronic,0
-Nuclear Reactors,USA,1.338476326865288,32,10.0,Chronic,0
-Nuclear Reactors,USA,0.9821979505058697,42,10.0,Chronic,0
-Nuclear Reactors,USA,0.7616649802857914,25,10.0,Chronic,0
-Nuclear Reactors,TWN  ,13.799999999999999,60,32.0,Chronic,0
-Nuclear Reactors,TWN  ,3.2098194136699028,41,10.0,Chronic,0
-Nuclear Reactors,TWN  ,2.8337877351390195,44,10.0,Chronic,0
-Nuclear Reactors,FIN,0.8,45,45.5,Chronic,0
-Nuclear Reactors,FIN,4.95,47,42.0,Chronic,0
-Nuclear Reactors,FIN,7.95,25,37.0,Chronic,0
-Nuclear Reactors,FIN,7.95,56,32.0,Chronic,0
-Nuclear Reactors,FIN,1.3037396327507202,32,10.0,Chronic,0
-Nuclear Reactors,FIN,0.69546,27,10.0,Chronic,0
-Nuclear Reactors,FIN,0.5665,47,10.0,Chronic,0
-Nuclear Reactors,FIN,0.2835,28,10.0,Chronic,0
-Nuclear Reactors,DEU,,60,47.0,Chronic,0
-Nuclear Reactors,DEU,,37,42.0,Chronic,0
-Nuclear Reactors,DEU,,35,37.0,Chronic,0
-Nuclear Reactors,DEU,,51,32.0,Chronic,0
-Nuclear Reactors,DEU,0.6870713953886404,58,10.0,Chronic,0
-Nuclear Reactors,DEU,0.6728966560877697,25,10.0,Chronic,0
-Nuclear Reactors,DEU,0.6117773423583898,42,10.0,Chronic,0
-Nuclear Reactors,IND  ,57.5,22,42.0,Chronic,0
-Nuclear Reactors,IND  ,45.300000000000004,36,37.0,Chronic,0
-Nuclear Reactors,JPN,20.6,53,47.0,Chronic,0
-Nuclear Reactors,JPN,24.15,40,42.0,Chronic,0
-Nuclear Reactors,JPN,15.35,37,37.0,Chronic,0
-Nuclear Reactors,JPN,10.75,46,32.0,Chronic,0
-Nuclear Reactors,JPN,,45,10.0,Chronic,0
-Nuclear Reactors,MEX,2.3270440251572326,25,10.0,Chronic,0
-Nuclear Reactors,MEX,2.0517628826036423,36,10.0,Chronic,0
-Nuclear Reactors,MEX,3.1022067363530774,43,10.0,Chronic,0
-Nuclear Reactors,ESP,24.5,55,37.0,Chronic,0
-Nuclear Reactors,ESP,15.049999999999999,38,32.0,Chronic,0
+Nuclear Reactors,ZAF,1.45,52,40.0,Chronic,0
+Nuclear Reactors,ZAF,13.75,51,37.0,Chronic,0
+Nuclear Reactors,ZAF,13.5,47,32.0,Chronic,0
+Nuclear Reactors,ZAF,1.6784835976537043,39,10.0,Chronic,0
+Nuclear Reactors,ZAF,1.56784770711455,22,10.0,Chronic,0
+Nuclear Reactors,ZAF,1.0973961792131,54,10.0,Chronic,0
+Nuclear Reactors,ESP,23.25,28,37.0,Chronic,0
+Nuclear Reactors,ESP,12.3,29,32.0,Chronic,0
+Nuclear Reactors,ESP,1.5899728666532182,58,10.0,Chronic,0
+Nuclear Reactors,ESP,1.3919972441319017,52,10.0,Chronic,0
+Nuclear Reactors,ESP,0.8969788150807898,57,10.0,Chronic,0
+Nuclear Reactors,SWE,12.3,45,47.0,Chronic,0
+Nuclear Reactors,SWE,18.400000000000002,31,42.0,Chronic,0
+Nuclear Reactors,SWE,13.25,49,37.0,Chronic,0
+Nuclear Reactors,SWE,0.968549198510271,33,10.0,Chronic,0
+Nuclear Reactors,SWE,0.7277247438481312,27,10.0,Chronic,0
+Nuclear Reactors,SWE,0.7393396293911424,47,10.0,Chronic,0
+Nuclear Reactors,SWE,1.1398414054727908,40,10.0,Chronic,0
+Nuclear Reactors,CHE,1.6105339569927586,21,10.0,Chronic,0
+Nuclear Reactors,USA,32.35,54,47.0,Chronic,0
+Nuclear Reactors,USA,27.05,34,42.0,Chronic,0
+Nuclear Reactors,USA,18.35,48,37.0,Chronic,0
+Nuclear Reactors,USA,1.55,34,32.0,Chronic,0
+Nuclear Reactors,USA,2.5878120435086687,53,10.0,Chronic,0
+Nuclear Reactors,USA,1.47,42,10.0,Chronic,0
+Nuclear Reactors,USA,1.15,23,10.0,Chronic,0
+Nuclear Reactors,USA,0.5303090676390759,26,10.0,Chronic,0
+Nuclear Reactors,USA,13.049999999999999,37,32.0,Chronic,0
+Nuclear Reactors,USA,21.482134501057637,54,27.0,Chronic,0
+Nuclear Reactors,USA,6.6923816343264395,54,22.0,Chronic,0
+Nuclear Reactors,USA,4.910989752529348,51,17.0,Chronic,0
+Nuclear Reactors,USA,3.808324901428957,20,12.0,Chronic,0
+Nuclear Reactors,USA,12.549999999999999,45,32.0,Chronic,0
+Nuclear Reactors,USA,3.2765148746029276,53,10.0,Chronic,0
+Nuclear Reactors,USA,1.338476326865288,31,10.0,Chronic,0
+Nuclear Reactors,USA,0.9821979505058697,24,10.0,Chronic,0
+Nuclear Reactors,USA,0.7616649802857914,51,10.0,Chronic,0
+Nuclear Reactors,TWN  ,13.799999999999999,25,32.0,Chronic,0
+Nuclear Reactors,TWN  ,3.2098194136699028,58,10.0,Chronic,0
+Nuclear Reactors,TWN  ,2.8337877351390195,38,10.0,Chronic,0
+Nuclear Reactors,FIN,0.8,47,45.5,Chronic,0
+Nuclear Reactors,FIN,4.95,28,42.0,Chronic,0
+Nuclear Reactors,FIN,7.95,22,37.0,Chronic,0
+Nuclear Reactors,FIN,7.95,47,32.0,Chronic,0
+Nuclear Reactors,FIN,1.3037396327507202,50,10.0,Chronic,0
+Nuclear Reactors,FIN,0.69546,60,10.0,Chronic,0
+Nuclear Reactors,FIN,0.5665,25,10.0,Chronic,0
+Nuclear Reactors,FIN,0.2835,51,10.0,Chronic,0
+Nuclear Reactors,DEU,,40,47.0,Chronic,0
+Nuclear Reactors,DEU,,39,42.0,Chronic,0
+Nuclear Reactors,DEU,,46,37.0,Chronic,0
+Nuclear Reactors,DEU,,58,32.0,Chronic,0
+Nuclear Reactors,DEU,0.6870713953886404,57,10.0,Chronic,0
+Nuclear Reactors,DEU,0.6728966560877697,26,10.0,Chronic,0
+Nuclear Reactors,DEU,0.6117773423583898,50,10.0,Chronic,0
+Nuclear Reactors,IND  ,57.5,24,42.0,Chronic,0
+Nuclear Reactors,IND  ,45.300000000000004,24,37.0,Chronic,0
+Nuclear Reactors,JPN,20.6,60,47.0,Chronic,0
+Nuclear Reactors,JPN,24.15,28,42.0,Chronic,0
+Nuclear Reactors,JPN,15.35,38,37.0,Chronic,0
+Nuclear Reactors,JPN,10.75,23,32.0,Chronic,0
+Nuclear Reactors,JPN,,23,10.0,Chronic,0
+Nuclear Reactors,MEX,2.3270440251572326,41,10.0,Chronic,0
+Nuclear Reactors,MEX,2.0517628826036423,21,10.0,Chronic,0
+Nuclear Reactors,MEX,3.1022067363530774,30,10.0,Chronic,0
+Nuclear Reactors,ESP,24.5,50,37.0,Chronic,0
+Nuclear Reactors,ESP,15.049999999999999,34,32.0,Chronic,0
 Nuclear Reactors,ESP,2.3034467,31,10.0,Chronic,0
-Nuclear Reactors,ESP,3.16739,25,10.0,Chronic,0
-Nuclear Reactors,ESP,2.4818,60,10.0,Chronic,0
-Nuclear Reactors,SWE,14.299999999999999,39,47.0,Chronic,0
-Nuclear Reactors,SWE,13.149999999999999,41,42.0,Chronic,0
-Nuclear Reactors,SWE,14.399999999999999,49,37.0,Chronic,0
-Nuclear Reactors,SWE,2.649216387527428,26,10.0,Chronic,0
-Nuclear Reactors,CHE,1.4072067325459705,36,10.0,Chronic,0
-Nuclear Reactors,USA,39.2,53,47.0,Chronic,0
-Nuclear Reactors,USA,38.15,38,42.0,Chronic,0
-Nuclear Reactors,USA,22.400000000000002,23,37.0,Chronic,0
-Nuclear Reactors,USA,16.35,43,32.0,Chronic,0
-Nuclear Reactors,USA,2.3,45,10.0,Chronic,0
-Nuclear Reactors,USA,1.81,54,10.0,Chronic,0
-Nuclear Reactors,USA,1.49,55,10.0,Chronic,0
-Nuclear Reactors,USA,1.21,60,10.0,Chronic,0
-Nuclear Reactors,USA,,41,32.0,Chronic,0
-Nuclear Reactors,USA,3.636453618093168,53,10.0,Chronic,0
-Nuclear Reactors,USA,7.9027575738523606,53,22.0,Chronic,0
+Nuclear Reactors,ESP,3.16739,37,10.0,Chronic,0
+Nuclear Reactors,ESP,2.4818,43,10.0,Chronic,0
+Nuclear Reactors,SWE,14.299999999999999,45,47.0,Chronic,0
+Nuclear Reactors,SWE,13.149999999999999,47,42.0,Chronic,0
+Nuclear Reactors,SWE,14.399999999999999,20,37.0,Chronic,0
+Nuclear Reactors,SWE,2.649216387527428,28,10.0,Chronic,0
+Nuclear Reactors,CHE,1.4072067325459705,55,10.0,Chronic,0
+Nuclear Reactors,USA,39.2,32,47.0,Chronic,0
+Nuclear Reactors,USA,38.15,58,42.0,Chronic,0
+Nuclear Reactors,USA,22.400000000000002,35,37.0,Chronic,0
+Nuclear Reactors,USA,16.35,22,32.0,Chronic,0
+Nuclear Reactors,USA,2.3,33,10.0,Chronic,0
+Nuclear Reactors,USA,1.81,50,10.0,Chronic,0
+Nuclear Reactors,USA,1.49,57,10.0,Chronic,0
+Nuclear Reactors,USA,1.21,56,10.0,Chronic,0
+Nuclear Reactors,USA,,26,32.0,Chronic,0
+Nuclear Reactors,USA,3.636453618093168,43,10.0,Chronic,0
+Nuclear Reactors,USA,7.9027575738523606,44,22.0,Chronic,0
 Nuclear Reactors,USA,6.622574397622085,39,17.0,Chronic,0
-Nuclear Reactors,USA,5.860468903231215,57,12.0,Chronic,0
-Nuclear Reactors,USA,14.299999999999999,25,32.0,Chronic,0
-Nuclear Reactors,USA,2.645778574853176,21,10.0,Chronic,0
-Nuclear Reactors,USA,1.580551514770472,20,10.0,Chronic,0
-Nuclear Reactors,USA,1.324514879524417,50,10.0,Chronic,0
-Nuclear Reactors,USA,1.172093780646243,32,10.0,Chronic,0
-Nuclear Reactors,ARG,47.699999999999996,41,32.0,Chronic,0
-Nuclear Reactors,ARG,7.248958213802737,37,10.0,Chronic,0
-Nuclear Reactors,ARG,7.416137401829602,35,10.0,Chronic,0
-Nuclear Reactors,ARG,5.20516936623699,49,10.0,Chronic,0
-Nuclear Reactors,ARG,3.0825897267527,58,10.0,Chronic,0
-Nuclear Reactors,CAN,45.75,47,47.0,Chronic,0
-Nuclear Reactors,CAN,28.35,52,42.0,Chronic,0
-Nuclear Reactors,CAN,18.05,32,37.0,Chronic,0
-Nuclear Reactors,CAN,15.75,25,32.0,Chronic,0
-Nuclear Reactors,CAN,2.9826330104710266,31,10.0,Chronic,0
-Nuclear Reactors,CAN,2.5743502343417126,54,10.0,Chronic,0
-Nuclear Reactors,CAN,2.753322488816592,26,10.0,Chronic,0
-Nuclear Reactors,CAN,2.6938248955488646,49,10.0,Chronic,0
-Nuclear Reactors,CZE,35.15,60,47.0,Chronic,0
-Nuclear Reactors,CZE,10.649999999999999,28,42.0,Chronic,0
-Nuclear Reactors,CZE,14.15,60,37.0,Chronic,0
-Nuclear Reactors,CZE,9.087499999999999,57,12.0,Chronic,0
-Nuclear Reactors,JPN,14.8,35,32.0,Chronic,0
-Nuclear Reactors,JPN,14.206727549723135,43,10.0,Chronic,0
-Nuclear Reactors,JPN,17.254919862040982,56,10.0,Chronic,0
-Nuclear Reactors,PAK,16.15,50,32.0,Chronic,0
-Nuclear Reactors,KOR,2.149041916167665,37,10.0,Chronic,0
-Nuclear Reactors,KOR,1.9360783410138251,39,10.0,Chronic,0
-Nuclear Reactors,ROU  ,0.580079624814172,44,10.0,Chronic,0
-Nuclear Reactors,ROU  ,1.7305050790067715,29,10.0,Chronic,0
-Nuclear Reactors,ROU  ,0.9741580071174376,47,10.0,Chronic,0
-Nuclear Reactors,ROU  ,0.7008333333333334,23,10.0,Chronic,0
-Nuclear Reactors,ROU  ,22.15,28,32.0,Chronic,0
-Nuclear Reactors,ROU  ,4.707731330465234,31,10.0,Chronic,0
-Nuclear Reactors,ROU  ,17.834128824463793,57,22.0,Chronic,0
-Nuclear Reactors,ROU  ,14.232722986067674,24,17.0,Chronic,0
-Nuclear Reactors,ROU  ,10.945188036462563,21,12.0,Chronic,0
-Nuclear Reactors,ROU  ,,59,37.0,Chronic,0
-Nuclear Reactors,ROU  ,21.75,57,32.0,Chronic,0
-Nuclear Reactors,ROU  ,4.692826748531055,26,10.0,Chronic,0
-Nuclear Reactors,ROU  ,3.56682576489276,25,10.0,Chronic,0
-Nuclear Reactors,ROU  ,2.846544597213535,34,10.0,Chronic,0
-Nuclear Reactors,ROU  ,2.1890376072925126,36,10.0,Chronic,0
-Nuclear Reactors,JPN,1.23,42,45.0,Chronic,0
-Nuclear Reactors,JPN,5.25,31,42.0,Chronic,0
-Nuclear Reactors,JPN,5.949999999999999,27,37.0,Chronic,0
-Nuclear Reactors,JPN,3.9000000000000004,50,32.0,Chronic,0
-Nuclear Reactors,ESP,10.9,40,37.0,Chronic,0
-Nuclear Reactors,GBR,0.352625901270512,28,10.0,Chronic,0
-Nuclear Reactors,GBR,0.2624446941665525,50,10.0,Chronic,0
-Nuclear Reactors,GBR,0.14041071144702805,49,10.0,Chronic,0
-Nuclear Reactors,GBR,0.061032084221080335,59,10.0,Chronic,0
-Nuclear Reactors,GBR,0.36317135549872126,40,10.0,Chronic,0
-Nuclear Reactors,GBR,1.3122234708327625,29,22.0,Chronic,0
-Nuclear Reactors,GBR,0.7020535572351403,34,17.0,Chronic,0
-Nuclear Reactors,GBR,0.30516042110540165,59,12.0,Chronic,0
-Nuclear Reactors,GBR,0.36317135549872126,21,10.0,Chronic,0
+Nuclear Reactors,USA,5.860468903231215,28,12.0,Chronic,0
+Nuclear Reactors,USA,14.299999999999999,31,32.0,Chronic,0
+Nuclear Reactors,USA,2.645778574853176,40,10.0,Chronic,0
+Nuclear Reactors,USA,1.580551514770472,39,10.0,Chronic,0
+Nuclear Reactors,USA,1.324514879524417,30,10.0,Chronic,0
+Nuclear Reactors,USA,1.172093780646243,51,10.0,Chronic,0
+Nuclear Reactors,ARG,47.699999999999996,27,32.0,Chronic,0
+Nuclear Reactors,ARG,7.248958213802737,39,10.0,Chronic,0
+Nuclear Reactors,ARG,7.416137401829602,29,10.0,Chronic,0
+Nuclear Reactors,ARG,5.20516936623699,34,10.0,Chronic,0
+Nuclear Reactors,ARG,3.0825897267527,52,10.0,Chronic,0
+Nuclear Reactors,CAN,45.75,34,47.0,Chronic,0
+Nuclear Reactors,CAN,28.35,31,42.0,Chronic,0
+Nuclear Reactors,CAN,18.05,26,37.0,Chronic,0
+Nuclear Reactors,CAN,15.75,38,32.0,Chronic,0
+Nuclear Reactors,CAN,2.9826330104710266,55,10.0,Chronic,0
+Nuclear Reactors,CAN,2.5743502343417126,50,10.0,Chronic,0
+Nuclear Reactors,CAN,2.753322488816592,57,10.0,Chronic,0
+Nuclear Reactors,CAN,2.6938248955488646,33,10.0,Chronic,0
+Nuclear Reactors,CZE,35.15,54,47.0,Chronic,0
+Nuclear Reactors,CZE,10.649999999999999,43,42.0,Chronic,0
+Nuclear Reactors,CZE,14.15,46,37.0,Chronic,0
+Nuclear Reactors,CZE,9.087499999999999,38,12.0,Chronic,0
+Nuclear Reactors,JPN,14.8,41,32.0,Chronic,0
+Nuclear Reactors,JPN,14.206727549723135,54,10.0,Chronic,0
+Nuclear Reactors,JPN,17.254919862040982,32,10.0,Chronic,0
+Nuclear Reactors,PAK,16.15,23,32.0,Chronic,0
+Nuclear Reactors,KOR,2.149041916167665,52,10.0,Chronic,0
+Nuclear Reactors,KOR,1.9360783410138251,49,10.0,Chronic,0
+Nuclear Reactors,ROU  ,0.580079624814172,30,10.0,Chronic,0
+Nuclear Reactors,ROU  ,1.7305050790067715,24,10.0,Chronic,0
+Nuclear Reactors,ROU  ,0.9741580071174376,25,10.0,Chronic,0
+Nuclear Reactors,ROU  ,0.7008333333333334,58,10.0,Chronic,0
+Nuclear Reactors,ROU  ,22.15,21,32.0,Chronic,0
+Nuclear Reactors,ROU  ,4.707731330465234,47,10.0,Chronic,0
+Nuclear Reactors,ROU  ,17.834128824463793,21,22.0,Chronic,0
+Nuclear Reactors,ROU  ,14.232722986067674,22,17.0,Chronic,0
+Nuclear Reactors,ROU  ,10.945188036462563,60,12.0,Chronic,0
+Nuclear Reactors,ROU  ,,55,37.0,Chronic,0
+Nuclear Reactors,ROU  ,21.75,41,32.0,Chronic,0
+Nuclear Reactors,ROU  ,4.692826748531055,45,10.0,Chronic,0
+Nuclear Reactors,ROU  ,3.56682576489276,34,10.0,Chronic,0
+Nuclear Reactors,ROU  ,2.846544597213535,39,10.0,Chronic,0
+Nuclear Reactors,ROU  ,2.1890376072925126,38,10.0,Chronic,0
+Nuclear Reactors,JPN,1.23,54,45.0,Chronic,0
+Nuclear Reactors,JPN,5.25,25,42.0,Chronic,0
+Nuclear Reactors,JPN,5.949999999999999,25,37.0,Chronic,0
+Nuclear Reactors,JPN,3.9000000000000004,45,32.0,Chronic,0
+Nuclear Reactors,ESP,10.9,59,37.0,Chronic,0
+Nuclear Reactors,GBR,0.352625901270512,33,10.0,Chronic,0
+Nuclear Reactors,GBR,0.2624446941665525,34,10.0,Chronic,0
+Nuclear Reactors,GBR,0.14041071144702805,46,10.0,Chronic,0
+Nuclear Reactors,GBR,0.061032084221080335,47,10.0,Chronic,0
+Nuclear Reactors,GBR,0.36317135549872126,54,10.0,Chronic,0
+Nuclear Reactors,GBR,1.3122234708327625,41,22.0,Chronic,0
+Nuclear Reactors,GBR,0.7020535572351403,45,17.0,Chronic,0
+Nuclear Reactors,GBR,0.30516042110540165,43,12.0,Chronic,0
+Nuclear Reactors,GBR,0.36317135549872126,34,10.0,Chronic,0
 Nuclear Reactors,LTU,4.663374466065496,33,10.0,Chronic,0
-Nuclear Reactors,LTU,2.8923303167420813,22,10.0,Chronic,0
-Nuclear Reactors,UKR  ,0.16940848990953375,34,10.0,Chronic,0
-Nuclear Reactors,UKR  ,,50,32.0,Chronic,0
-Nuclear Reactors,UKR  ,10.351947400120459,35,22.0,Chronic,0
-Nuclear Reactors,UKR  ,14.461651583710406,35,17.0,Chronic,0
-Nuclear Reactors,UKR  ,2.5,43,10.0,Chronic,0
-Nuclear Reactors,UKR  ,2.5,35,10.0,Chronic,0
-Nuclear Reactors,UKR  ,2.5,30,10.0,Chronic,0
-Nuclear Reactors,Worldwide,,22,38.0,Chronic,0
+Nuclear Reactors,LTU,2.8923303167420813,24,10.0,Chronic,0
+Nuclear Reactors,UKR  ,0.16940848990953375,59,10.0,Chronic,0
+Nuclear Reactors,UKR  ,,21,32.0,Chronic,0
+Nuclear Reactors,UKR  ,10.351947400120459,33,22.0,Chronic,0
+Nuclear Reactors,UKR  ,14.461651583710406,44,17.0,Chronic,0
+Nuclear Reactors,UKR  ,2.5,27,10.0,Chronic,0
+Nuclear Reactors,UKR  ,2.5,41,10.0,Chronic,0
+Nuclear Reactors,UKR  ,2.5,51,10.0,Chronic,0
+Nuclear Reactors,Worldwide,,39,38.0,Chronic,0
 Nuclear Reactors,Worldwide,13.412131084706784,31,32.0,Chronic,0
-Nuclear Reactors,Worldwide,14.0674601008755,29,27.0,Chronic,0
-Nuclear Reactors,Worldwide,1.5776272504430169,43,10.0,Chronic,0
-Nuclear Reactors,Worldwide,1.2544949656799975,29,10.0,Chronic,0
-Nuclear Reactors,Worldwide,1.0680758692054384,23,10.0,Chronic,0
-Decommissioning,BGR,0.13371382235528942,54,22.0,Chronic,0
-Decommissioning,BGR,3.0617237008871996,37,17.0,Chronic,0
+Nuclear Reactors,Worldwide,14.0674601008755,31,27.0,Chronic,0
+Nuclear Reactors,Worldwide,1.5776272504430169,56,10.0,Chronic,0
+Nuclear Reactors,Worldwide,1.2544949656799975,26,10.0,Chronic,0
+Nuclear Reactors,Worldwide,1.0680758692054384,60,10.0,Chronic,0
+Decommissioning,BGR,0.13371382235528942,21,22.0,Chronic,0
+Decommissioning,BGR,3.0617237008871996,41,17.0,Chronic,0
 Decommissioning,BGR,1.3718269230769224,24,12.0,Chronic,0
-Decommissioning,DEU,3.1523782287822883,21,22.0,Chronic,0
-Decommissioning,DEU,1.922874603174603,23,17.0,Chronic,0
-Decommissioning,DEU,1.1592082139446038,32,12.0,Chronic,0
-Decommissioning,RUS,0.777071254909295,23,22.0,Chronic,0
-Decommissioning,RUS,0.25388516276787176,59,17.0,Chronic,0
-Decommissioning,RUS,0.1097717052922864,59,12.0,Chronic,0
-Decommissioning,SVK,1.2175061728395065,49,17.0,Chronic,0
-Decommissioning,SVK,0.8036144578313253,41,12.0,Chronic,0
-Decommissioning,ESP,7.737211981566822,40,17.0,Chronic,0
-Decommissioning,USA,6.053076444996891,55,22.0,Chronic,0
-Decommissioning,USA,1.3086825753569544,37,17.0,Chronic,0
-Decommissioning,USA,1.3754798624209477,60,12.0,Chronic,0
-Decommissioning,USA,2.634415292353822,59,22.0,Chronic,0
-Decommissioning,USA,0.9709976742441293,32,17.0,Chronic,0
-Decommissioning,USA,0.6379628303964757,22,12.0,Chronic,0
-Decommissioning,DEU,2.8713280100861525,21,22.0,Chronic,0
-Decommissioning,DEU,1.9731325685149774,44,17.0,Chronic,0
-Decommissioning,DEU,0.7017345372130428,24,12.0,Chronic,0
-Decommissioning,JPN,5.562127659574469,25,10.0,Chronic,0
+Decommissioning,DEU,3.1523782287822883,45,22.0,Chronic,0
+Decommissioning,DEU,1.922874603174603,54,17.0,Chronic,0
+Decommissioning,DEU,1.1592082139446038,44,12.0,Chronic,0
+Decommissioning,RUS,0.777071254909295,32,22.0,Chronic,0
+Decommissioning,RUS,0.25388516276787176,22,17.0,Chronic,0
+Decommissioning,RUS,0.1097717052922864,40,12.0,Chronic,0
+Decommissioning,SVK,1.2175061728395065,36,17.0,Chronic,0
+Decommissioning,SVK,0.8036144578313253,47,12.0,Chronic,0
+Decommissioning,ESP,7.737211981566822,43,17.0,Chronic,0
+Decommissioning,USA,6.053076444996891,58,22.0,Chronic,0
+Decommissioning,USA,1.3086825753569544,21,17.0,Chronic,0
+Decommissioning,USA,1.3754798624209477,24,12.0,Chronic,0
+Decommissioning,USA,2.634415292353822,48,22.0,Chronic,0
+Decommissioning,USA,0.9709976742441293,57,17.0,Chronic,0
+Decommissioning,USA,0.6379628303964757,34,12.0,Chronic,0
+Decommissioning,DEU,2.8713280100861525,55,22.0,Chronic,0
+Decommissioning,DEU,1.9731325685149774,51,17.0,Chronic,0
+Decommissioning,DEU,0.7017345372130428,52,12.0,Chronic,0
+Decommissioning,JPN,5.562127659574469,58,10.0,Chronic,0
 Decommissioning,ESP,0.4483838383838384,51,12.0,Chronic,0
-Decommissioning,SWE,0.49581339712918665,26,22.0,Chronic,0
-Decommissioning,SWE,1.412591343451377,33,17.0,Chronic,0
-Decommissioning,SWE,1.4942118226600987,39,12.0,Chronic,0
-Decommissioning,USA,1.9187886966185115,53,22.0,Chronic,0
-Decommissioning,USA,0.91162620813666,41,17.0,Chronic,0
-Decommissioning,USA,0.5001831107281344,54,12.0,Chronic,0
-Decommissioning,USA,1.8799564373313133,48,22.0,Chronic,0
-Decommissioning,USA,1.29434379875195,58,17.0,Chronic,0
-Decommissioning,USA,0.6242515994044983,60,12.0,Chronic,0
-Decommissioning,DEU,0.851261744966443,58,22.0,Chronic,0
-Decommissioning,JPN,0.855448017483609,24,22.0,Chronic,0
-Decommissioning,JPN,1.1325028312570782,36,17.0,Chronic,0
-Decommissioning,JPN,1.16580310880829,48,12.0,Chronic,0
-Decommissioning,GBR,0.8546580547112461,59,22.0,Chronic,0
-Decommissioning,GBR,1.1325028312570782,58,17.0,Chronic,0
-Decommissioning,GBR,1.16580310880829,21,12.0,Chronic,0
-Decommissioning,LTU,0.33662339044375866,53,17.0,Chronic,0
-Decommissioning,LTU,0.6169343940714909,43,12.0,Chronic,0
-Decommissioning,UKR,3.6156444149475506,37,22.0,Chronic,0
-Decommissioning,UKR,3.6156444149475506,29,22.0,Chronic,0
-Decommissioning,UKR,0.33662339044375866,23,17.0,Chronic,0
-Decommissioning,UKR,0.6169343940714909,28,12.0,Chronic,0
-Decommissioning,All reactors,2.904654621270972,22,22.0,Chronic,0
-Decommissioning,All reactors,0.8853846557052579,34,17.0,Chronic,0
-Decommissioning,All reactors,0.8354206952117862,20,12.0,Chronic,0
-Reprocessing,FRA,14.7,55,47.0,Chronic,0
-Reprocessing,FRA,10.5,39,42.0,Chronic,0
-Reprocessing,FRA,6.75,29,37.0,Chronic,0
-Reprocessing,FRA,1.7999999999999998,40,32.0,Chronic,0
-Reprocessing,FRA,0.17500000000000002,42,17.0,Chronic,0
-Reprocessing,FRA,0.195,40,12.0,Chronic,0
-Reprocessing,IND,18.28,45,41.5,Chronic,0
-Reprocessing,IND,16.7,56,37.0,Chronic,0
-Reprocessing,JPN,1.6,24,32.0,Chronic,0
-Reprocessing,RUS,14.1,22,32.0,Chronic,0
-Reprocessing,GBR,4.640000000000001,38,17.0,Chronic,0
-Reprocessing,GBR,2.68,52,12.0,Chronic,0
-Reprocessing,USA,20.299999999999997,53,47.0,Chronic,0
-Reprocessing,USA,12.549999999999999,58,42.0,Chronic,0
-Reprocessing,USA,7.6,24,37.0,Chronic,0
-Reprocessing,USA,1.5,49,32.0,Chronic,0
-Reprocessing,USA,1.073,33,27.0,Chronic,0
-Reprocessing,USA,0.925,31,22.0,Chronic,0
-Reprocessing,USA,0.643,51,17.0,Chronic,0
-Reprocessing,USA,0.1108,47,10.0,Chronic,0
-Nuclear Research,DZA,0.5414012738853503,29,12.0,Chronic,0
-Nuclear Research,ARG,5.0,42,47.0,Chronic,0
-Nuclear Research,ARG,4.25,25,42.0,Chronic,0
-Nuclear Research,ARG,2.7,25,37.0,Chronic,0
-Nuclear Research,ARG,3.8,28,32.0,Chronic,0
-Nuclear Research,ARG,3.5,52,27.0,Chronic,0
-Nuclear Research,ARG,0.32892857142857146,42,20.5,Chronic,0
-Nuclear Research,ARG,2.992669172932331,46,22.0,Chronic,0
-Nuclear Research,ARG,1.115625,35,17.0,Chronic,0
-Nuclear Research,ARG,0.7966101694915253,33,12.0,Chronic,0
-Nuclear Research,BEL,0.119037593984962,20,11.0,Chronic,0
-Nuclear Research,BRA,0.66145,57,12.0,Chronic,0
-Nuclear Research,CAN,14.75,34,47.0,Chronic,0
-Nuclear Research,CAN,12.15,34,42.0,Chronic,0
-Nuclear Research,CAN,7.25,38,37.0,Chronic,0
-Nuclear Research,CAN,7.3,24,32.0,Chronic,0
-Nuclear Research,CAN,5.869999999999999,30,27.0,Chronic,0
-Nuclear Research,CAN,3.33,29,23.0,Chronic,0
-Nuclear Research,CHL,12.05,32,47.0,Chronic,0
-Nuclear Research,CHL,10.0,33,42.0,Chronic,0
-Nuclear Research,CHL,6.15,38,37.0,Chronic,0
-Nuclear Research,CHL,0.59,29,27.0,Chronic,0
-Nuclear Research,CHL,0.76,36,23.0,Chronic,0
-Nuclear Research,CHN,3.95,27,32.0,Chronic,0
-Nuclear Research,CHN,2.52,45,27.0,Chronic,0
-Nuclear Research,CZE,2.5,39,27.0,Chronic,0
-Nuclear Research,CZE,1.7399999999999998,22,23.0,Chronic,0
-Nuclear Research,DNK,1.3,32,32.0,Chronic,0
-Nuclear Research,DNK,1.35,26,27.0,Chronic,0
-Nuclear Research,DNK,0.39,34,23.0,Chronic,0
-Nuclear Research,FIN,,41,47.0,Chronic,0
-Nuclear Research,FIN,,48,37.0,Chronic,0
-Nuclear Research,FRA,2.2,21,47.0,Chronic,0
-Nuclear Research,FRA,2.0,34,42.0,Chronic,0
-Nuclear Research,FRA,1.55,38,37.0,Chronic,0
-Nuclear Research,FRA,1.1500000000000001,37,32.0,Chronic,0
-Nuclear Research,FRA,0.035,38,17.0,Chronic,0
-Nuclear Research,FRA,0.2,48,12.0,Chronic,0
-Nuclear Research,GRC,0.079450980267104,45,20.5,Chronic,0
-Nuclear Research,HUN,0.18,45,46.0,Chronic,0
-Nuclear Research,HUN,0.15,59,42.0,Chronic,0
-Nuclear Research,HUN,0.35000000000000003,58,37.0,Chronic,0
-Nuclear Research,HUN,0.31899999999999995,51,27.0,Chronic,0
-Nuclear Research,HUN,0.246,25,23.0,Chronic,0
-Nuclear Research,IND,11.45,53,42.0,Chronic,0
-Nuclear Research,IND,6.4,50,37.0,Chronic,0
-Nuclear Research,IND,1.7385693132499362,53,11.5,Chronic,0
-Nuclear Research,IDN  ,13.600000000000001,28,42.0,Chronic,0
-Nuclear Research,IDN  ,4.75,51,37.0,Chronic,0
-Nuclear Research,ITA,0.55,47,37.0,Chronic,0
-Nuclear Research,JPN,0.95,34,32.0,Chronic,0
-Nuclear Research,NLD  ,0.35000000000000003,39,32.0,Chronic,0
-Nuclear Research,NLD  ,0.2,32,27.0,Chronic,0
-Nuclear Research,NLD  ,0.09,45,23.0,Chronic,0
-Nuclear Research,NOR,3.85,22,42.0,Chronic,0
-Nuclear Research,NOR,3.8,58,37.0,Chronic,0
-Nuclear Research,NOR,4.25,56,32.0,Chronic,0
-Nuclear Research,POL,5.115763546798029,47,20.5,Chronic,0
-Nuclear Research,POL,3.267910447761194,56,17.0,Chronic,0
-Nuclear Research,POL,1.9072314049586778,34,12.0,Chronic,0
-Nuclear Research,KOR,3.2,44,42.0,Chronic,0
-Nuclear Research,KOR,3.25,42,37.0,Chronic,0
-Nuclear Research,KOR,0.31,53,20.5,Chronic,0
-Nuclear Research,KOR,0.51,21,17.0,Chronic,0
-Nuclear Research,KOR,0.39,53,12.0,Chronic,0
-Nuclear Research,ROU,14.43,22,27.0,Chronic,0
-Nuclear Research,ROU,5.24,49,23.0,Chronic,0
-Nuclear Research,RUS,,55,31.0,Chronic,0
-Nuclear Research,SVK,2.38,26,23.0,Chronic,0
-Nuclear Research,SVN,5.5,55,32.0,Chronic,0
-Nuclear Research,ZAF,1.75,57,32.0,Chronic,0
-Nuclear Research,SWE,6.3,40,32.0,Chronic,0
-Nuclear Research,SWE,1.5413533834586464,21,20.5,Chronic,0
-Nuclear Research,SWE,1.2601260126012601,47,17.0,Chronic,0
-Nuclear Research,SWE,1.88911704312115,52,12.0,Chronic,0
-Nuclear Research,THA,2.3499999999999996,36,32.0,Chronic,0
-Nuclear Research,USA,5.45,40,47.0,Chronic,0
-Nuclear Research,USA,4.2,37,42.0,Chronic,0
-Nuclear Research,USA,3.0,48,37.0,Chronic,0
-Nuclear Research,USA,0.5946899089283559,28,27.0,Chronic,0
-Nuclear Research,USA,0.23692074018520282,26,23.0,Chronic,0
-Nuclear Research,USA,3.85,36,32.0,Chronic,0
-Nuclear Research,USA,1.5114428678090233,22,27.0,Chronic,0
-Nuclear Research,USA,1.6271467049905521,27,22.0,Chronic,0
-Nuclear Research,USA,2.271193987580861,39,17.0,Chronic,0
-Nuclear Research,USA,1.4689449278416389,36,12.0,Chronic,0
-Nuclear Research,USA,3.9000000000000004,43,32.0,Chronic,0
-Nuclear Research,USA,1.9500000000000002,37,27.0,Chronic,0
-Nuclear Research,USA,1.2000000000000002,30,23.0,Chronic,0
-All Medical,DZA,0.62309270403198,20,16.5,Chronic,0
+Decommissioning,SWE,0.49581339712918665,24,22.0,Chronic,0
+Decommissioning,SWE,1.412591343451377,57,17.0,Chronic,0
+Decommissioning,SWE,1.4942118226600987,23,12.0,Chronic,0
+Decommissioning,USA,1.9187886966185115,21,22.0,Chronic,0
+Decommissioning,USA,0.91162620813666,37,17.0,Chronic,0
+Decommissioning,USA,0.5001831107281344,41,12.0,Chronic,0
+Decommissioning,USA,1.8799564373313133,34,22.0,Chronic,0
+Decommissioning,USA,1.29434379875195,47,17.0,Chronic,0
+Decommissioning,USA,0.6242515994044983,24,12.0,Chronic,0
+Decommissioning,DEU,0.851261744966443,33,22.0,Chronic,0
+Decommissioning,JPN,0.855448017483609,40,22.0,Chronic,0
+Decommissioning,JPN,1.1325028312570782,51,17.0,Chronic,0
+Decommissioning,JPN,1.16580310880829,28,12.0,Chronic,0
+Decommissioning,GBR,0.8546580547112461,54,22.0,Chronic,0
+Decommissioning,GBR,1.1325028312570782,33,17.0,Chronic,0
+Decommissioning,GBR,1.16580310880829,55,12.0,Chronic,0
+Decommissioning,LTU,0.33662339044375866,25,17.0,Chronic,0
+Decommissioning,LTU,0.6169343940714909,32,12.0,Chronic,0
+Decommissioning,UKR,3.6156444149475506,39,22.0,Chronic,0
+Decommissioning,UKR,3.6156444149475506,39,22.0,Chronic,0
+Decommissioning,UKR,0.33662339044375866,29,17.0,Chronic,0
+Decommissioning,UKR,0.6169343940714909,37,12.0,Chronic,0
+Decommissioning,All reactors,2.904654621270972,59,22.0,Chronic,0
+Decommissioning,All reactors,0.8853846557052579,53,17.0,Chronic,0
+Decommissioning,All reactors,0.8354206952117862,28,12.0,Chronic,0
+Reprocessing,FRA,14.7,53,47.0,Chronic,0
+Reprocessing,FRA,10.5,43,42.0,Chronic,0
+Reprocessing,FRA,6.75,55,37.0,Chronic,0
+Reprocessing,FRA,1.7999999999999998,20,32.0,Chronic,0
+Reprocessing,FRA,0.17500000000000002,46,17.0,Chronic,0
+Reprocessing,FRA,0.195,47,12.0,Chronic,0
+Reprocessing,IND,18.28,21,41.5,Chronic,0
+Reprocessing,IND,16.7,57,37.0,Chronic,0
+Reprocessing,JPN,1.6,22,32.0,Chronic,0
+Reprocessing,RUS,14.1,20,32.0,Chronic,0
+Reprocessing,GBR,4.640000000000001,54,17.0,Chronic,0
+Reprocessing,GBR,2.68,56,12.0,Chronic,0
+Reprocessing,USA,20.299999999999997,48,47.0,Chronic,0
+Reprocessing,USA,12.549999999999999,29,42.0,Chronic,0
+Reprocessing,USA,7.6,35,37.0,Chronic,0
+Reprocessing,USA,1.5,26,32.0,Chronic,0
+Reprocessing,USA,1.073,23,27.0,Chronic,0
+Reprocessing,USA,0.925,29,22.0,Chronic,0
+Reprocessing,USA,0.643,23,17.0,Chronic,0
+Reprocessing,USA,0.1108,40,10.0,Chronic,0
+Nuclear Research,DZA,0.5414012738853503,23,12.0,Chronic,0
+Nuclear Research,ARG,5.0,25,47.0,Chronic,0
+Nuclear Research,ARG,4.25,48,42.0,Chronic,0
+Nuclear Research,ARG,2.7,20,37.0,Chronic,0
+Nuclear Research,ARG,3.8,29,32.0,Chronic,0
+Nuclear Research,ARG,3.5,28,27.0,Chronic,0
+Nuclear Research,ARG,0.32892857142857146,51,20.5,Chronic,0
+Nuclear Research,ARG,2.992669172932331,56,22.0,Chronic,0
+Nuclear Research,ARG,1.115625,53,17.0,Chronic,0
+Nuclear Research,ARG,0.7966101694915253,56,12.0,Chronic,0
+Nuclear Research,BEL,0.119037593984962,41,11.0,Chronic,0
+Nuclear Research,BRA,0.66145,48,12.0,Chronic,0
+Nuclear Research,CAN,14.75,22,47.0,Chronic,0
+Nuclear Research,CAN,12.15,21,42.0,Chronic,0
+Nuclear Research,CAN,7.25,35,37.0,Chronic,0
+Nuclear Research,CAN,7.3,43,32.0,Chronic,0
+Nuclear Research,CAN,5.869999999999999,53,27.0,Chronic,0
+Nuclear Research,CAN,3.33,41,23.0,Chronic,0
+Nuclear Research,CHL,12.05,53,47.0,Chronic,0
+Nuclear Research,CHL,10.0,58,42.0,Chronic,0
+Nuclear Research,CHL,6.15,29,37.0,Chronic,0
+Nuclear Research,CHL,0.59,39,27.0,Chronic,0
+Nuclear Research,CHL,0.76,26,23.0,Chronic,0
+Nuclear Research,CHN,3.95,33,32.0,Chronic,0
+Nuclear Research,CHN,2.52,47,27.0,Chronic,0
+Nuclear Research,CZE,2.5,28,27.0,Chronic,0
+Nuclear Research,CZE,1.7399999999999998,53,23.0,Chronic,0
+Nuclear Research,DNK,1.3,56,32.0,Chronic,0
+Nuclear Research,DNK,1.35,25,27.0,Chronic,0
+Nuclear Research,DNK,0.39,26,23.0,Chronic,0
+Nuclear Research,FIN,,28,47.0,Chronic,0
+Nuclear Research,FIN,,43,37.0,Chronic,0
+Nuclear Research,FRA,2.2,40,47.0,Chronic,0
+Nuclear Research,FRA,2.0,22,42.0,Chronic,0
+Nuclear Research,FRA,1.55,35,37.0,Chronic,0
+Nuclear Research,FRA,1.1500000000000001,54,32.0,Chronic,0
+Nuclear Research,FRA,0.035,42,17.0,Chronic,0
+Nuclear Research,FRA,0.2,34,12.0,Chronic,0
+Nuclear Research,GRC,0.079450980267104,34,20.5,Chronic,0
+Nuclear Research,HUN,0.18,37,46.0,Chronic,0
+Nuclear Research,HUN,0.15,26,42.0,Chronic,0
+Nuclear Research,HUN,0.35000000000000003,47,37.0,Chronic,0
+Nuclear Research,HUN,0.31899999999999995,25,27.0,Chronic,0
+Nuclear Research,HUN,0.246,20,23.0,Chronic,0
+Nuclear Research,IND,11.45,31,42.0,Chronic,0
+Nuclear Research,IND,6.4,43,37.0,Chronic,0
+Nuclear Research,IND,1.7385693132499362,24,11.5,Chronic,0
+Nuclear Research,IDN  ,13.600000000000001,52,42.0,Chronic,0
+Nuclear Research,IDN  ,4.75,24,37.0,Chronic,0
+Nuclear Research,ITA,0.55,34,37.0,Chronic,0
+Nuclear Research,JPN,0.95,59,32.0,Chronic,0
+Nuclear Research,NLD  ,0.35000000000000003,44,32.0,Chronic,0
+Nuclear Research,NLD  ,0.2,55,27.0,Chronic,0
+Nuclear Research,NLD  ,0.09,40,23.0,Chronic,0
+Nuclear Research,NOR,3.85,23,42.0,Chronic,0
+Nuclear Research,NOR,3.8,32,37.0,Chronic,0
+Nuclear Research,NOR,4.25,57,32.0,Chronic,0
+Nuclear Research,POL,5.115763546798029,49,20.5,Chronic,0
+Nuclear Research,POL,3.267910447761194,55,17.0,Chronic,0
+Nuclear Research,POL,1.9072314049586778,39,12.0,Chronic,0
+Nuclear Research,KOR,3.2,45,42.0,Chronic,0
+Nuclear Research,KOR,3.25,57,37.0,Chronic,0
+Nuclear Research,KOR,0.31,32,20.5,Chronic,0
+Nuclear Research,KOR,0.51,57,17.0,Chronic,0
+Nuclear Research,KOR,0.39,43,12.0,Chronic,0
+Nuclear Research,ROU,14.43,48,27.0,Chronic,0
+Nuclear Research,ROU,5.24,57,23.0,Chronic,0
+Nuclear Research,RUS,,25,31.0,Chronic,0
+Nuclear Research,SVK,2.38,35,23.0,Chronic,0
+Nuclear Research,SVN,5.5,52,32.0,Chronic,0
+Nuclear Research,ZAF,1.75,49,32.0,Chronic,0
+Nuclear Research,SWE,6.3,41,32.0,Chronic,0
+Nuclear Research,SWE,1.5413533834586464,36,20.5,Chronic,0
+Nuclear Research,SWE,1.2601260126012601,21,17.0,Chronic,0
+Nuclear Research,SWE,1.88911704312115,46,12.0,Chronic,0
+Nuclear Research,THA,2.3499999999999996,31,32.0,Chronic,0
+Nuclear Research,USA,5.45,25,47.0,Chronic,0
+Nuclear Research,USA,4.2,25,42.0,Chronic,0
+Nuclear Research,USA,3.0,44,37.0,Chronic,0
+Nuclear Research,USA,0.5946899089283559,58,27.0,Chronic,0
+Nuclear Research,USA,0.23692074018520282,31,23.0,Chronic,0
+Nuclear Research,USA,3.85,57,32.0,Chronic,0
+Nuclear Research,USA,1.5114428678090233,60,27.0,Chronic,0
+Nuclear Research,USA,1.6271467049905521,22,22.0,Chronic,0
+Nuclear Research,USA,2.271193987580861,25,17.0,Chronic,0
+Nuclear Research,USA,1.4689449278416389,48,12.0,Chronic,0
+Nuclear Research,USA,3.9000000000000004,57,32.0,Chronic,0
+Nuclear Research,USA,1.9500000000000002,35,27.0,Chronic,0
+Nuclear Research,USA,1.2000000000000002,25,23.0,Chronic,0
+All Medical,DZA,0.62309270403198,53,16.5,Chronic,0
 All Medical,DZA,0.645557252572655,22,12.0,Chronic,0
-All Medical,ARG,5.4,44,37.0,Chronic,0
-All Medical,ARG,1.76734576206035,57,27.0,Chronic,0
-All Medical,ARG,3.388235294117647,39,23.0,Chronic,0
-All Medical,AUS,0.35000000000000003,34,37.0,Chronic,0
-All Medical,AUS,0.19913137831586764,50,20.5,Chronic,0
-All Medical,AUS,0.6262107750755331,36,17.0,Chronic,0
-All Medical,AUS,0.4269441832565981,31,12.0,Chronic,0
-All Medical,BLR,8.540856532152146,28,22.0,Chronic,0
-All Medical,BLR,4.25,28,17.0,Chronic,0
-All Medical,BLR,3.87,60,12.0,Chronic,0
-All Medical,BEL,0.164671365476629,55,21.0,Chronic,0
-All Medical,BRA,7.55,40,37.0,Chronic,0
-All Medical,BRA,5.710695908907902,58,27.0,Chronic,0
-All Medical,BRA,2.125913836630439,26,23.0,Chronic,0
-All Medical,BRA,3.6884458753886404,29,12.0,Chronic,0
-All Medical,BGR,2.25,24,32.0,Chronic,0
-All Medical,BGR,1.7259299781181625,55,27.0,Chronic,0
-All Medical,CAN,1.3,53,47.0,Chronic,0
-All Medical,CAN,0.8,56,42.0,Chronic,0
-All Medical,CAN,0.75,34,37.0,Chronic,0
-All Medical,CAN,0.44999999999999996,37,32.0,Chronic,0
-All Medical,CAN,0.39160887373708764,48,27.0,Chronic,0
-All Medical,CAN,0.4778580940566969,22,22.0,Chronic,0
-All Medical,CAN,0.53309632673714,25,17.0,Chronic,0
-All Medical,CAN,0.4934235545351855,46,12.0,Chronic,0
-All Medical,CHL,21.02269039145908,28,27.0,Chronic,0
-All Medical,CHL,12.271806273362598,40,23.0,Chronic,0
-All Medical,CHN,9.0,52,37.0,Chronic,0
-All Medical,CHN,7.506553050022377,57,27.0,Chronic,0
-All Medical,CHN,3.468593518926913,53,23.0,Chronic,0
-All Medical,TWN,0.75,27,32.0,Chronic,0
-All Medical,TWN,0.3374432186891629,48,27.0,Chronic,0
-All Medical,TWN,0.18805561887394578,38,23.0,Chronic,0
-All Medical,HRV,0.8999999999999999,45,32.0,Chronic,0
-All Medical,HRV,0.6664203675344563,51,23.0,Chronic,0
-All Medical,CUB,10.9,45,32.0,Chronic,0
-All Medical,CYP,3.5999999999999996,38,32.0,Chronic,0
+All Medical,ARG,5.4,21,37.0,Chronic,0
+All Medical,ARG,1.76734576206035,46,27.0,Chronic,0
+All Medical,ARG,3.388235294117647,34,23.0,Chronic,0
+All Medical,AUS,0.35000000000000003,41,37.0,Chronic,0
+All Medical,AUS,0.19913137831586764,56,20.5,Chronic,0
+All Medical,AUS,0.6262107750755331,20,17.0,Chronic,0
+All Medical,AUS,0.4269441832565981,43,12.0,Chronic,0
+All Medical,BLR,8.540856532152146,34,22.0,Chronic,0
+All Medical,BLR,4.25,36,17.0,Chronic,0
+All Medical,BLR,3.87,27,12.0,Chronic,0
+All Medical,BEL,0.164671365476629,25,21.0,Chronic,0
+All Medical,BRA,7.55,39,37.0,Chronic,0
+All Medical,BRA,5.710695908907902,42,27.0,Chronic,0
+All Medical,BRA,2.125913836630439,54,23.0,Chronic,0
+All Medical,BRA,3.6884458753886404,56,12.0,Chronic,0
+All Medical,BGR,2.25,29,32.0,Chronic,0
+All Medical,BGR,1.7259299781181625,45,27.0,Chronic,0
+All Medical,CAN,1.3,28,47.0,Chronic,0
+All Medical,CAN,0.8,60,42.0,Chronic,0
+All Medical,CAN,0.75,49,37.0,Chronic,0
+All Medical,CAN,0.44999999999999996,23,32.0,Chronic,0
+All Medical,CAN,0.39160887373708764,41,27.0,Chronic,0
+All Medical,CAN,0.4778580940566969,38,22.0,Chronic,0
+All Medical,CAN,0.53309632673714,49,17.0,Chronic,0
+All Medical,CAN,0.4934235545351855,21,12.0,Chronic,0
+All Medical,CHL,21.02269039145908,23,27.0,Chronic,0
+All Medical,CHL,12.271806273362598,59,23.0,Chronic,0
+All Medical,CHN,9.0,22,37.0,Chronic,0
+All Medical,CHN,7.506553050022377,38,27.0,Chronic,0
+All Medical,CHN,3.468593518926913,52,23.0,Chronic,0
+All Medical,TWN,0.75,21,32.0,Chronic,0
+All Medical,TWN,0.3374432186891629,50,27.0,Chronic,0
+All Medical,TWN,0.18805561887394578,55,23.0,Chronic,0
+All Medical,HRV,0.8999999999999999,59,32.0,Chronic,0
+All Medical,HRV,0.6664203675344563,29,23.0,Chronic,0
+All Medical,CUB,10.9,56,32.0,Chronic,0
+All Medical,CYP,3.5999999999999996,51,32.0,Chronic,0
 All Medical,CYP,2.3569023569023564,50,27.0,Chronic,0
-All Medical,CYP,2.7090301003344486,25,23.0,Chronic,0
-All Medical,CZE,3.8,32,47.0,Chronic,0
-All Medical,CZE,4.1499999999999995,36,42.0,Chronic,0
-All Medical,CZE,3.9000000000000004,23,37.0,Chronic,0
-All Medical,CZE,5.196118075212293,56,27.0,Chronic,0
-All Medical,CZE,2.6046555870393817,37,22.0,Chronic,0
-All Medical,CZE,1.9458725266417574,53,17.0,Chronic,0
-All Medical,CZE,2.7169121855701155,50,12.0,Chronic,0
-All Medical,DNK,1.0,39,32.0,Chronic,0
-All Medical,DNK,0.9179926560587515,32,27.0,Chronic,0
-All Medical,DNK,0.694941801035381,53,22.0,Chronic,0
-All Medical,DNK,0.60197581632881,56,17.0,Chronic,0
-All Medical,DNK,0.6172889933348,41,12.0,Chronic,0
-All Medical,ECU,4.1,49,32.0,Chronic,0
-All Medical,SLV,2.5818882466281314,38,22.5,Chronic,0
-All Medical,EST,1.871573966745844,30,20.5,Chronic,0
-All Medical,EST,5.11148614293655,21,17.0,Chronic,0
-All Medical,EST,4.62815201683988,20,12.0,Chronic,0
-All Medical,FIN,1.1500000000000001,43,47.0,Chronic,0
-All Medical,FIN,1.05,38,42.0,Chronic,0
-All Medical,FIN,1.0,43,37.0,Chronic,0
-All Medical,FIN,1.9087612139721322,24,27.0,Chronic,0
-All Medical,FIN,0.6432609172930758,29,22.0,Chronic,0
-All Medical,FIN,0.14,34,17.0,Chronic,0
-All Medical,FIN,0.1,60,12.0,Chronic,0
-All Medical,FRA,3.05,60,42.0,Chronic,0
-All Medical,FRA,1.7000000000000002,57,37.0,Chronic,0
-All Medical,FRA,0.1320927288328714,42,20.5,Chronic,0
-All Medical,FRA,0.38798376519060296,24,17.0,Chronic,0
-All Medical,FRA,0.45999999999999996,41,12.0,Chronic,0
-All Medical,DEU,1.7000000000000002,33,42.0,Chronic,0
-All Medical,DEU,0.6,34,37.0,Chronic,0
-All Medical,DEU,0.49134860715623013,38,27.0,Chronic,0
-All Medical,DEU,0.22382803328724596,52,23.0,Chronic,0
-All Medical,DEU,0.146381562117958,58,20.5,Chronic,0
-All Medical,DEU,0.3458509987135675,23,17.0,Chronic,0
+All Medical,CYP,2.7090301003344486,41,23.0,Chronic,0
+All Medical,CZE,3.8,59,47.0,Chronic,0
+All Medical,CZE,4.1499999999999995,27,42.0,Chronic,0
+All Medical,CZE,3.9000000000000004,43,37.0,Chronic,0
+All Medical,CZE,5.196118075212293,21,27.0,Chronic,0
+All Medical,CZE,2.6046555870393817,59,22.0,Chronic,0
+All Medical,CZE,1.9458725266417574,44,17.0,Chronic,0
+All Medical,CZE,2.7169121855701155,37,12.0,Chronic,0
+All Medical,DNK,1.0,53,32.0,Chronic,0
+All Medical,DNK,0.9179926560587515,37,27.0,Chronic,0
+All Medical,DNK,0.694941801035381,56,22.0,Chronic,0
+All Medical,DNK,0.60197581632881,48,17.0,Chronic,0
+All Medical,DNK,0.6172889933348,52,12.0,Chronic,0
+All Medical,ECU,4.1,36,32.0,Chronic,0
+All Medical,SLV,2.5818882466281314,50,22.5,Chronic,0
+All Medical,EST,1.871573966745844,54,20.5,Chronic,0
+All Medical,EST,5.11148614293655,34,17.0,Chronic,0
+All Medical,EST,4.62815201683988,40,12.0,Chronic,0
+All Medical,FIN,1.1500000000000001,38,47.0,Chronic,0
+All Medical,FIN,1.05,59,42.0,Chronic,0
+All Medical,FIN,1.0,20,37.0,Chronic,0
+All Medical,FIN,1.9087612139721322,59,27.0,Chronic,0
+All Medical,FIN,0.6432609172930758,36,22.0,Chronic,0
+All Medical,FIN,0.14,45,17.0,Chronic,0
+All Medical,FIN,0.1,42,12.0,Chronic,0
+All Medical,FRA,3.05,41,42.0,Chronic,0
+All Medical,FRA,1.7000000000000002,50,37.0,Chronic,0
+All Medical,FRA,0.1320927288328714,21,20.5,Chronic,0
+All Medical,FRA,0.38798376519060296,28,17.0,Chronic,0
+All Medical,FRA,0.45999999999999996,22,12.0,Chronic,0
+All Medical,DEU,1.7000000000000002,45,42.0,Chronic,0
+All Medical,DEU,0.6,23,37.0,Chronic,0
+All Medical,DEU,0.49134860715623013,24,27.0,Chronic,0
+All Medical,DEU,0.22382803328724596,53,23.0,Chronic,0
+All Medical,DEU,0.146381562117958,45,20.5,Chronic,0
+All Medical,DEU,0.3458509987135675,29,17.0,Chronic,0
 All Medical,DEU,0.2718724517484155,44,12.0,Chronic,0
-All Medical,GRC,4.3,20,32.0,Chronic,0
-All Medical,GRC,3.3811129848229338,51,27.0,Chronic,0
-All Medical,GRC,1.3768319331727195,56,22.0,Chronic,0
-All Medical,GRC,0.974915605788575,38,17.0,Chronic,0
-All Medical,GRC,0.78984036546298,57,12.0,Chronic,0
-All Medical,HUN,2.05,45,47.0,Chronic,0
-All Medical,HUN,1.3,41,42.0,Chronic,0
-All Medical,HUN,1.3,45,37.0,Chronic,0
-All Medical,HUN,0.43544003731037784,31,27.0,Chronic,0
-All Medical,HUN,0.6376725287139895,21,23.0,Chronic,0
-All Medical,HUN,0.46482305,29,12.0,Chronic,0
-All Medical,ISL,1.2,51,32.0,Chronic,0
-All Medical,ISL,0.9475065445026178,54,27.0,Chronic,0
-All Medical,ISL,0.9716855031948881,35,22.0,Chronic,0
-All Medical,ISL,0.9595011876484549,46,17.0,Chronic,0
-All Medical,ISL,0.916232479495655,25,12.0,Chronic,0
-All Medical,IND,4.1,28,47.0,Chronic,0
-All Medical,IND,2.8499999999999996,37,42.0,Chronic,0
-All Medical,IND,2.6500000000000004,53,37.0,Chronic,0
-All Medical,IND,1.4,48,11.5,Chronic,0
-All Medical,IDN,8.35,59,47.0,Chronic,0
-All Medical,IDN,8.0,29,42.0,Chronic,0
-All Medical,IDN,8.4,38,37.0,Chronic,0
-All Medical,IDN,3.154867841409692,56,27.0,Chronic,0
+All Medical,GRC,4.3,22,32.0,Chronic,0
+All Medical,GRC,3.3811129848229338,27,27.0,Chronic,0
+All Medical,GRC,1.3768319331727195,47,22.0,Chronic,0
+All Medical,GRC,0.974915605788575,37,17.0,Chronic,0
+All Medical,GRC,0.78984036546298,25,12.0,Chronic,0
+All Medical,HUN,2.05,40,47.0,Chronic,0
+All Medical,HUN,1.3,27,42.0,Chronic,0
+All Medical,HUN,1.3,51,37.0,Chronic,0
+All Medical,HUN,0.43544003731037784,43,27.0,Chronic,0
+All Medical,HUN,0.6376725287139895,38,23.0,Chronic,0
+All Medical,HUN,0.46482305,55,12.0,Chronic,0
+All Medical,ISL,1.2,31,32.0,Chronic,0
+All Medical,ISL,0.9475065445026178,59,27.0,Chronic,0
+All Medical,ISL,0.9716855031948881,53,22.0,Chronic,0
+All Medical,ISL,0.9595011876484549,44,17.0,Chronic,0
+All Medical,ISL,0.916232479495655,58,12.0,Chronic,0
+All Medical,IND,4.1,44,47.0,Chronic,0
+All Medical,IND,2.8499999999999996,29,42.0,Chronic,0
+All Medical,IND,2.6500000000000004,60,37.0,Chronic,0
+All Medical,IND,1.4,51,11.5,Chronic,0
+All Medical,IDN,8.35,20,47.0,Chronic,0
+All Medical,IDN,8.0,21,42.0,Chronic,0
+All Medical,IDN,8.4,46,37.0,Chronic,0
+All Medical,IDN,3.154867841409692,58,27.0,Chronic,0
 All Medical,IDN,1.3708910891089088,59,23.0,Chronic,0
-All Medical,IRL,0.65,22,37.0,Chronic,0
-All Medical,IRL,0.2,28,31.5,Chronic,0
-All Medical,IRL,0.02,52,20.5,Chronic,0
-All Medical,IRL,,43,17.0,Chronic,0
-All Medical,IRL,,38,12.5,Chronic,0
-All Medical,ITA,2.3499999999999996,59,37.0,Chronic,0
-All Medical,JPN,3.25,57,47.0,Chronic,0
-All Medical,JPN,2.0,55,42.0,Chronic,0
-All Medical,JPN,1.6500000000000001,52,37.0,Chronic,0
-All Medical,JPN,1.85,46,32.0,Chronic,0
-All Medical,JPN,1.975503947695139,37,27.0,Chronic,0
-All Medical,JPN,1.005771635746104,20,23.0,Chronic,0
-All Medical,JPN,0.5974294301811007,39,20.5,Chronic,0
-All Medical,JPN,1.5168360358996242,24,17.0,Chronic,0
-All Medical,JPN,1.8814061644767899,29,12.0,Chronic,0
-All Medical,JOR,6.05,35,32.0,Chronic,0
-All Medical,KWT,1.6500000000000001,52,32.0,Chronic,0
-All Medical,KWT,4.609929078014184,57,27.0,Chronic,0
-All Medical,KWT,2.485811577752554,36,23.0,Chronic,0
-All Medical,LBN,0.86,37,10.0,Chronic,0
-All Medical,LTU,6.714832129196769,59,27.0,Chronic,0
-All Medical,LTU,5.136756199984154,34,22.0,Chronic,0
-All Medical,LTU,1.46,23,17.0,Chronic,0
-All Medical,LTU,1.3900000000000001,51,12.0,Chronic,0
-All Medical,LUX,2.2556390977443606,34,27.0,Chronic,0
-All Medical,LUX,1.213653603034134,29,23.0,Chronic,0
-All Medical,LUX,0.747872051465331,41,17.0,Chronic,0
-All Medical,MLT,0.7936507936507936,47,27.0,Chronic,0
-All Medical,MLT,0.38071065989847713,49,23.0,Chronic,0
-All Medical,MEX,14.299999999999999,52,37.0,Chronic,0
-All Medical,MEX,13.00578034682081,32,27.0,Chronic,0
-All Medical,MEX,10.576368876080693,44,23.0,Chronic,0
-All Medical,MMR,3.9000000000000004,33,32.0,Chronic,0
-All Medical,MMR,1.5561375227686705,48,27.0,Chronic,0
-All Medical,MMR,1.037991228071085,24,23.0,Chronic,0
-All Medical,NLD,2.1,55,32.0,Chronic,0
-All Medical,NLD,1.6071022080582744,33,27.0,Chronic,0
-All Medical,NLD,0.7998307236563691,37,23.0,Chronic,0
-All Medical,NOR,3.05,43,32.0,Chronic,0
-All Medical,PAK,26.95,35,32.0,Chronic,0
-All Medical,PER,13.5,24,32.0,Chronic,0
-All Medical,PER,15.277777777777777,37,27.0,Chronic,0
-All Medical,PER,8.387096774193548,34,23.0,Chronic,0
-All Medical,PHL,0.6803176064441887,35,27.0,Chronic,0
-All Medical,PHL,0.3831319689484827,22,23.0,Chronic,0
-All Medical,POL,1.07560610404919,26,20.5,Chronic,0
-All Medical,POL,2.50802290338648,52,17.0,Chronic,0
-All Medical,POL,2.24542264554571,53,12.0,Chronic,0
-All Medical,PRT,2.6,55,37.0,Chronic,0
-All Medical,KOR,1.95,22,20.5,Chronic,0
-All Medical,KOR,3.81,34,17.0,Chronic,0
-All Medical,KOR,2.6900000000000004,43,12.0,Chronic,0
-All Medical,ROU,7.804309014156576,21,27.0,Chronic,0
-All Medical,ROU,1.9139257260021756,39,23.0,Chronic,0
-All Medical,SMR,1.9426751592356686,44,12.0,Chronic,0
-All Medical,SVK,1.75,56,32.0,Chronic,0
-All Medical,SVK,5.581558593098803,20,23.0,Chronic,0
-All Medical,SVN,1.9,30,32.0,Chronic,0
-All Medical,SVN,1.033404997185565,24,22.0,Chronic,0
-All Medical,SVN,0.6334952355351351,24,17.0,Chronic,0
-All Medical,SVN,0.4879795500768855,54,12.0,Chronic,0
-All Medical,ZAF,0.3,21,47.0,Chronic,0
-All Medical,ZAF,3.4499999999999997,32,42.0,Chronic,0
-All Medical,ZAF,3.95,22,37.0,Chronic,0
-All Medical,ESP,3.9000000000000004,44,37.0,Chronic,0
-All Medical,ESP,1.7550664978738153,39,22.0,Chronic,0
-All Medical,ESP,1.0457658674773358,44,17.0,Chronic,0
-All Medical,ESP,0.7573051273654989,54,12.0,Chronic,0
-All Medical,LKA,3.65,39,32.0,Chronic,0
-All Medical,SWE,1.25,33,47.0,Chronic,0
-All Medical,SWE,1.0,25,42.0,Chronic,0
-All Medical,SWE,1.2,49,37.0,Chronic,0
-All Medical,SWE,0.25,47,25.0,Chronic,0
-All Medical,SWE,0.9266073459557103,46,22.0,Chronic,0
-All Medical,SWE,0.7630000000000001,51,17.0,Chronic,0
-All Medical,SWE,0.994,58,12.0,Chronic,0
-All Medical,CHE,0.15330364960075155,32,27.0,Chronic,0
-All Medical,CHE,0.0946584910852697,59,22.0,Chronic,0
-All Medical,CHE,0.10300000000000001,60,17.0,Chronic,0
-All Medical,CHE,0.104,33,12.0,Chronic,0
-All Medical,SYR,14.5,47,32.0,Chronic,0
-All Medical,THA,1.05,47,32.0,Chronic,0
-All Medical,USA,1.9,25,37.0,Chronic,0
-All Medical,USA,0.51,28,20.5,Chronic,0
-All Medical,USA,1.125,39,17.0,Chronic,0
-All Medical,TZA,24.55,56,32.0,Chronic,0
-All Medical,TZA,1.45,41,32.0,Chronic,0
-All Medical,TZA,2.0874321457593945,41,27.0,Chronic,0
-All Medical,TZA,0.9107785027927624,22,23.0,Chronic,0
-All Medical,TZA,1.400881126083342,44,22.0,Chronic,0
-All Medical,TZA,1.128689213184895,38,17.0,Chronic,0
-All Medical,TZA,1.3571209225106207,25,12.0,Chronic,0
-All Medical,TZA,4.0,29,47.0,Chronic,0
-All Medical,TZA,3.0,25,42.0,Chronic,0
-All Medical,TZA,2.5,20,37.0,Chronic,0
-All Medical,TZA,1.5,50,32.0,Chronic,0
-All Industrial,DZA,11.328192189556823,49,17.0,Chronic,0
-All Industrial,DZA,12.521659347553324,58,12.0,Chronic,0
-All Industrial,DZA,2.259450171821306,48,9.0,Chronic,0
-All Industrial,ARG,13.700000000000001,57,37.0,Chronic,0
-All Industrial,ARG,12.2,57,32.0,Chronic,0
-All Industrial,ARG,3.695652173913043,54,27.0,Chronic,0
-All Industrial,ARG,6.9179918864097365,36,22.0,Chronic,0
-All Industrial,ARG,11.793523011321865,55,17.0,Chronic,0
-All Industrial,ARG,9.423368866302521,39,12.0,Chronic,0
-All Industrial,AUS,1.1500000000000001,49,37.0,Chronic,0
-All Industrial,AUS,,30,32.0,Chronic,0
-All Industrial,AUS,3.3246940559440565,22,22.0,Chronic,0
-All Industrial,AUS,2.3836012291691286,23,17.0,Chronic,0
-All Industrial,AUS,2.513442033258639,38,12.0,Chronic,0
-All Industrial,BLR,15.740142210730443,41,22.0,Chronic,0
-All Industrial,BLR,7.531712473572939,57,17.0,Chronic,0
-All Industrial,BLR,5.1959966638865716,23,12.0,Chronic,0
-All Industrial,BEL,1.9575355016033,52,12.0,Chronic,0
-All Industrial,BRA,38.45,49,37.0,Chronic,0
-All Industrial,BRA,17.0,39,32.0,Chronic,0
-All Industrial,BRA,13.873032386460956,25,27.0,Chronic,0
-All Industrial,BRA,7.622788064555181,60,23.0,Chronic,0
-All Industrial,BRA,16.977988742964353,53,12.0,Chronic,0
-All Industrial,BGR,18.5,38,32.0,Chronic,0
-All Industrial,BGR,13.016528925619834,40,27.0,Chronic,0
-All Industrial,CAN,22.543859649122812,43,47.0,Chronic,0
-All Industrial,CAN,21.09375,23,42.0,Chronic,0
-All Industrial,CAN,20.660792951541854,57,37.0,Chronic,0
-All Industrial,CAN,19.581673306772906,50,32.0,Chronic,0
-All Industrial,CAN,20.909336618650485,33,27.0,Chronic,0
-All Industrial,CAN,10.782500202708178,53,22.0,Chronic,0
-All Industrial,CAN,6.710233848421145,40,17.0,Chronic,0
-All Industrial,CAN,5.928222147939448,52,12.0,Chronic,0
-All Industrial,CHN,8.0,50,32.0,Chronic,0
-All Industrial,CHN,11.265100422441265,36,27.0,Chronic,0
-All Industrial,CHN,5.310429447852761,52,23.0,Chronic,0
-All Industrial,TWN,4.25,25,32.0,Chronic,0
-All Industrial,TWN,16.971080669710805,28,27.0,Chronic,0
-All Industrial,TWN,10.246255760368664,33,23.0,Chronic,0
-All Industrial,HRV,4.4,21,32.0,Chronic,0
-All Industrial,HRV,5.263157894736842,58,23.0,Chronic,0
-All Industrial,CUB,6.25,39,32.0,Chronic,0
-All Industrial,CYP,0.0,31,27.0,Chronic,0
-All Industrial,CYP,2.0,34,23.0,Chronic,0
-All Industrial,CZE,10.406976744186045,36,27.0,Chronic,0
-All Industrial,CZE,8.05760606060606,33,22.0,Chronic,0
-All Industrial,CZE,6.959169868047436,24,17.0,Chronic,0
-All Industrial,CZE,6.529277635899307,49,12.0,Chronic,0
-All Industrial,DNK,5.2,33,32.0,Chronic,0
-All Industrial,DNK,4.878048780487806,50,27.0,Chronic,0
-All Industrial,DNK,6.287765293383273,27,22.0,Chronic,0
-All Industrial,DNK,6.335314417177916,22,17.0,Chronic,0
-All Industrial,DNK,3.6909485430874147,58,12.0,Chronic,0
-All Industrial,ECU,8.6,49,32.0,Chronic,0
-All Industrial,SLV,5.2941176470588225,57,23.0,Chronic,0
-All Industrial,EST,11.04824046920821,40,27.0,Chronic,0
-All Industrial,EST,6.051783166904422,24,22.0,Chronic,0
-All Industrial,EST,5.321198830409356,53,17.0,Chronic,0
-All Industrial,EST,3.612702546296296,45,12.0,Chronic,0
-All Industrial,FIN,14.850000000000001,53,42.0,Chronic,0
-All Industrial,FIN,8.75,38,37.0,Chronic,0
-All Industrial,FIN,9.7,47,32.0,Chronic,0
-All Industrial,FIN,6.0,42,32.0,Chronic,0
-All Industrial,FIN,8.846153846153847,50,27.0,Chronic,0
-All Industrial,FIN,7.471480582524272,45,22.0,Chronic,0
-All Industrial,FIN,5.7875,54,17.0,Chronic,0
-All Industrial,FIN,4.275754060324826,53,12.0,Chronic,0
-All Industrial,FRA,53.07227675471231,31,22.0,Chronic,0
-All Industrial,FRA,7.97603757983075,35,17.0,Chronic,0
-All Industrial,FRA,7.774453743325633,34,12.0,Chronic,0
-All Industrial,GAB,102.4,35,32.0,Chronic,0
-All Industrial,DEU,8.7,60,37.0,Chronic,0
-All Industrial,DEU,14.450000000000001,39,32.0,Chronic,0
-All Industrial,DEU,12.526299976416645,25,27.0,Chronic,0
-All Industrial,DEU,10.065098121085578,42,22.0,Chronic,0
-All Industrial,DEU,11.333612068697747,43,17.0,Chronic,0
-All Industrial,DEU,7.72764831076847,34,12.0,Chronic,0
-All Industrial,GRC,12.5,34,32.0,Chronic,0
-All Industrial,GRC,2.1367521367521363,38,27.0,Chronic,0
-All Industrial,GRC,10.412033189598215,45,22.0,Chronic,0
-All Industrial,GRC,9.189770745878924,59,17.0,Chronic,0
-All Industrial,GRC,8.395393741210551,33,12.0,Chronic,0
-All Industrial,HUN,25.7,21,47.0,Chronic,0
-All Industrial,HUN,17.35,50,42.0,Chronic,0
-All Industrial,HUN,14.850000000000001,23,37.0,Chronic,0
-All Industrial,HUN,13.0,40,32.0,Chronic,0
-All Industrial,HUN,12.145915601023018,21,27.0,Chronic,0
-All Industrial,HUN,7.5952101341281715,31,23.0,Chronic,0
-All Industrial,HUN,9.335494093155894,40,12.0,Chronic,0
-All Industrial,ISL,5.425,28,27.0,Chronic,0
-All Industrial,ISL,4.154999999999999,40,22.0,Chronic,0
-All Industrial,ISL,2.8534375,55,17.0,Chronic,0
-All Industrial,ISL,1.6853333333333333,37,12.0,Chronic,0
-All Industrial,IND,14.2,50,32.0,Chronic,0
-All Industrial,IND,4.8630848393574295,30,11.5,Chronic,0
-All Industrial,IND,1.159453830131914,37,9.0,Chronic,0
-All Industrial,IDN,6.25,24,42.0,Chronic,0
+All Medical,IRL,0.65,38,37.0,Chronic,0
+All Medical,IRL,0.2,36,31.5,Chronic,0
+All Medical,IRL,0.02,32,20.5,Chronic,0
+All Medical,IRL,,54,17.0,Chronic,0
+All Medical,IRL,,34,12.5,Chronic,0
+All Medical,ITA,2.3499999999999996,30,37.0,Chronic,0
+All Medical,JPN,3.25,24,47.0,Chronic,0
+All Medical,JPN,2.0,31,42.0,Chronic,0
+All Medical,JPN,1.6500000000000001,48,37.0,Chronic,0
+All Medical,JPN,1.85,26,32.0,Chronic,0
+All Medical,JPN,1.975503947695139,55,27.0,Chronic,0
+All Medical,JPN,1.005771635746104,33,23.0,Chronic,0
+All Medical,JPN,0.5974294301811007,49,20.5,Chronic,0
+All Medical,JPN,1.5168360358996242,37,17.0,Chronic,0
+All Medical,JPN,1.8814061644767899,40,12.0,Chronic,0
+All Medical,JOR,6.05,27,32.0,Chronic,0
+All Medical,KWT,1.6500000000000001,57,32.0,Chronic,0
+All Medical,KWT,4.609929078014184,55,27.0,Chronic,0
+All Medical,KWT,2.485811577752554,46,23.0,Chronic,0
+All Medical,LBN,0.86,58,10.0,Chronic,0
+All Medical,LTU,6.714832129196769,21,27.0,Chronic,0
+All Medical,LTU,5.136756199984154,36,22.0,Chronic,0
+All Medical,LTU,1.46,46,17.0,Chronic,0
+All Medical,LTU,1.3900000000000001,29,12.0,Chronic,0
+All Medical,LUX,2.2556390977443606,56,27.0,Chronic,0
+All Medical,LUX,1.213653603034134,46,23.0,Chronic,0
+All Medical,LUX,0.747872051465331,56,17.0,Chronic,0
+All Medical,MLT,0.7936507936507936,40,27.0,Chronic,0
+All Medical,MLT,0.38071065989847713,21,23.0,Chronic,0
+All Medical,MEX,14.299999999999999,21,37.0,Chronic,0
+All Medical,MEX,13.00578034682081,43,27.0,Chronic,0
+All Medical,MEX,10.576368876080693,41,23.0,Chronic,0
+All Medical,MMR,3.9000000000000004,53,32.0,Chronic,0
+All Medical,MMR,1.5561375227686705,60,27.0,Chronic,0
+All Medical,MMR,1.037991228071085,44,23.0,Chronic,0
+All Medical,NLD,2.1,40,32.0,Chronic,0
+All Medical,NLD,1.6071022080582744,55,27.0,Chronic,0
+All Medical,NLD,0.7998307236563691,40,23.0,Chronic,0
+All Medical,NOR,3.05,49,32.0,Chronic,0
+All Medical,PAK,26.95,20,32.0,Chronic,0
+All Medical,PER,13.5,33,32.0,Chronic,0
+All Medical,PER,15.277777777777777,54,27.0,Chronic,0
+All Medical,PER,8.387096774193548,31,23.0,Chronic,0
+All Medical,PHL,0.6803176064441887,60,27.0,Chronic,0
+All Medical,PHL,0.3831319689484827,27,23.0,Chronic,0
+All Medical,POL,1.07560610404919,33,20.5,Chronic,0
+All Medical,POL,2.50802290338648,55,17.0,Chronic,0
+All Medical,POL,2.24542264554571,49,12.0,Chronic,0
+All Medical,PRT,2.6,37,37.0,Chronic,0
+All Medical,KOR,1.95,30,20.5,Chronic,0
+All Medical,KOR,3.81,42,17.0,Chronic,0
+All Medical,KOR,2.6900000000000004,21,12.0,Chronic,0
+All Medical,ROU,7.804309014156576,50,27.0,Chronic,0
+All Medical,ROU,1.9139257260021756,58,23.0,Chronic,0
+All Medical,SMR,1.9426751592356686,56,12.0,Chronic,0
+All Medical,SVK,1.75,42,32.0,Chronic,0
+All Medical,SVK,5.581558593098803,22,23.0,Chronic,0
+All Medical,SVN,1.9,45,32.0,Chronic,0
+All Medical,SVN,1.033404997185565,31,22.0,Chronic,0
+All Medical,SVN,0.6334952355351351,34,17.0,Chronic,0
+All Medical,SVN,0.4879795500768855,43,12.0,Chronic,0
+All Medical,ZAF,0.3,44,47.0,Chronic,0
+All Medical,ZAF,3.4499999999999997,52,42.0,Chronic,0
+All Medical,ZAF,3.95,49,37.0,Chronic,0
+All Medical,ESP,3.9000000000000004,46,37.0,Chronic,0
+All Medical,ESP,1.7550664978738153,40,22.0,Chronic,0
+All Medical,ESP,1.0457658674773358,48,17.0,Chronic,0
+All Medical,ESP,0.7573051273654989,23,12.0,Chronic,0
+All Medical,LKA,3.65,32,32.0,Chronic,0
+All Medical,SWE,1.25,50,47.0,Chronic,0
+All Medical,SWE,1.0,29,42.0,Chronic,0
+All Medical,SWE,1.2,28,37.0,Chronic,0
+All Medical,SWE,0.25,27,25.0,Chronic,0
+All Medical,SWE,0.9266073459557103,44,22.0,Chronic,0
+All Medical,SWE,0.7630000000000001,30,17.0,Chronic,0
+All Medical,SWE,0.994,35,12.0,Chronic,0
+All Medical,CHE,0.15330364960075155,44,27.0,Chronic,0
+All Medical,CHE,0.0946584910852697,35,22.0,Chronic,0
+All Medical,CHE,0.10300000000000001,22,17.0,Chronic,0
+All Medical,CHE,0.104,25,12.0,Chronic,0
+All Medical,SYR,14.5,24,32.0,Chronic,0
+All Medical,THA,1.05,22,32.0,Chronic,0
+All Medical,USA,1.9,30,37.0,Chronic,0
+All Medical,USA,0.51,30,20.5,Chronic,0
+All Medical,USA,1.125,27,17.0,Chronic,0
+All Medical,TZA,24.55,52,32.0,Chronic,0
+All Medical,TZA,1.45,44,32.0,Chronic,0
+All Medical,TZA,2.0874321457593945,47,27.0,Chronic,0
+All Medical,TZA,0.9107785027927624,34,23.0,Chronic,0
+All Medical,TZA,1.400881126083342,42,22.0,Chronic,0
+All Medical,TZA,1.128689213184895,45,17.0,Chronic,0
+All Medical,TZA,1.3571209225106207,51,12.0,Chronic,0
+All Medical,TZA,4.0,56,47.0,Chronic,0
+All Medical,TZA,3.0,29,42.0,Chronic,0
+All Medical,TZA,2.5,49,37.0,Chronic,0
+All Medical,TZA,1.5,52,32.0,Chronic,0
+All Industrial,DZA,11.328192189556823,37,17.0,Chronic,0
+All Industrial,DZA,12.521659347553324,29,12.0,Chronic,0
+All Industrial,DZA,2.259450171821306,39,9.0,Chronic,0
+All Industrial,ARG,13.700000000000001,28,37.0,Chronic,0
+All Industrial,ARG,12.2,27,32.0,Chronic,0
+All Industrial,ARG,3.695652173913043,27,27.0,Chronic,0
+All Industrial,ARG,6.9179918864097365,47,22.0,Chronic,0
+All Industrial,ARG,11.793523011321865,37,17.0,Chronic,0
+All Industrial,ARG,9.423368866302521,22,12.0,Chronic,0
+All Industrial,AUS,1.1500000000000001,45,37.0,Chronic,0
+All Industrial,AUS,,33,32.0,Chronic,0
+All Industrial,AUS,3.3246940559440565,49,22.0,Chronic,0
+All Industrial,AUS,2.3836012291691286,25,17.0,Chronic,0
+All Industrial,AUS,2.513442033258639,49,12.0,Chronic,0
+All Industrial,BLR,15.740142210730443,21,22.0,Chronic,0
+All Industrial,BLR,7.531712473572939,50,17.0,Chronic,0
+All Industrial,BLR,5.1959966638865716,47,12.0,Chronic,0
+All Industrial,BEL,1.9575355016033,24,12.0,Chronic,0
+All Industrial,BRA,38.45,30,37.0,Chronic,0
+All Industrial,BRA,17.0,25,32.0,Chronic,0
+All Industrial,BRA,13.873032386460956,52,27.0,Chronic,0
+All Industrial,BRA,7.622788064555181,38,23.0,Chronic,0
+All Industrial,BRA,16.977988742964353,41,12.0,Chronic,0
+All Industrial,BGR,18.5,24,32.0,Chronic,0
+All Industrial,BGR,13.016528925619834,25,27.0,Chronic,0
+All Industrial,CAN,22.543859649122812,32,47.0,Chronic,0
+All Industrial,CAN,21.09375,22,42.0,Chronic,0
+All Industrial,CAN,20.660792951541854,21,37.0,Chronic,0
+All Industrial,CAN,19.581673306772906,49,32.0,Chronic,0
+All Industrial,CAN,20.909336618650485,34,27.0,Chronic,0
+All Industrial,CAN,10.782500202708178,32,22.0,Chronic,0
+All Industrial,CAN,6.710233848421145,24,17.0,Chronic,0
+All Industrial,CAN,5.928222147939448,35,12.0,Chronic,0
+All Industrial,CHN,8.0,47,32.0,Chronic,0
+All Industrial,CHN,11.265100422441265,30,27.0,Chronic,0
+All Industrial,CHN,5.310429447852761,57,23.0,Chronic,0
+All Industrial,TWN,4.25,59,32.0,Chronic,0
+All Industrial,TWN,16.971080669710805,49,27.0,Chronic,0
+All Industrial,TWN,10.246255760368664,22,23.0,Chronic,0
+All Industrial,HRV,4.4,34,32.0,Chronic,0
+All Industrial,HRV,5.263157894736842,29,23.0,Chronic,0
+All Industrial,CUB,6.25,20,32.0,Chronic,0
+All Industrial,CYP,0.0,28,27.0,Chronic,0
+All Industrial,CYP,2.0,36,23.0,Chronic,0
+All Industrial,CZE,10.406976744186045,23,27.0,Chronic,0
+All Industrial,CZE,8.05760606060606,55,22.0,Chronic,0
+All Industrial,CZE,6.959169868047436,33,17.0,Chronic,0
+All Industrial,CZE,6.529277635899307,23,12.0,Chronic,0
+All Industrial,DNK,5.2,22,32.0,Chronic,0
+All Industrial,DNK,4.878048780487806,32,27.0,Chronic,0
+All Industrial,DNK,6.287765293383273,47,22.0,Chronic,0
+All Industrial,DNK,6.335314417177916,53,17.0,Chronic,0
+All Industrial,DNK,3.6909485430874147,27,12.0,Chronic,0
+All Industrial,ECU,8.6,56,32.0,Chronic,0
+All Industrial,SLV,5.2941176470588225,50,23.0,Chronic,0
+All Industrial,EST,11.04824046920821,31,27.0,Chronic,0
+All Industrial,EST,6.051783166904422,22,22.0,Chronic,0
+All Industrial,EST,5.321198830409356,41,17.0,Chronic,0
+All Industrial,EST,3.612702546296296,30,12.0,Chronic,0
+All Industrial,FIN,14.850000000000001,31,42.0,Chronic,0
+All Industrial,FIN,8.75,60,37.0,Chronic,0
+All Industrial,FIN,9.7,56,32.0,Chronic,0
+All Industrial,FIN,6.0,25,32.0,Chronic,0
+All Industrial,FIN,8.846153846153847,41,27.0,Chronic,0
+All Industrial,FIN,7.471480582524272,53,22.0,Chronic,0
+All Industrial,FIN,5.7875,22,17.0,Chronic,0
+All Industrial,FIN,4.275754060324826,36,12.0,Chronic,0
+All Industrial,FRA,53.07227675471231,20,22.0,Chronic,0
+All Industrial,FRA,7.97603757983075,56,17.0,Chronic,0
+All Industrial,FRA,7.774453743325633,33,12.0,Chronic,0
+All Industrial,GAB,102.4,44,32.0,Chronic,0
+All Industrial,DEU,8.7,27,37.0,Chronic,0
+All Industrial,DEU,14.450000000000001,25,32.0,Chronic,0
+All Industrial,DEU,12.526299976416645,26,27.0,Chronic,0
+All Industrial,DEU,10.065098121085578,56,22.0,Chronic,0
+All Industrial,DEU,11.333612068697747,20,17.0,Chronic,0
+All Industrial,DEU,7.72764831076847,58,12.0,Chronic,0
+All Industrial,GRC,12.5,20,32.0,Chronic,0
+All Industrial,GRC,2.1367521367521363,43,27.0,Chronic,0
+All Industrial,GRC,10.412033189598215,46,22.0,Chronic,0
+All Industrial,GRC,9.189770745878924,57,17.0,Chronic,0
+All Industrial,GRC,8.395393741210551,38,12.0,Chronic,0
+All Industrial,HUN,25.7,43,47.0,Chronic,0
+All Industrial,HUN,17.35,22,42.0,Chronic,0
+All Industrial,HUN,14.850000000000001,29,37.0,Chronic,0
+All Industrial,HUN,13.0,53,32.0,Chronic,0
+All Industrial,HUN,12.145915601023018,25,27.0,Chronic,0
+All Industrial,HUN,7.5952101341281715,37,23.0,Chronic,0
+All Industrial,HUN,9.335494093155894,50,12.0,Chronic,0
+All Industrial,ISL,5.425,48,27.0,Chronic,0
+All Industrial,ISL,4.154999999999999,59,22.0,Chronic,0
+All Industrial,ISL,2.8534375,47,17.0,Chronic,0
+All Industrial,ISL,1.6853333333333333,38,12.0,Chronic,0
+All Industrial,IND,14.2,21,32.0,Chronic,0
+All Industrial,IND,4.8630848393574295,43,11.5,Chronic,0
+All Industrial,IND,1.159453830131914,21,9.0,Chronic,0
+All Industrial,IDN,6.25,42,42.0,Chronic,0
 All Industrial,IDN,5.6000000000000005,35,37.0,Chronic,0
-All Industrial,IDN,6.172542540073982,28,27.0,Chronic,0
-All Industrial,IDN,7.200075588599759,35,23.0,Chronic,0
-All Industrial,IRL,6.8500000000000005,31,37.0,Chronic,0
-All Industrial,IRL,5.28,47,31.5,Chronic,0
-All Industrial,IRL,2.432,45,20.5,Chronic,0
-All Industrial,IRL,3.7307692307692304,45,17.0,Chronic,0
-All Industrial,IRL,1.33038727524205,39,12.5,Chronic,0
-All Industrial,ITA,9.85,36,37.0,Chronic,0
-All Industrial,JPN,11.35,46,47.0,Chronic,0
-All Industrial,JPN,13.5,22,42.0,Chronic,0
-All Industrial,JPN,13.85,20,37.0,Chronic,0
-All Industrial,JPN,12.7,27,32.0,Chronic,0
-All Industrial,JPN,9.587413023808711,50,27.0,Chronic,0
+All Industrial,IDN,6.172542540073982,44,27.0,Chronic,0
+All Industrial,IDN,7.200075588599759,32,23.0,Chronic,0
+All Industrial,IRL,6.8500000000000005,45,37.0,Chronic,0
+All Industrial,IRL,5.28,24,31.5,Chronic,0
+All Industrial,IRL,2.432,31,20.5,Chronic,0
+All Industrial,IRL,3.7307692307692304,59,17.0,Chronic,0
+All Industrial,IRL,1.33038727524205,34,12.5,Chronic,0
+All Industrial,ITA,9.85,48,37.0,Chronic,0
+All Industrial,JPN,11.35,52,47.0,Chronic,0
+All Industrial,JPN,13.5,20,42.0,Chronic,0
+All Industrial,JPN,13.85,58,37.0,Chronic,0
+All Industrial,JPN,12.7,58,32.0,Chronic,0
+All Industrial,JPN,9.587413023808711,24,27.0,Chronic,0
 All Industrial,JPN,8.267045454545455,25,22.0,Chronic,0
-All Industrial,JPN,6.335821596244131,21,17.0,Chronic,0
-All Industrial,JPN,5.0731417550001625,24,12.0,Chronic,0
-All Industrial,KWT,114.80000000000001,40,32.0,Chronic,0
-All Industrial,KWT,10.551948051948052,50,27.0,Chronic,0
-All Industrial,KWT,6.536964980544748,20,23.0,Chronic,0
+All Industrial,JPN,6.335821596244131,50,17.0,Chronic,0
+All Industrial,JPN,5.0731417550001625,32,12.0,Chronic,0
+All Industrial,KWT,114.80000000000001,26,32.0,Chronic,0
+All Industrial,KWT,10.551948051948052,27,27.0,Chronic,0
+All Industrial,KWT,6.536964980544748,33,23.0,Chronic,0
 All Industrial,LBN,1.1861111111111113,60,10.0,Chronic,0
-All Industrial,LTU,18.125000000000004,26,27.0,Chronic,0
-All Industrial,LTU,10.56881443298969,27,22.0,Chronic,0
-All Industrial,LTU,6.137364620938629,20,17.0,Chronic,0
-All Industrial,LTU,5.0522842639593915,40,12.0,Chronic,0
-All Industrial,LUX,2.9364363636363637,39,27.0,Chronic,0
-All Industrial,LUX,2.215015015015015,52,23.0,Chronic,0
-All Industrial,LUX,0.9763066202090616,36,17.0,Chronic,0
-All Industrial,MLT,0.0,29,27.0,Chronic,0
-All Industrial,MLT,0.43000000000000005,50,23.0,Chronic,0
-All Industrial,MUS,0.7134637514384351,48,10.0,Chronic,0
-All Industrial,MEX,51.0,24,37.0,Chronic,0
-All Industrial,MEX,,27,32.0,Chronic,0
-All Industrial,MEX,28.65030674846626,59,27.0,Chronic,0
-All Industrial,MEX,12.85644962757227,52,23.0,Chronic,0
-All Industrial,MMR,0.0,30,32.0,Chronic,0
-All Industrial,MMR,2.640538990825689,21,27.0,Chronic,0
-All Industrial,MMR,2.184009345794394,43,23.0,Chronic,0
-All Industrial,NLD,9.75,23,32.0,Chronic,0
-All Industrial,NLD,8.633093525179858,32,27.0,Chronic,0
-All Industrial,NLD,3.631805157593123,25,23.0,Chronic,0
-All Industrial,NER,,27,17.0,Chronic,0
-All Industrial,NER,,46,12.0,Chronic,0
-All Industrial,NER,,43,9.0,Chronic,0
+All Industrial,LTU,18.125000000000004,29,27.0,Chronic,0
+All Industrial,LTU,10.56881443298969,40,22.0,Chronic,0
+All Industrial,LTU,6.137364620938629,48,17.0,Chronic,0
+All Industrial,LTU,5.0522842639593915,49,12.0,Chronic,0
+All Industrial,LUX,2.9364363636363637,23,27.0,Chronic,0
+All Industrial,LUX,2.215015015015015,33,23.0,Chronic,0
+All Industrial,LUX,0.9763066202090616,40,17.0,Chronic,0
+All Industrial,MLT,0.0,25,27.0,Chronic,0
+All Industrial,MLT,0.43000000000000005,59,23.0,Chronic,0
+All Industrial,MUS,0.7134637514384351,58,10.0,Chronic,0
+All Industrial,MEX,51.0,39,37.0,Chronic,0
+All Industrial,MEX,,41,32.0,Chronic,0
+All Industrial,MEX,28.65030674846626,57,27.0,Chronic,0
+All Industrial,MEX,12.85644962757227,21,23.0,Chronic,0
+All Industrial,MMR,0.0,54,32.0,Chronic,0
+All Industrial,MMR,2.640538990825689,42,27.0,Chronic,0
+All Industrial,MMR,2.184009345794394,45,23.0,Chronic,0
+All Industrial,NLD,9.75,54,32.0,Chronic,0
+All Industrial,NLD,8.633093525179858,47,27.0,Chronic,0
+All Industrial,NLD,3.631805157593123,56,23.0,Chronic,0
+All Industrial,NER,,33,17.0,Chronic,0
+All Industrial,NER,,29,12.0,Chronic,0
+All Industrial,NER,,36,9.0,Chronic,0
 All Industrial,NOR,8.35,32,42.0,Chronic,0
-All Industrial,NOR,6.75,51,37.0,Chronic,0
-All Industrial,NOR,5.300000000000001,42,32.0,Chronic,0
-All Industrial,NOR,4.51670731707317,22,23.0,Chronic,0
-All Industrial,PAK,25.0,32,32.0,Chronic,0
-All Industrial,PER,8.75,58,32.0,Chronic,0
-All Industrial,PHL,63.78259130434784,27,27.0,Chronic,0
-All Industrial,PHL,25.69636111111111,43,23.0,Chronic,0
-All Industrial,POL,9.200000000000001,27,32.0,Chronic,0
-All Industrial,POL,1.5496585365853661,39,20.5,Chronic,0
-All Industrial,POL,5.110031847133759,58,17.0,Chronic,0
-All Industrial,POL,9.622341904100068,44,12.0,Chronic,0
-All Industrial,PRT,1.7000000000000002,40,37.0,Chronic,0
+All Industrial,NOR,6.75,56,37.0,Chronic,0
+All Industrial,NOR,5.300000000000001,53,32.0,Chronic,0
+All Industrial,NOR,4.51670731707317,52,23.0,Chronic,0
+All Industrial,PAK,25.0,22,32.0,Chronic,0
+All Industrial,PER,8.75,60,32.0,Chronic,0
+All Industrial,PHL,63.78259130434784,20,27.0,Chronic,0
+All Industrial,PHL,25.69636111111111,35,23.0,Chronic,0
+All Industrial,POL,9.200000000000001,56,32.0,Chronic,0
+All Industrial,POL,1.5496585365853661,30,20.5,Chronic,0
+All Industrial,POL,5.110031847133759,52,17.0,Chronic,0
+All Industrial,POL,9.622341904100068,33,12.0,Chronic,0
+All Industrial,PRT,1.7000000000000002,34,37.0,Chronic,0
 All Industrial,KOR,3.6662170865694264,45,20.5,Chronic,0
-All Industrial,KOR,9.76355592139109,60,17.0,Chronic,0
-All Industrial,KOR,17.930020376974017,23,12.0,Chronic,0
-All Industrial,ROU,24.752565531965367,60,27.0,Chronic,0
-All Industrial,ROU,9.09846153846156,51,23.0,Chronic,0
-All Industrial,RUS,10.149999999999999,42,32.0,Chronic,0
-All Industrial,SVK,12.5,25,32.0,Chronic,0
-All Industrial,SVK,4.813155416012563,20,23.0,Chronic,0
-All Industrial,SVN,2.6,38,32.0,Chronic,0
-All Industrial,SVN,6.5160409556314,20,22.0,Chronic,0
-All Industrial,SVN,2.8276459854014604,49,17.0,Chronic,0
-All Industrial,SVN,3.61875,44,12.0,Chronic,0
-All Industrial,ZAF,1.35,42,47.0,Chronic,0
-All Industrial,ZAF,25.85,53,42.0,Chronic,0
-All Industrial,ZAF,52.5,39,37.0,Chronic,0
-All Industrial,ZAF,18.0,44,32.0,Chronic,0
-All Industrial,ESP,8.0,42,37.0,Chronic,0
-All Industrial,ESP,5.9240639501620995,45,22.0,Chronic,0
-All Industrial,ESP,5.112589073634205,41,17.0,Chronic,0
-All Industrial,ESP,5.931593324724346,52,12.0,Chronic,0
-All Industrial,LKA,7.7,52,32.0,Chronic,0
-All Industrial,SWE,3.5000000000000004,51,27.0,Chronic,0
-All Industrial,SWE,5.053598774885146,26,22.0,Chronic,0
-All Industrial,SWE,3.306613226452906,51,17.0,Chronic,0
-All Industrial,SWE,2.440884820747521,37,12.0,Chronic,0
-All Industrial,CHE,8.924908479641388,54,27.0,Chronic,0
-All Industrial,CHE,5.375761778952008,46,22.0,Chronic,0
-All Industrial,CHE,6.117710583153348,30,17.0,Chronic,0
-All Industrial,CHE,6.784897025171625,31,12.0,Chronic,0
-All Industrial,SYR,12.5,50,32.0,Chronic,0
-All Industrial,THA,35.9,59,32.0,Chronic,0
-All Industrial,TUR,4.085302111645411,59,10.5,Chronic,0
-All Industrial,ARE,74.655,30,20.5,Chronic,0
-All Industrial,ARE,202.3809523809524,44,17.0,Chronic,0
-All Industrial,ARE,18.696808685099548,60,12.0,Chronic,0
-All Industrial,ARE,1.821891662674214,37,10.0,Chronic,0
-All Industrial,GBR,6.949999999999999,55,37.0,Chronic,0
-All Industrial,GBR,6.35,48,32.0,Chronic,0
-All Industrial,TZA,17.8,33,32.0,Chronic,0
-All Industrial,USA,7.45,52,37.0,Chronic,0
-All Industrial,USA,21.95,38,32.0,Chronic,0
-All Industrial,USA,27.12057752064463,36,27.0,Chronic,0
-All Industrial,USA,17.141975308641975,55,22.0,Chronic,0
+All Industrial,KOR,9.76355592139109,29,17.0,Chronic,0
+All Industrial,KOR,17.930020376974017,36,12.0,Chronic,0
+All Industrial,ROU,24.752565531965367,55,27.0,Chronic,0
+All Industrial,ROU,9.09846153846156,26,23.0,Chronic,0
+All Industrial,RUS,10.149999999999999,36,32.0,Chronic,0
+All Industrial,SVK,12.5,44,32.0,Chronic,0
+All Industrial,SVK,4.813155416012563,21,23.0,Chronic,0
+All Industrial,SVN,2.6,53,32.0,Chronic,0
+All Industrial,SVN,6.5160409556314,31,22.0,Chronic,0
+All Industrial,SVN,2.8276459854014604,56,17.0,Chronic,0
+All Industrial,SVN,3.61875,25,12.0,Chronic,0
+All Industrial,ZAF,1.35,31,47.0,Chronic,0
+All Industrial,ZAF,25.85,29,42.0,Chronic,0
+All Industrial,ZAF,52.5,27,37.0,Chronic,0
+All Industrial,ZAF,18.0,24,32.0,Chronic,0
+All Industrial,ESP,8.0,40,37.0,Chronic,0
+All Industrial,ESP,5.9240639501620995,35,22.0,Chronic,0
+All Industrial,ESP,5.112589073634205,44,17.0,Chronic,0
+All Industrial,ESP,5.931593324724346,31,12.0,Chronic,0
+All Industrial,LKA,7.7,31,32.0,Chronic,0
+All Industrial,SWE,3.5000000000000004,50,27.0,Chronic,0
+All Industrial,SWE,5.053598774885146,29,22.0,Chronic,0
+All Industrial,SWE,3.306613226452906,59,17.0,Chronic,0
+All Industrial,SWE,2.440884820747521,55,12.0,Chronic,0
+All Industrial,CHE,8.924908479641388,28,27.0,Chronic,0
+All Industrial,CHE,5.375761778952008,32,22.0,Chronic,0
+All Industrial,CHE,6.117710583153348,50,17.0,Chronic,0
+All Industrial,CHE,6.784897025171625,56,12.0,Chronic,0
+All Industrial,SYR,12.5,23,32.0,Chronic,0
+All Industrial,THA,35.9,26,32.0,Chronic,0
+All Industrial,TUR,4.085302111645411,24,10.5,Chronic,0
+All Industrial,ARE,74.655,29,20.5,Chronic,0
+All Industrial,ARE,202.3809523809524,29,17.0,Chronic,0
+All Industrial,ARE,18.696808685099548,47,12.0,Chronic,0
+All Industrial,ARE,1.821891662674214,33,10.0,Chronic,0
+All Industrial,GBR,6.949999999999999,35,37.0,Chronic,0
+All Industrial,GBR,6.35,36,32.0,Chronic,0
+All Industrial,TZA,17.8,43,32.0,Chronic,0
+All Industrial,USA,7.45,53,37.0,Chronic,0
+All Industrial,USA,21.95,28,32.0,Chronic,0
+All Industrial,USA,27.12057752064463,21,27.0,Chronic,0
+All Industrial,USA,17.141975308641975,52,22.0,Chronic,0
 All Industrial,USA,14.892820368810257,47,17.0,Chronic,0
-All Industrial,USA,24.321392813438646,42,12.0,Chronic,0
-All Industrial,URY,11.850000000000001,32,32.0,Chronic,0
-All Industrial,URY,14.275822111262961,50,27.0,Chronic,0
-All Industrial,URY,11.790185723528708,52,22.0,Chronic,0
+All Industrial,USA,24.321392813438646,52,12.0,Chronic,0
+All Industrial,URY,11.850000000000001,33,32.0,Chronic,0
+All Industrial,URY,14.275822111262961,56,27.0,Chronic,0
+All Industrial,URY,11.790185723528708,37,22.0,Chronic,0
 All Industrial,URY,9.035146925987421,21,17.0,Chronic,0
-All Industrial,URY,8.433136561707828,60,12.0,Chronic,0
-All Industrial,URY,15.0,25,47.0,Chronic,0
-All Industrial,URY,16.0,60,42.0,Chronic,0
-All Industrial,URY,2.0,45,35.0,Chronic,0
-All Industrial,URY,11.200000000000001,39,32.0,Chronic,0
-Miscellaneous,AUS,0.15,40,37.0,Chronic,0
-Miscellaneous,AUS,0.2,55,32.0,Chronic,0
-Miscellaneous,AUS,0.0396600566572238,59,20.5,Chronic,0
-Miscellaneous,AUS,0.098125,34,17.0,Chronic,0
-Miscellaneous,AUS,0.12037037037037039,25,12.0,Chronic,0
-Miscellaneous,BLR,10.016286644951142,24,22.0,Chronic,0
-Miscellaneous,BLR,5.861136158701533,38,17.0,Chronic,0
-Miscellaneous,BLR,4.372574385510996,59,12.0,Chronic,0
-Miscellaneous,BEL,0.121461649782923,23,11.0,Chronic,0
-Miscellaneous,BRA,0.15,42,32.0,Chronic,0
-Miscellaneous,BRA,0.3926687378556456,24,27.0,Chronic,0
-Miscellaneous,BRA,0.4174937343358396,55,23.0,Chronic,0
-Miscellaneous,BRA,0.3760636621493854,59,12.0,Chronic,0
-Miscellaneous,BGR,1.9,26,27.0,Chronic,0
-Miscellaneous,CAN,0.7000000000000001,54,47.0,Chronic,0
-Miscellaneous,CAN,0.55,60,42.0,Chronic,0
-Miscellaneous,CAN,0.55,30,37.0,Chronic,0
-Miscellaneous,CAN,0.25,29,32.0,Chronic,0
-Miscellaneous,CAN,0.38000000000000006,55,27.0,Chronic,0
-Miscellaneous,CAN,0.25,44,23.0,Chronic,0
-Miscellaneous,TWN,0.7000000000000001,52,32.0,Chronic,0
-Miscellaneous,TWN,0.05,20,27.0,Chronic,0
-Miscellaneous,TWN,0.03,44,23.0,Chronic,0
-Miscellaneous,CUB,6.6000000000000005,54,32.0,Chronic,0
-Miscellaneous,CZE,3.3000000000000003,31,32.0,Chronic,0
-Miscellaneous,DNK,0.16129032258064518,34,17.0,Chronic,0
-Miscellaneous,DNK,0.3409090909090909,34,12.0,Chronic,0
-Miscellaneous,SLV,1.5,32,22.5,Chronic,0
-Miscellaneous,EST,3.5700000000000003,25,27.0,Chronic,0
-Miscellaneous,EST,3.375961538461537,53,22.0,Chronic,0
-Miscellaneous,EST,2.9380952380952357,38,17.0,Chronic,0
-Miscellaneous,EST,0.9679442508710802,49,12.0,Chronic,0
-Miscellaneous,FIN,0.2,58,42.0,Chronic,0
+All Industrial,URY,8.433136561707828,56,12.0,Chronic,0
+All Industrial,URY,15.0,24,47.0,Chronic,0
+All Industrial,URY,16.0,47,42.0,Chronic,0
+All Industrial,URY,2.0,46,35.0,Chronic,0
+All Industrial,URY,11.200000000000001,45,32.0,Chronic,0
+Miscellaneous,AUS,0.15,51,37.0,Chronic,0
+Miscellaneous,AUS,0.2,20,32.0,Chronic,0
+Miscellaneous,AUS,0.0396600566572238,20,20.5,Chronic,0
+Miscellaneous,AUS,0.098125,43,17.0,Chronic,0
+Miscellaneous,AUS,0.12037037037037039,58,12.0,Chronic,0
+Miscellaneous,BLR,10.016286644951142,50,22.0,Chronic,0
+Miscellaneous,BLR,5.861136158701533,31,17.0,Chronic,0
+Miscellaneous,BLR,4.372574385510996,26,12.0,Chronic,0
+Miscellaneous,BEL,0.121461649782923,33,11.0,Chronic,0
+Miscellaneous,BRA,0.15,49,32.0,Chronic,0
+Miscellaneous,BRA,0.3926687378556456,27,27.0,Chronic,0
+Miscellaneous,BRA,0.4174937343358396,44,23.0,Chronic,0
+Miscellaneous,BRA,0.3760636621493854,46,12.0,Chronic,0
+Miscellaneous,BGR,1.9,40,27.0,Chronic,0
+Miscellaneous,CAN,0.7000000000000001,26,47.0,Chronic,0
+Miscellaneous,CAN,0.55,59,42.0,Chronic,0
+Miscellaneous,CAN,0.55,54,37.0,Chronic,0
+Miscellaneous,CAN,0.25,48,32.0,Chronic,0
+Miscellaneous,CAN,0.38000000000000006,53,27.0,Chronic,0
+Miscellaneous,CAN,0.25,43,23.0,Chronic,0
+Miscellaneous,TWN,0.7000000000000001,36,32.0,Chronic,0
+Miscellaneous,TWN,0.05,23,27.0,Chronic,0
+Miscellaneous,TWN,0.03,33,23.0,Chronic,0
+Miscellaneous,CUB,6.6000000000000005,30,32.0,Chronic,0
+Miscellaneous,CZE,3.3000000000000003,44,32.0,Chronic,0
+Miscellaneous,DNK,0.16129032258064518,57,17.0,Chronic,0
+Miscellaneous,DNK,0.3409090909090909,23,12.0,Chronic,0
+Miscellaneous,SLV,1.5,26,22.5,Chronic,0
+Miscellaneous,EST,3.5700000000000003,31,27.0,Chronic,0
+Miscellaneous,EST,3.375961538461537,26,22.0,Chronic,0
+Miscellaneous,EST,2.9380952380952357,20,17.0,Chronic,0
+Miscellaneous,EST,0.9679442508710802,23,12.0,Chronic,0
+Miscellaneous,FIN,0.2,52,42.0,Chronic,0
 Miscellaneous,FIN,0.22499999999999998,52,37.0,Chronic,0
-Miscellaneous,FIN,0.8500000000000001,52,32.0,Chronic,0
-Miscellaneous,FIN,0.4,43,27.0,Chronic,0
-Miscellaneous,FIN,0.24,27,23.0,Chronic,0
-Miscellaneous,FRA,0.265,33,37.0,Chronic,0
-Miscellaneous,DEU,0.52,49,47.0,Chronic,0
-Miscellaneous,DEU,0.075,31,42.0,Chronic,0
-Miscellaneous,DEU,0.5800000000000001,25,37.0,Chronic,0
-Miscellaneous,DEU,0.15,37,32.0,Chronic,0
-Miscellaneous,DEU,0.25,41,27.0,Chronic,0
-Miscellaneous,DEU,0.17348016106855263,23,22.0,Chronic,0
-Miscellaneous,DEU,0.13864474304985278,36,17.0,Chronic,0
-Miscellaneous,DEU,0.09600585036417585,35,12.0,Chronic,0
-Miscellaneous,GRC,0.3,49,32.0,Chronic,0
-Miscellaneous,GRC,0.35000000000000003,23,27.0,Chronic,0
-Miscellaneous,GRC,0.6357804701231418,29,22.0,Chronic,0
-Miscellaneous,GRC,0.1886643052945007,47,17.0,Chronic,0
-Miscellaneous,GRC,0.13969163009117355,57,12.0,Chronic,0
-Miscellaneous,HUN,0.52,53,47.0,Chronic,0
-Miscellaneous,HUN,0.075,42,42.0,Chronic,0
-Miscellaneous,HUN,0.21999999999999997,53,37.0,Chronic,0
-Miscellaneous,HUN,0.2,55,32.0,Chronic,0
-Miscellaneous,HUN,0.208,27,27.0,Chronic,0
-Miscellaneous,HUN,0.16699999999999998,37,23.0,Chronic,0
-Miscellaneous,IND,1.45,36,42.0,Chronic,0
-Miscellaneous,IND,1.2,51,37.0,Chronic,0
-Miscellaneous,IND,1.05,26,32.0,Chronic,0
-Miscellaneous,IND,0.6856355765446674,26,11.5,Chronic,0
-Miscellaneous,IND,0.43596625766871167,26,8.5,Chronic,0
-Miscellaneous,IDN,4.6000000000000005,35,42.0,Chronic,0
-Miscellaneous,IDN,3.5999999999999996,50,37.0,Chronic,0
-Miscellaneous,ITA,0.41000000000000003,57,37.0,Chronic,0
-Miscellaneous,JPN,0.11499999999999999,60,42.0,Chronic,0
-Miscellaneous,JPN,0.085,20,37.0,Chronic,0
-Miscellaneous,JPN,0.05,22,32.0,Chronic,0
-Miscellaneous,JPN,0.06838162153797805,46,27.0,Chronic,0
-Miscellaneous,JPN,0.037530620648395706,58,23.0,Chronic,0
+Miscellaneous,FIN,0.8500000000000001,50,32.0,Chronic,0
+Miscellaneous,FIN,0.4,25,27.0,Chronic,0
+Miscellaneous,FIN,0.24,56,23.0,Chronic,0
+Miscellaneous,FRA,0.265,51,37.0,Chronic,0
+Miscellaneous,DEU,0.52,21,47.0,Chronic,0
+Miscellaneous,DEU,0.075,28,42.0,Chronic,0
+Miscellaneous,DEU,0.5800000000000001,48,37.0,Chronic,0
+Miscellaneous,DEU,0.15,25,32.0,Chronic,0
+Miscellaneous,DEU,0.25,34,27.0,Chronic,0
+Miscellaneous,DEU,0.17348016106855263,45,22.0,Chronic,0
+Miscellaneous,DEU,0.13864474304985278,51,17.0,Chronic,0
+Miscellaneous,DEU,0.09600585036417585,41,12.0,Chronic,0
+Miscellaneous,GRC,0.3,45,32.0,Chronic,0
+Miscellaneous,GRC,0.35000000000000003,30,27.0,Chronic,0
+Miscellaneous,GRC,0.6357804701231418,28,22.0,Chronic,0
+Miscellaneous,GRC,0.1886643052945007,27,17.0,Chronic,0
+Miscellaneous,GRC,0.13969163009117355,53,12.0,Chronic,0
+Miscellaneous,HUN,0.52,49,47.0,Chronic,0
+Miscellaneous,HUN,0.075,39,42.0,Chronic,0
+Miscellaneous,HUN,0.21999999999999997,27,37.0,Chronic,0
+Miscellaneous,HUN,0.2,35,32.0,Chronic,0
+Miscellaneous,HUN,0.208,50,27.0,Chronic,0
+Miscellaneous,HUN,0.16699999999999998,35,23.0,Chronic,0
+Miscellaneous,IND,1.45,53,42.0,Chronic,0
+Miscellaneous,IND,1.2,34,37.0,Chronic,0
+Miscellaneous,IND,1.05,28,32.0,Chronic,0
+Miscellaneous,IND,0.6856355765446674,25,11.5,Chronic,0
+Miscellaneous,IND,0.43596625766871167,43,8.5,Chronic,0
+Miscellaneous,IDN,4.6000000000000005,59,42.0,Chronic,0
+Miscellaneous,IDN,3.5999999999999996,40,37.0,Chronic,0
+Miscellaneous,ITA,0.41000000000000003,34,37.0,Chronic,0
+Miscellaneous,JPN,0.11499999999999999,43,42.0,Chronic,0
+Miscellaneous,JPN,0.085,36,37.0,Chronic,0
+Miscellaneous,JPN,0.05,46,32.0,Chronic,0
+Miscellaneous,JPN,0.06838162153797805,31,27.0,Chronic,0
+Miscellaneous,JPN,0.037530620648395706,46,23.0,Chronic,0
 Miscellaneous,LBN,0.45,35,10.0,Chronic,0
-Miscellaneous,LTU,5.2,28,27.0,Chronic,0
-Miscellaneous,LTU,3.578850574712644,44,22.0,Chronic,0
-Miscellaneous,LTU,0.584321223709369,41,17.0,Chronic,0
-Miscellaneous,LTU,0.3947547683923705,39,12.0,Chronic,0
-Miscellaneous,LUX,0.00039000000000000005,25,23.0,Chronic,0
-Miscellaneous,MEX,2.55,46,26.0,Chronic,0
-Miscellaneous,MEX,2.86,26,23.5,Chronic,0
-Miscellaneous,MMR,5.8999999999999995,55,32.0,Chronic,0
-Miscellaneous,NLD,0.75,46,32.0,Chronic,0
-Miscellaneous,NLD,0.2,29,27.0,Chronic,0
-Miscellaneous,NLD,0.12,42,23.0,Chronic,0
-Miscellaneous,NOR,0.16,38,42.0,Chronic,0
-Miscellaneous,NOR,0.28500000000000003,53,37.0,Chronic,0
-Miscellaneous,NOR,0.2,32,32.0,Chronic,0
-Miscellaneous,NOR,0.08,46,23.0,Chronic,0
-Miscellaneous,PAK,13.65,35,32.0,Chronic,0
-Miscellaneous,PHL ,0.159618,51,8.0,Chronic,0
-Miscellaneous,POL,0.022222222222222227,20,20.5,Chronic,0
-Miscellaneous,POL,1.300328330206379,58,17.0,Chronic,0
-Miscellaneous,POL,0.589329050678087,45,12.0,Chronic,0
-Miscellaneous,PRT,2.1,56,37.0,Chronic,0
-Miscellaneous,KOR,0.63,31,20.5,Chronic,0
-Miscellaneous,KOR,0.98,46,17.0,Chronic,0
-Miscellaneous,KOR,0.21999999999999997,24,12.0,Chronic,0
-Miscellaneous,ROU,5.550000000000001,34,27.0,Chronic,0
-Miscellaneous,ROU,4.86,40,23.0,Chronic,0
-Miscellaneous,SVK,1.6500000000000001,28,32.0,Chronic,0
-Miscellaneous,SVK,4.63,40,23.0,Chronic,0
-Miscellaneous,ZAF,0.035,43,47.0,Chronic,0
-Miscellaneous,ZAF,6.45,43,42.0,Chronic,0
-Miscellaneous,ZAF,2.45,29,37.0,Chronic,0
-Miscellaneous,ESP,0.9168084836169672,26,22.0,Chronic,0
+Miscellaneous,LTU,5.2,22,27.0,Chronic,0
+Miscellaneous,LTU,3.578850574712644,51,22.0,Chronic,0
+Miscellaneous,LTU,0.584321223709369,20,17.0,Chronic,0
+Miscellaneous,LTU,0.3947547683923705,29,12.0,Chronic,0
+Miscellaneous,LUX,0.00039000000000000005,32,23.0,Chronic,0
+Miscellaneous,MEX,2.55,41,26.0,Chronic,0
+Miscellaneous,MEX,2.86,45,23.5,Chronic,0
+Miscellaneous,MMR,5.8999999999999995,39,32.0,Chronic,0
+Miscellaneous,NLD,0.75,54,32.0,Chronic,0
+Miscellaneous,NLD,0.2,54,27.0,Chronic,0
+Miscellaneous,NLD,0.12,51,23.0,Chronic,0
+Miscellaneous,NOR,0.16,41,42.0,Chronic,0
+Miscellaneous,NOR,0.28500000000000003,43,37.0,Chronic,0
+Miscellaneous,NOR,0.2,35,32.0,Chronic,0
+Miscellaneous,NOR,0.08,42,23.0,Chronic,0
+Miscellaneous,PAK,13.65,39,32.0,Chronic,0
+Miscellaneous,PHL ,0.159618,54,8.0,Chronic,0
+Miscellaneous,POL,0.022222222222222227,21,20.5,Chronic,0
+Miscellaneous,POL,1.300328330206379,42,17.0,Chronic,0
+Miscellaneous,POL,0.589329050678087,35,12.0,Chronic,0
+Miscellaneous,PRT,2.1,54,37.0,Chronic,0
+Miscellaneous,KOR,0.63,48,20.5,Chronic,0
+Miscellaneous,KOR,0.98,26,17.0,Chronic,0
+Miscellaneous,KOR,0.21999999999999997,56,12.0,Chronic,0
+Miscellaneous,ROU,5.550000000000001,56,27.0,Chronic,0
+Miscellaneous,ROU,4.86,43,23.0,Chronic,0
+Miscellaneous,SVK,1.6500000000000001,24,32.0,Chronic,0
+Miscellaneous,SVK,4.63,22,23.0,Chronic,0
+Miscellaneous,ZAF,0.035,27,47.0,Chronic,0
+Miscellaneous,ZAF,6.45,25,42.0,Chronic,0
+Miscellaneous,ZAF,2.45,46,37.0,Chronic,0
+Miscellaneous,ESP,0.9168084836169672,45,22.0,Chronic,0
 Miscellaneous,ESP,0.5140230105465005,33,17.0,Chronic,0
-Miscellaneous,ESP,0.36633427520042056,37,12.0,Chronic,0
-Miscellaneous,LKA,0.25,31,32.0,Chronic,0
-Miscellaneous,SWE,0.06,23,25.0,Chronic,0
-Miscellaneous,SWE,0.34972022382094337,54,22.0,Chronic,0
-Miscellaneous,SWE,0.5,46,17.0,Chronic,0
-Miscellaneous,SWE,0.866,24,12.0,Chronic,0
-Miscellaneous,CHE,0.794,28,27.0,Chronic,0
-Miscellaneous,CHE,0.36939779683440527,22,22.0,Chronic,0
-Miscellaneous,CHE,0.2984050202640868,27,17.0,Chronic,0
-Miscellaneous,CHE,0.30646288209606987,21,12.0,Chronic,0
-Miscellaneous,SYR,1.0,22,32.0,Chronic,0
-Miscellaneous,THA,0.6,23,32.0,Chronic,0
-Miscellaneous,GBR,1.6,57,37.0,Chronic,0
-Miscellaneous,GBR,0.8500000000000001,32,32.0,Chronic,0
-Miscellaneous,TZA,10.700000000000001,32,32.0,Chronic,0
-Miscellaneous,USA,0.14750611295548974,57,20.5,Chronic,0
-Miscellaneous,USA,0.26226578539906004,23,17.0,Chronic,0
-Miscellaneous,USA,0.33369952437498807,41,12.0,Chronic,0
-Miscellaneous,USA,0.3,50,32.0,Chronic,0
-Miscellaneous,USA,0.24055274286390593,27,27.0,Chronic,0
-Miscellaneous,USA,0.3015924683587894,46,22.0,Chronic,0
-Miscellaneous,USA,0.31626788063271416,41,17.0,Chronic,0
-Miscellaneous,USA,0.3139431389891105,48,12.0,Chronic,0
+Miscellaneous,ESP,0.36633427520042056,57,12.0,Chronic,0
+Miscellaneous,LKA,0.25,28,32.0,Chronic,0
+Miscellaneous,SWE,0.06,46,25.0,Chronic,0
+Miscellaneous,SWE,0.34972022382094337,47,22.0,Chronic,0
+Miscellaneous,SWE,0.5,36,17.0,Chronic,0
+Miscellaneous,SWE,0.866,43,12.0,Chronic,0
+Miscellaneous,CHE,0.794,56,27.0,Chronic,0
+Miscellaneous,CHE,0.36939779683440527,53,22.0,Chronic,0
+Miscellaneous,CHE,0.2984050202640868,30,17.0,Chronic,0
+Miscellaneous,CHE,0.30646288209606987,26,12.0,Chronic,0
+Miscellaneous,SYR,1.0,32,32.0,Chronic,0
+Miscellaneous,THA,0.6,48,32.0,Chronic,0
+Miscellaneous,GBR,1.6,54,37.0,Chronic,0
+Miscellaneous,GBR,0.8500000000000001,57,32.0,Chronic,0
+Miscellaneous,TZA,10.700000000000001,20,32.0,Chronic,0
+Miscellaneous,USA,0.14750611295548974,60,20.5,Chronic,0
+Miscellaneous,USA,0.26226578539906004,37,17.0,Chronic,0
+Miscellaneous,USA,0.33369952437498807,22,12.0,Chronic,0
+Miscellaneous,USA,0.3,30,32.0,Chronic,0
+Miscellaneous,USA,0.24055274286390593,29,27.0,Chronic,0
+Miscellaneous,USA,0.3015924683587894,38,22.0,Chronic,0
+Miscellaneous,USA,0.31626788063271416,21,17.0,Chronic,0
+Miscellaneous,USA,0.3139431389891105,55,12.0,Chronic,0
 Miscellaneous,USA,0.55,55,32.0,Chronic,0
-Miscellaneous,USA,0.4838709677419355,53,27.0,Chronic,0
-Miscellaneous,USA,0.3015924683587894,41,22.0,Chronic,0
-Miscellaneous,USA,0.35000000000000003,29,17.0,Chronic,0
-Miscellaneous,USA,0.35000000000000003,20,12.0,Chronic,0
-Miscellaneous,ARG,3.07651515151514,57,20.5,Chronic,0
-Miscellaneous,ARG,5.3917393751759,42,17.0,Chronic,0
-Miscellaneous,ARG,1.85724250174378,23,12.0,Chronic,0
-Miscellaneous,ARG,0.1485201149425288,47,8.5,Chronic,0
-Miscellaneous,CZE,1.128333333333332,39,20.5,Chronic,0
-Miscellaneous,CZE,2.398529411764706,25,17.0,Chronic,0
-Miscellaneous,CZE,2.3987999999999996,56,12.0,Chronic,0
-Miscellaneous,EST,2.37563492063492,31,20.5,Chronic,0
-Miscellaneous,EST,4.114712121212115,57,17.0,Chronic,0
-Miscellaneous,EST,5.26060606060605,57,12.0,Chronic,0
-Miscellaneous,DEU,0.27387004561755,22,20.5,Chronic,0
-Miscellaneous,DEU,0.557755181512265,37,17.0,Chronic,0
-Miscellaneous,DEU,0.21603251722690348,50,12.0,Chronic,0
-Miscellaneous,POL,3.667195006747635,43,17.0,Chronic,0
-Miscellaneous,POL,2.963381337493435,24,12.0,Chronic,0
-Miscellaneous,GBR,0.6916666666666667,48,12.0,Chronic,0
-Miscellaneous,URY,0.47719289751712013,33,20.5,Chronic,0
-Miscellaneous,URY,1.2628929289942978,29,17.0,Chronic,0
-Miscellaneous,URY,0.5360469018484129,47,12.0,Chronic,0
-Miscellaneous,BRA,69.75,29,12.0,Chronic,0
-Miscellaneous,CAN ,1.283308047002826,33,20.5,Chronic,0
-Miscellaneous,CAN ,3.7926024191917103,38,17.0,Chronic,0
-Miscellaneous,CAN ,3.080256590217045,34,12.0,Chronic,0
-Miscellaneous,DNK,0.636024844720498,27,20.5,Chronic,0
-Miscellaneous,DNK,0.98518051975959,42,17.0,Chronic,0
-Miscellaneous,DNK,1.007960965588085,26,12.0,Chronic,0
-Miscellaneous,EST,0.42,44,20.5,Chronic,0
-Miscellaneous,EST,3.5999999999999996,50,12.0,Chronic,0
-Miscellaneous,DEU,1.107543906302654,35,20.5,Chronic,0
-Miscellaneous,DEU,2.00032664887056,48,17.0,Chronic,0
-Miscellaneous,DEU,0.545489552122865,38,12.0,Chronic,0
-Miscellaneous,IRE,,35,20.5,Chronic,0
-Miscellaneous,LUX,,40,17.0,Chronic,0
-Miscellaneous,KOR,4.6000000000000005,58,22.0,Chronic,0
-Miscellaneous,KOR,3.8200000000000003,20,17.0,Chronic,0
-Miscellaneous,KOR,1.96,23,12.0,Chronic,0
-Miscellaneous,ESP,0.636024844720498,43,20.5,Chronic,0
-Miscellaneous,ESP,,55,17.0,Chronic,0
-Miscellaneous,ESP,,41,12.0,Chronic,0
-Miscellaneous,SWE,0.255,57,17.0,Chronic,0
-Miscellaneous,SWE,0.16901,35,12.0,Chronic,0
-Miscellaneous,SWE,1.2318353840768137,24,20.5,Chronic,0
-Miscellaneous,SWE,2.4240087690179175,27,17.0,Chronic,0
-Miscellaneous,SWE,1.5623218756999624,23,12.0,Chronic,0
-Miscellaneous,DZA,0.5146496815286624,23,16.5,Chronic,0
-Miscellaneous,DZA,1.8764953119948262,47,12.0,Chronic,0
-Miscellaneous,ARG,0.024618149146451,30,20.5,Chronic,0
-Miscellaneous,ARG,0.42522644606322746,23,17.0,Chronic,0
-Miscellaneous,ARG,0.19627435416247002,60,12.0,Chronic,0
-Miscellaneous,ARG,0.0751326798948123,44,8.0,Chronic,0
-Miscellaneous,BLR,3.4076923076923076,59,20.5,Chronic,0
-Miscellaneous,BLR,2.94314381270903,58,17.0,Chronic,0
-Miscellaneous,BLR,2.8290766208251474,46,12.0,Chronic,0
-Miscellaneous,BEL,0.5551587301587302,35,11.0,Chronic,0
-Miscellaneous,BRA,3.9000000000000004,58,32.0,Chronic,0
-Miscellaneous,BRA,4.397435897435898,23,12.0,Chronic,0
-Miscellaneous,CAN ,0.21597616101416706,49,20.5,Chronic,0
-Miscellaneous,CAN ,0.2876302578535027,38,17.0,Chronic,0
-Miscellaneous,CAN ,0.28793499174699916,51,12.0,Chronic,0
-Miscellaneous,TWN,2.55,59,32.0,Chronic,0
-Miscellaneous,TWN,0.4,30,27.0,Chronic,0
-Miscellaneous,TWN,0.15000000000000002,29,23.0,Chronic,0
-Miscellaneous,HRV,0.21000000000000002,34,23.0,Chronic,0
-Miscellaneous,CUB,2.96,38,31.5,Chronic,0
-Miscellaneous,CYP,3.05,21,32.0,Chronic,0
-Miscellaneous,CZE,2.84,32,31.5,Chronic,0
-Miscellaneous,CZE,4.699999999999999,25,27.0,Chronic,0
-Miscellaneous,CZE,2.4229277919665657,38,22.0,Chronic,0
-Miscellaneous,CZE,1.7087359792924932,35,17.0,Chronic,0
-Miscellaneous,CZE,1.185211267605635,60,12.0,Chronic,0
-Miscellaneous,DNK,0.04,54,32.0,Chronic,0
-Miscellaneous,DNK,0.03333333333333333,56,27.0,Chronic,0
-Miscellaneous,DNK,0.019889502762430938,52,20.5,Chronic,0
-Miscellaneous,DNK,0.05745125348189415,49,17.0,Chronic,0
-Miscellaneous,DNK,0.41091954022988514,23,12.0,Chronic,0
-Miscellaneous,ECU,2.08,46,30.5,Chronic,0
-Miscellaneous,EST,1.86375,27,20.5,Chronic,0
-Miscellaneous,EST,3.8901913875598093,45,17.0,Chronic,0
-Miscellaneous,EST,2.617399617590822,20,12.0,Chronic,0
-Miscellaneous,FIN,0.55,54,27.0,Chronic,0
-Miscellaneous,FIN,0.15000000000000002,26,23.0,Chronic,0
-Miscellaneous,FRA,20.5,26,32.0,Chronic,0
-Miscellaneous,FRA,0.3875262150086623,22,17.0,Chronic,0
-Miscellaneous,DEU,3.2,47,32.0,Chronic,0
-Miscellaneous,DEU,0.49356855739169275,48,20.5,Chronic,0
-Miscellaneous,DEU,1.279034463894967,28,17.0,Chronic,0
-Miscellaneous,DEU,0.7326435412634609,51,12.0,Chronic,0
-Miscellaneous,GRC,1.45,48,32.0,Chronic,0
+Miscellaneous,USA,0.4838709677419355,43,27.0,Chronic,0
+Miscellaneous,USA,0.3015924683587894,60,22.0,Chronic,0
+Miscellaneous,USA,0.35000000000000003,58,17.0,Chronic,0
+Miscellaneous,USA,0.35000000000000003,22,12.0,Chronic,0
+Miscellaneous,ARG,3.07651515151514,39,20.5,Chronic,0
+Miscellaneous,ARG,5.3917393751759,36,17.0,Chronic,0
+Miscellaneous,ARG,1.85724250174378,50,12.0,Chronic,0
+Miscellaneous,ARG,0.1485201149425288,24,8.5,Chronic,0
+Miscellaneous,CZE,1.128333333333332,41,20.5,Chronic,0
+Miscellaneous,CZE,2.398529411764706,51,17.0,Chronic,0
+Miscellaneous,CZE,2.3987999999999996,54,12.0,Chronic,0
+Miscellaneous,EST,2.37563492063492,27,20.5,Chronic,0
+Miscellaneous,EST,4.114712121212115,44,17.0,Chronic,0
+Miscellaneous,EST,5.26060606060605,49,12.0,Chronic,0
+Miscellaneous,DEU,0.27387004561755,54,20.5,Chronic,0
+Miscellaneous,DEU,0.557755181512265,59,17.0,Chronic,0
+Miscellaneous,DEU,0.21603251722690348,54,12.0,Chronic,0
+Miscellaneous,POL,3.667195006747635,57,17.0,Chronic,0
+Miscellaneous,POL,2.963381337493435,22,12.0,Chronic,0
+Miscellaneous,GBR,0.6916666666666667,58,12.0,Chronic,0
+Miscellaneous,URY,0.47719289751712013,20,20.5,Chronic,0
+Miscellaneous,URY,1.2628929289942978,58,17.0,Chronic,0
+Miscellaneous,URY,0.5360469018484129,57,12.0,Chronic,0
+Miscellaneous,BRA,69.75,57,12.0,Chronic,0
+Miscellaneous,CAN ,1.283308047002826,44,20.5,Chronic,0
+Miscellaneous,CAN ,3.7926024191917103,39,17.0,Chronic,0
+Miscellaneous,CAN ,3.080256590217045,47,12.0,Chronic,0
+Miscellaneous,DNK,0.636024844720498,59,20.5,Chronic,0
+Miscellaneous,DNK,0.98518051975959,37,17.0,Chronic,0
+Miscellaneous,DNK,1.007960965588085,23,12.0,Chronic,0
+Miscellaneous,EST,0.42,42,20.5,Chronic,0
+Miscellaneous,EST,3.5999999999999996,33,12.0,Chronic,0
+Miscellaneous,DEU,1.107543906302654,58,20.5,Chronic,0
+Miscellaneous,DEU,2.00032664887056,40,17.0,Chronic,0
+Miscellaneous,DEU,0.545489552122865,20,12.0,Chronic,0
+Miscellaneous,IRE,,34,20.5,Chronic,0
+Miscellaneous,LUX,,36,17.0,Chronic,0
+Miscellaneous,KOR,4.6000000000000005,32,22.0,Chronic,0
+Miscellaneous,KOR,3.8200000000000003,21,17.0,Chronic,0
+Miscellaneous,KOR,1.96,58,12.0,Chronic,0
+Miscellaneous,ESP,0.636024844720498,48,20.5,Chronic,0
+Miscellaneous,ESP,,38,17.0,Chronic,0
+Miscellaneous,ESP,,47,12.0,Chronic,0
+Miscellaneous,SWE,0.255,29,17.0,Chronic,0
+Miscellaneous,SWE,0.16901,24,12.0,Chronic,0
+Miscellaneous,SWE,1.2318353840768137,42,20.5,Chronic,0
+Miscellaneous,SWE,2.4240087690179175,44,17.0,Chronic,0
+Miscellaneous,SWE,1.5623218756999624,31,12.0,Chronic,0
+Miscellaneous,DZA,0.5146496815286624,60,16.5,Chronic,0
+Miscellaneous,DZA,1.8764953119948262,21,12.0,Chronic,0
+Miscellaneous,ARG,0.024618149146451,34,20.5,Chronic,0
+Miscellaneous,ARG,0.42522644606322746,54,17.0,Chronic,0
+Miscellaneous,ARG,0.19627435416247002,41,12.0,Chronic,0
+Miscellaneous,ARG,0.0751326798948123,52,8.0,Chronic,0
+Miscellaneous,BLR,3.4076923076923076,41,20.5,Chronic,0
+Miscellaneous,BLR,2.94314381270903,30,17.0,Chronic,0
+Miscellaneous,BLR,2.8290766208251474,52,12.0,Chronic,0
+Miscellaneous,BEL,0.5551587301587302,34,11.0,Chronic,0
+Miscellaneous,BRA,3.9000000000000004,33,32.0,Chronic,0
+Miscellaneous,BRA,4.397435897435898,53,12.0,Chronic,0
+Miscellaneous,CAN ,0.21597616101416706,26,20.5,Chronic,0
+Miscellaneous,CAN ,0.2876302578535027,58,17.0,Chronic,0
+Miscellaneous,CAN ,0.28793499174699916,30,12.0,Chronic,0
+Miscellaneous,TWN,2.55,25,32.0,Chronic,0
+Miscellaneous,TWN,0.4,35,27.0,Chronic,0
+Miscellaneous,TWN,0.15000000000000002,43,23.0,Chronic,0
+Miscellaneous,HRV,0.21000000000000002,27,23.0,Chronic,0
+Miscellaneous,CUB,2.96,29,31.5,Chronic,0
+Miscellaneous,CYP,3.05,20,32.0,Chronic,0
+Miscellaneous,CZE,2.84,51,31.5,Chronic,0
+Miscellaneous,CZE,4.699999999999999,47,27.0,Chronic,0
+Miscellaneous,CZE,2.4229277919665657,53,22.0,Chronic,0
+Miscellaneous,CZE,1.7087359792924932,40,17.0,Chronic,0
+Miscellaneous,CZE,1.185211267605635,21,12.0,Chronic,0
+Miscellaneous,DNK,0.04,49,32.0,Chronic,0
+Miscellaneous,DNK,0.03333333333333333,59,27.0,Chronic,0
+Miscellaneous,DNK,0.019889502762430938,47,20.5,Chronic,0
+Miscellaneous,DNK,0.05745125348189415,59,17.0,Chronic,0
+Miscellaneous,DNK,0.41091954022988514,42,12.0,Chronic,0
+Miscellaneous,ECU,2.08,57,30.5,Chronic,0
+Miscellaneous,EST,1.86375,44,20.5,Chronic,0
+Miscellaneous,EST,3.8901913875598093,54,17.0,Chronic,0
+Miscellaneous,EST,2.617399617590822,52,12.0,Chronic,0
+Miscellaneous,FIN,0.55,20,27.0,Chronic,0
+Miscellaneous,FIN,0.15000000000000002,35,23.0,Chronic,0
+Miscellaneous,FRA,20.5,37,32.0,Chronic,0
+Miscellaneous,FRA,0.3875262150086623,31,17.0,Chronic,0
+Miscellaneous,DEU,3.2,35,32.0,Chronic,0
+Miscellaneous,DEU,0.49356855739169275,58,20.5,Chronic,0
+Miscellaneous,DEU,1.279034463894967,59,17.0,Chronic,0
+Miscellaneous,DEU,0.7326435412634609,54,12.0,Chronic,0
+Miscellaneous,GRC,1.45,50,32.0,Chronic,0
 Miscellaneous,GRC,1.05,58,27.0,Chronic,0
-Miscellaneous,GRC,1.7285714286577694,38,22.0,Chronic,0
-Miscellaneous,GRC,1.474119719826206,59,17.0,Chronic,0
-Miscellaneous,GRC,0.9882129288275,25,12.0,Chronic,0
-Miscellaneous,IND,0.48,40,11.5,Chronic,0
-Miscellaneous,IND,0.27,40,8.5,Chronic,0
-Miscellaneous,KWT,1.05,51,27.0,Chronic,0
-Miscellaneous,KWT,1.1099999999999999,59,23.0,Chronic,0
-Miscellaneous,LTU,9.85,38,27.0,Chronic,0
-Miscellaneous,LTU,2.64,48,23.0,Chronic,0
-Miscellaneous,NLD,0.36,43,32.5,Chronic,0
-Miscellaneous,NLD,0.44999999999999996,32,27.0,Chronic,0
-Miscellaneous,NLD,0.18,38,23.0,Chronic,0
+Miscellaneous,GRC,1.7285714286577694,57,22.0,Chronic,0
+Miscellaneous,GRC,1.474119719826206,60,17.0,Chronic,0
+Miscellaneous,GRC,0.9882129288275,28,12.0,Chronic,0
+Miscellaneous,IND,0.48,37,11.5,Chronic,0
+Miscellaneous,IND,0.27,24,8.5,Chronic,0
+Miscellaneous,KWT,1.05,35,27.0,Chronic,0
+Miscellaneous,KWT,1.1099999999999999,52,23.0,Chronic,0
+Miscellaneous,LTU,9.85,43,27.0,Chronic,0
+Miscellaneous,LTU,2.64,47,23.0,Chronic,0
+Miscellaneous,NLD,0.36,53,32.5,Chronic,0
+Miscellaneous,NLD,0.44999999999999996,57,27.0,Chronic,0
+Miscellaneous,NLD,0.18,49,23.0,Chronic,0
 Miscellaneous,NOR ,0.5900000000000001,26,23.0,Chronic,0
-Miscellaneous,PER,0.6,46,30.0,Chronic,0
-Miscellaneous,PHL ,3.66144800000001,39,8.0,Chronic,0
-Miscellaneous,POL,0.06153846153846154,26,20.5,Chronic,0
-Miscellaneous,POL,0.2684163701067616,38,17.0,Chronic,0
-Miscellaneous,POL,0.3260355029585799,56,12.0,Chronic,0
-Miscellaneous,KOR,0.71,48,20.5,Chronic,0
-Miscellaneous,KOR,1.02,51,17.0,Chronic,0
-Miscellaneous,KOR,0.16,30,12.0,Chronic,0
-Miscellaneous,SVK,2.8499999999999996,30,32.0,Chronic,0
-Miscellaneous,SVN,88.5,32,32.0,Chronic,0
-Miscellaneous,SVN,0.36,52,23.0,Chronic,0
-Miscellaneous,ESP,1.2239547004289308,60,23.0,Chronic,0
-Miscellaneous,SWE,0.09,26,25.0,Chronic,0
-Miscellaneous,SWE,0.42000000000000004,39,23.0,Chronic,0
-Miscellaneous,SWE,0.25906735751295334,44,12.0,Chronic,0
-Miscellaneous,CHE,0.11499999999999999,51,27.0,Chronic,0
-Miscellaneous,CHE,0.029508993680116693,30,22.0,Chronic,0
-Miscellaneous,CHE,0.039627039627039624,59,17.0,Chronic,0
-Miscellaneous,CHE,0.04489337822671156,24,12.0,Chronic,0
-Miscellaneous,GBR,0.18,51,21.0,Chronic,0
-Miscellaneous,USA,3.5,49,32.0,Chronic,0
-Miscellaneous,USA,0.5946899089283559,35,27.0,Chronic,0
-Miscellaneous,USA,0.23692074018520282,57,23.0,Chronic,0
-Miscellaneous,USA,0.5203183995023659,20,27.0,Chronic,0
-Miscellaneous,USA,0.5962942125644964,40,22.0,Chronic,0
-Miscellaneous,USA,0.5501474454553166,46,17.0,Chronic,0
-Miscellaneous,USA,0.530848939152764,54,12.0,Chronic,0
-Military,FRA,1.466992665036675,42,17.0,Chronic,0
-Military,FRA,0.5470556840419853,22,12.0,Chronic,0
-Military,USA,3.1,25,47.0,Chronic,0
-Military,USA,3.1950000000000003,35,42.0,Chronic,0
-Military,USA,3.75,31,37.0,Chronic,0
-Military,USA,1.4000000000000001,55,32.0,Chronic,0
-Military,USA,0.32957796852646637,55,20.5,Chronic,0
-Military,USA,0.47191688273746485,31,17.0,Chronic,0
-Military,USA,0.4214125176183764,50,12.0,Chronic,0
-Military,USA,0.3076864303178484,40,20.5,Chronic,0
-Military,USA,0.5119369517905428,46,17.0,Chronic,0
-Military,USA,0.39142488873756653,34,12.0,Chronic,0
-Military,FRA,1.425855513307985,57,17.0,Chronic,0
-Military,FRA,0.524,24,12.0,Chronic,0
-Military,USA,1.8001712196445305,23,17.0,Chronic,0
-Military,USA,0.8215435047634427,60,12.0,Chronic,0
-Military,BRA,0.559433962264151,60,12.0,Chronic,0
-Military,CAN,0.25,54,27.0,Chronic,0
-Military,CAN,0.09,37,23.0,Chronic,0
-Military,CAN,0.05,27,20.5,Chronic,0
-Military,CAN,0.13732361019035894,34,22.0,Chronic,0
-Military,CAN,0.28,42,17.0,Chronic,0
-Military,CAN,0.19999999999999996,39,12.0,Chronic,0
-Military,CZE,5.3500000000000005,34,27.0,Chronic,0
-Military,CZE,3.25,54,22.0,Chronic,0
-Military,CZE,2.2730769230769248,31,17.0,Chronic,0
-Military,DNK,0.14492753623188412,60,12.0,Chronic,0
-Military,FRA,1.1500000000000001,31,32.0,Chronic,0
-Military,HUN,0.19534885,59,12.0,Chronic,0
-Military,NLD,0.05,21,32.0,Chronic,0
-Military,NLD,0.2,20,27.0,Chronic,0
-Military,NLD,0.0,38,23.0,Chronic,0
-Military,KOR,1.4000000000000001,25,17.0,Chronic,0
-Military,KOR,0.22999999999999998,44,12.0,Chronic,0
-Military,ROU,16.7,26,27.0,Chronic,0
-Military,ROU,7.199999999999999,47,23.0,Chronic,0
-Military,USA,5.45,54,47.0,Chronic,0
-Military,USA,2.7,51,42.0,Chronic,0
-Military,USA,3.0,21,37.0,Chronic,0
-Military,USA,0.95,28,32.0,Chronic,0
-Military,USA,0.65,28,27.0,Chronic,0
-Military,USA,0.5992,42,20.5,Chronic,0
+Miscellaneous,PER,0.6,30,30.0,Chronic,0
+Miscellaneous,PHL ,3.66144800000001,23,8.0,Chronic,0
+Miscellaneous,POL,0.06153846153846154,59,20.5,Chronic,0
+Miscellaneous,POL,0.2684163701067616,55,17.0,Chronic,0
+Miscellaneous,POL,0.3260355029585799,33,12.0,Chronic,0
+Miscellaneous,KOR,0.71,34,20.5,Chronic,0
+Miscellaneous,KOR,1.02,26,17.0,Chronic,0
+Miscellaneous,KOR,0.16,25,12.0,Chronic,0
+Miscellaneous,SVK,2.8499999999999996,47,32.0,Chronic,0
+Miscellaneous,SVN,88.5,45,32.0,Chronic,0
+Miscellaneous,SVN,0.36,43,23.0,Chronic,0
+Miscellaneous,ESP,1.2239547004289308,49,23.0,Chronic,0
+Miscellaneous,SWE,0.09,55,25.0,Chronic,0
+Miscellaneous,SWE,0.42000000000000004,20,23.0,Chronic,0
+Miscellaneous,SWE,0.25906735751295334,35,12.0,Chronic,0
+Miscellaneous,CHE,0.11499999999999999,58,27.0,Chronic,0
+Miscellaneous,CHE,0.029508993680116693,58,22.0,Chronic,0
+Miscellaneous,CHE,0.039627039627039624,36,17.0,Chronic,0
+Miscellaneous,CHE,0.04489337822671156,22,12.0,Chronic,0
+Miscellaneous,GBR,0.18,33,21.0,Chronic,0
+Miscellaneous,USA,3.5,44,32.0,Chronic,0
+Miscellaneous,USA,0.5946899089283559,53,27.0,Chronic,0
+Miscellaneous,USA,0.23692074018520282,24,23.0,Chronic,0
+Miscellaneous,USA,0.5203183995023659,23,27.0,Chronic,0
+Miscellaneous,USA,0.5962942125644964,23,22.0,Chronic,0
+Miscellaneous,USA,0.5501474454553166,29,17.0,Chronic,0
+Miscellaneous,USA,0.530848939152764,21,12.0,Chronic,0
+Military,FRA,1.466992665036675,33,17.0,Chronic,0
+Military,FRA,0.5470556840419853,41,12.0,Chronic,0
+Military,USA,3.1,28,47.0,Chronic,0
+Military,USA,3.1950000000000003,56,42.0,Chronic,0
+Military,USA,3.75,36,37.0,Chronic,0
+Military,USA,1.4000000000000001,41,32.0,Chronic,0
+Military,USA,0.32957796852646637,29,20.5,Chronic,0
+Military,USA,0.47191688273746485,27,17.0,Chronic,0
+Military,USA,0.4214125176183764,43,12.0,Chronic,0
+Military,USA,0.3076864303178484,42,20.5,Chronic,0
+Military,USA,0.5119369517905428,21,17.0,Chronic,0
+Military,USA,0.39142488873756653,38,12.0,Chronic,0
+Military,FRA,1.425855513307985,33,17.0,Chronic,0
+Military,FRA,0.524,26,12.0,Chronic,0
+Military,USA,1.8001712196445305,59,17.0,Chronic,0
+Military,USA,0.8215435047634427,42,12.0,Chronic,0
+Military,BRA,0.559433962264151,47,12.0,Chronic,0
+Military,CAN,0.25,44,27.0,Chronic,0
+Military,CAN,0.09,33,23.0,Chronic,0
+Military,CAN,0.05,47,20.5,Chronic,0
+Military,CAN,0.13732361019035894,37,22.0,Chronic,0
+Military,CAN,0.28,60,17.0,Chronic,0
+Military,CAN,0.19999999999999996,45,12.0,Chronic,0
+Military,CZE,5.3500000000000005,30,27.0,Chronic,0
+Military,CZE,3.25,57,22.0,Chronic,0
+Military,CZE,2.2730769230769248,23,17.0,Chronic,0
+Military,DNK,0.14492753623188412,59,12.0,Chronic,0
+Military,FRA,1.1500000000000001,49,32.0,Chronic,0
+Military,HUN,0.19534885,27,12.0,Chronic,0
+Military,NLD,0.05,54,32.0,Chronic,0
+Military,NLD,0.2,54,27.0,Chronic,0
+Military,NLD,0.0,55,23.0,Chronic,0
+Military,KOR,1.4000000000000001,40,17.0,Chronic,0
+Military,KOR,0.22999999999999998,60,12.0,Chronic,0
+Military,ROU,16.7,20,27.0,Chronic,0
+Military,ROU,7.199999999999999,27,23.0,Chronic,0
+Military,USA,5.45,60,47.0,Chronic,0
+Military,USA,2.7,24,42.0,Chronic,0
+Military,USA,3.0,59,37.0,Chronic,0
+Military,USA,0.95,42,32.0,Chronic,0
+Military,USA,0.65,48,27.0,Chronic,0
+Military,USA,0.5992,25,20.5,Chronic,0
 Military,USA,1.275,41,17.0,Chronic,0
-Military,USA,0.755,52,12.0,Chronic,0
-Military,USA,0.7106852267897261,21,27.0,Chronic,0
-Military,USA,1.4567796924139145,42,22.0,Chronic,0
-Military,USA,1.2289245060401428,22,17.0,Chronic,0
-Military,USA,0.7525970880602098,21,12.0,Chronic,0
+Military,USA,0.755,45,12.0,Chronic,0
+Military,USA,0.7106852267897261,34,27.0,Chronic,0
+Military,USA,1.4567796924139145,57,22.0,Chronic,0
+Military,USA,1.2289245060401428,27,17.0,Chronic,0
+Military,USA,0.7525970880602098,38,12.0,Chronic,0
