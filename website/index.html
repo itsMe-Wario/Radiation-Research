@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Klinik - Health First</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 wow fadeIn" data-wow-delay="0.1s">
+        <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+            <h1 class="m-0 text-primary"><i class="far fa-hospital me-3"></i>Klinik</h1>
+            <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+                <small>- Blood Test for Betterment</small>
+            </div>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="index.html" class="nav-item nav-link active">Home</a>
+                <a href="CKD_main.html" class="nav-item nav-link">CKD</a>
+            </div>
+            <a href="#check-section" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">
+                Check <i class="fa fa-arrow-right ms-3"></i>
+            </a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Header Start -->
+    <div class="container-fluid header bg-primary p-0 mb-5">
+        <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
+            <div class="col-lg-6 p-5 wow fadeIn" data-wow-delay="0.1s">
+                <h1 class="display-4 text-white mb-5">Good Health Is The Root Of All Happiness</h1>
+                <div class="row g-4">
+                    <div class="col-sm-4">
+                        <div class="border-start border-light ps-4">
+                            <h2 class="text-white mb-1" data-toggle="counter-up">2000</h2>
+                            <p class="text-light mb-0">Dataset</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="border-start border-light ps-4">
+                            <h2 class="text-white mb-1">Multiple</h2>
+                            <p class="text-light mb-0">ML Modle</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="border-start border-light ps-4">
+                            <h2 class="text-white mb-1" data-toggle="counter-up">90</h2>
+                            <p class="text-light mb-0">Above Accuracy</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="owl-carousel header-carousel">
+                    <div class="owl-carousel-item position-relative">
+                        <img class="img-fluid" src="img/carousel-2.jpg" alt="">
+                        <div class="owl-carousel-text">
+                            <h1 class="display-1 text-white mb-0">Hematology</h1>
+                        </div>
+                    </div>
+                    <div class="owl-carousel-item position-relative">
+                        <img class="img-fluid" src="img/carousel-3.jpg" alt="">
+                        <div class="owl-carousel-text">
+                            <h1 class="display-1 text-white mb-0">Blood Test</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="d-flex flex-column">
+                        <img class="img-fluid rounded w-75 align-self-end" src="img/about-1.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="img/about-2.jpg" alt=""
+                            style="margin-top: -25%;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <p class="d-inline-block border rounded-pill py-1 px-4">About Us</p>
+                    <h1 class="mb-4">Why You Should Trust Us? </h1>
+                    <p>We have a leading labrotory and ML tools specializing in advanced blood diagnostics, offering
+                        precise and timely
+                        testing to help you take control of your health. Our facility is equipped with state-of-the-art
+                        technology and
+                        staffed by a team of experienced professionals committed to delivering accurate results and
+                        compassionate care.</p>
+                    <p class="mb-4">From early detection of diseases like anemia and diabetes to comprehensive health
+                        screenings, we ensure
+                        every test is handled with utmost precision and care. Your trust is built on our consistent
+                        results, transparent
+                        reporting, and a patient-first approach.</p>
+                    <p><i class="far fa-check-circle text-primary me-3"></i>Accurate and timely blood diagnostics</p>
+                    <p><i class="far fa-check-circle text-primary me-3"></i>Board-certified pathologists & lab
+                        technicians</p>
+                    <p><i class="far fa-check-circle text-primary me-3"></i>Cutting-edge technology and patient
+                        confidentiality</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Service Start 1 -->
+    <div id="check-section" class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1>Upload Blood Test File</h1>
+                <p class="d-inline-block border rounded-pill py-1 px-4 custom-file-button" id="customFileButton">
+                    Choose File
+                </p>
+                <input type="file" id="csvFile" accept=".json" />
+                <div id="output"></div>
+            </div>
+
+        </div>
+    </div>
+    <!-- Service End 1 -->
+
+    <!-- Service Start 2 -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1>Manual Input</h1>
+            </div>
+            <div class="row g-4">
+
+                <!-- Glucose -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-tint text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Glucose</h4>
+                        <p class="mb-4">A key blood sugar level indicator, important for diagnosing and monitoring
+                            diabetes.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dL" style="height: 55px;"
+                                id="glucose">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cholesterol -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-tint text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Cholesterol</h4>
+                        <p class="mb-4">A fat-like substance vital for building cells and hormones. Comes in different
+                            forms like LDL and HDL.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dl" style="height: 55px;"
+                                id="cholesterol">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hemoglobin -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-medkit text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Hemoglobin</h4>
+                        <p class="mb-4">Protein in red blood cells that carries oxygen. Its levels reflect oxygen
+                            transport capacity.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="g/dl" style="height: 55px;"
+                                id="hemoglobin">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- White Blood Cells -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-shield-alt text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">White Blood Cells</h4>
+                        <p class="mb-4">Defend the body against infections. Total count reflects immune system activity.
+                        </p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="per cubic millimeter of blood"
+                                style="height: 55px;" id="wbc">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Red Blood Cells -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-tint text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Red Blood Cells</h4>
+                        <p class="mb-4">Carry oxygen from the lungs to the body. Count indicates overall oxygen
+                            delivery.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0"
+                                placeholder="million cells per microliter of blood" style="height: 55px;" id="rbc">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hematocrit -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-vial text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Hematocrit</h4>
+                        <p class="mb-4">Proportion of red blood cells in blood. Indicates blood viscosity and
+                            oxygen-carrying capacity.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="percentage"
+                                style="height: 55px;" id="hematocrit">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Insulin -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-dna text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Insulin</h4>
+                        <p class="mb-4">Hormone that regulates blood sugar by helping cells absorb glucose. Measured to
+                            evaluate glucose metabolism.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="microU/mL"
+                                style="height: 55px;" id="insulin">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BMI -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-user text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">BMI</h4>
+                        <p class="mb-4">Calculates body fat based on height and weight. Commonly used to classify weight
+                            status.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="kg/m^2" style="height: 55px;"
+                                id="bmi">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Systolic Blood Pressure -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-arrow-up text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Systolic BP</h4>
+                        <p class="mb-4">Pressure when the heart beats. The top number in a blood pressure reading.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mmHg" style="height: 55px;"
+                                id="sbp">
+                        </div>
+                    </div>
+                </div>
+                <!-- Diastolic Blood Pressure -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-arrow-down text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Diastolic BP</h4>
+                        <p class="mb-4">Pressure when the heart rests between beats. The bottom number in a BP reading.
+                        </p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mmHg" style="height: 55px;"
+                                id="dbp">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Triglycerides -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-chart-line text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Triglycerides</h4>
+                        <p class="mb-4">Type of fat stored in blood. High levels can affect heart health and metabolism.
+                        </p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dl" style="height: 55px;"
+                                id="triglycerides">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HbA1c -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-calendar-alt text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">HbA1c</h4>
+                        <p class="mb-4">Reflects average blood glucose over past 2-3 months. Key marker for glucose
+                            control.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="percentage"
+                                style="height: 55px;" id="hba1c">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- LDL Cholesterol -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-arrow-circle-up text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">LDL Cholesterol</h4>
+                        <p class="mb-4">Often called "bad cholesterol". High levels can lead to plaque buildup in
+                            arteries.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dL" style="height: 55px;"
+                                id="ldlc">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HDL Cholesterol -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-arrow-circle-down text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">HDL Cholesterol</h4>
+                        <p class="mb-4">Known as "good cholesterol". Helps remove LDL from the bloodstream.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dL" style="height: 55px;"
+                                id="hdlc">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ALT -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-flask text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">ALT</h4>
+                        <p class="mb-4">Enzyme found in liver cells. Levels reflect liver cell activity and health.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="U/L" style="height: 55px;"
+                                id="alt">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AST -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-flask text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">AST</h4>
+                        <p class="mb-4">Another enzyme in liver, heart, and muscles. Often measured with ALT for liver
+                            function.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="U/L" style="height: 55px;"
+                                id="ast">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Heart Rate -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-heart text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Heart Rate</h4>
+                        <p class="mb-4">Number of heartbeats per minute. Indicates cardiovascular fitness and stress.
+                        </p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="beats per minute"
+                                style="height: 55px;" id="hr">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Creatinine -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-recycle text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Creatinine</h4>
+                        <p class="mb-4">Waste product from muscle metabolism. Filtered by kidneys and used to assess
+                            kidney function.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/dL" style="height: 55px;"
+                                id="creatinine">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Troponin -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-heartbeat text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Troponin</h4>
+                        <p class="mb-4">Protein found in heart muscles. Levels rise after heart muscle damage or strain.
+                        </p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="ng/mL" style="height: 55px;"
+                                id="troponin">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- C-reactive Protein -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-fire text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">C-reactive Protein</h4>
+                        <p class="mb-4">Produced by the liver in response to inflammation. Levels reflect general
+                            inflammation in the body.</p>
+                        <div class="col-12 col-sm-6">
+                            <input type="text" class="form-control border-0" placeholder="mg/L" style="height: 55px;"
+                                id="crp">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- End Card -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded h-100 p-5">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4"
+                            style="width: 65px; height: 65px;">
+                            <i class="fa fa-tint text-primary fs-4"></i>
+                        </div>
+                        <h4 class="mb-3">Thankyou</h4>
+                        <p class="mb-4">Hit Enter</p>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <button id="predict-btn" class="btn btn-primary w-100 py-3" type="button">Check</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End 2 -->
+
+    <p id="result" class="mt-3 text-success fs-5"></p>
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="row g-0 mx-lg-0">
+                    <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="p-lg-5 ps-lg-0">
+                            <h1 class="text-white mb-4">Why Choose Us</h1>
+                            <p class="text-white mb-4 pb-2">We have a leading labrotory and ML tools specializing in
+                                advanced blood diagnostics, offering precise and timely
+                                testing to help you take control of your health. Our facility is equipped with
+                                state-of-the-art technology and
+                                staffed by a team of experienced professionals committed to delivering accurate results
+                                and compassionate care.</p>
+                            <div class="row g-4">
+                                <div class="col-6">
+                                    <div class="d-flex align-items-center">
+                                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light"
+                                            style="width: 55px; height: 55px;">
+                                            <i class="fa fa-user-md text-primary"></i>
+                                        </div>
+                                        <div class="ms-4">
+                                            <p class="text-white mb-2">Experience</p>
+                                            <h5 class="text-white mb-0">Doctors</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="d-flex align-items-center">
+                                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light"
+                                            style="width: 55px; height: 55px;">
+                                            <i class="fa fa-check text-primary"></i>
+                                        </div>
+                                        <div class="ms-4">
+                                            <p class="text-white mb-2">Quality</p>
+                                            <h5 class="text-white mb-0">Services</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="d-flex align-items-center">
+                                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light"
+                                            style="width: 55px; height: 55px;">
+                                            <i class="fa fa-comment-medical text-primary"></i>
+                                        </div>
+                                        <div class="ms-4">
+                                            <p class="text-white mb-2">Positive</p>
+                                            <h5 class="text-white mb-0">Consultation</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="d-flex align-items-center">
+                                        <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light"
+                                            style="width: 55px; height: 55px;">
+                                            <i class="fa fa-headphones text-primary"></i>
+                                        </div>
+                                        <div class="ms-4">
+                                            <p class="text-white mb-2">24 Hours</p>
+                                            <h5 class="text-white mb-0">Support</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
+                        <div class="position-relative h-100">
+                            <img class="position-absolute img-fluid w-100 h-100" src="img/feature.jpg"
+                                style="object-fit: cover;" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        &copy; <a class="border-bottom" href="#">Klinik</a>, All Right Reserved.
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/tempusdominus/js/moment.min.js"></script>
+    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/apijs.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

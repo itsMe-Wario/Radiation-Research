@@ -1,0 +1,25 @@
+#feature-table {
+    width: 70%;
+    margin: 50px auto; /* Centers the table horizontally and adds top/bottom margin */
+    padding: 20px;
+    text-transform: capitalize;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Adds shadow for depth */
+    border-radius: 10px; /* Rounded corners for the table */
+    
+}
+
+#feature-table th, #feature-table td {
+    padding: 15px 180px; /* Adds padding to cells for a spacious feel */
+    text-align: center; /* Centers text in cells */
+    border: 1px solid #ddd; /* Adds a light border */
+    font-size: 15px;
+}
+
+#feature-table th {
+    background-color: #ffffff; /* Green background for the header */
+    color: #0463fa; /* White text for the header */
+    font-size: 18px; /* Larger font size for headers */
+    text-transform: uppercase; /* Uppercase for headers */
+}

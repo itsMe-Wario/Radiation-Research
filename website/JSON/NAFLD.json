@@ -1,0 +1,22 @@
+{
+  "glucose": 145,
+  "cholesterol": 195,
+  "hemoglobin": 15.0,
+  "wbc": 8000,
+  "rbc": 4.8,
+  "hematocrit": 45,
+  "insulin": 28,
+  "bmi": 29.0,
+  "sbp": 135,
+  "dbp": 85,
+  "triglycerides": 180,
+  "hba1c": 7.2,
+  "ldlc": 140,
+  "hdlc": 38,
+  "alt": 42,
+  "ast": 38,
+  "hr": 95,
+  "creatinine": 1.1,
+  "troponin": 0.01,
+  "crp": 4.0
+}
