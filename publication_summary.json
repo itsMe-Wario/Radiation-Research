@@ -1,0 +1,711 @@
+{
+  "_meta": {
+    "model": "Semi-Parametric NGAM \u2014 Staged Training",
+    "dataset": "LSS-14 (Ozasa et al. 2012/2013)",
+    "dose_metric": "Weighted colon dose (Gy) = colon10 / 1000",
+    "outcome": "Solid cancer mortality count",
+    "offset": "log(person-years)",
+    "n_bootstraps": 200,
+    "bias_framework": "Doss (2013) Dose-Response 11:495-512. Baseline upward corrections of 0/10/20/30% applied to the neural branch offset only. Linear branch always reflects raw LSS data."
+  },
+  "linear_branch": {
+    "description": "Poisson GLM fitted without dose. Establishes demographic baseline. Dose signal confirmed present in residuals (see validation).",
+    "coefficients": {
+      "intercept": {
+        "estimate": -21.975337,
+        "exp_estimate": 0.0,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "city_2": {
+        "estimate": 0.03237,
+        "exp_estimate": 1.032899,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "sex_2": {
+        "estimate": -0.666005,
+        "exp_estimate": 0.513757,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_2": {
+        "estimate": 0.129026,
+        "exp_estimate": 1.13772,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_3": {
+        "estimate": 0.203811,
+        "exp_estimate": 1.226066,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_4": {
+        "estimate": 0.215396,
+        "exp_estimate": 1.240353,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_5": {
+        "estimate": 0.264051,
+        "exp_estimate": 1.302194,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_6": {
+        "estimate": 0.274751,
+        "exp_estimate": 1.316203,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_7": {
+        "estimate": 0.305637,
+        "exp_estimate": 1.35749,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_8": {
+        "estimate": 0.360655,
+        "exp_estimate": 1.434269,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_9": {
+        "estimate": 0.359946,
+        "exp_estimate": 1.433252,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_10": {
+        "estimate": 0.414047,
+        "exp_estimate": 1.512928,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ctime_11": {
+        "estimate": 0.45923,
+        "exp_estimate": 1.582855,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "gd3_2": {
+        "estimate": -0.056508,
+        "exp_estimate": 0.945059,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ahs_1": {
+        "estimate": 0.16651,
+        "exp_estimate": 1.181176,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "ahs_2": {
+        "estimate": -0.158957,
+        "exp_estimate": 0.853033,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "log_age": {
+        "estimate": 3.819167,
+        "exp_estimate": 45.566235,
+        "note": "log-scale; exp = rate ratio"
+      },
+      "log_agex": {
+        "estimate": 0.245131,
+        "exp_estimate": 1.277789,
+        "note": "log-scale; exp = rate ratio"
+      }
+    },
+    "goodness_of_fit": {
+      "total_observed": 10929.0,
+      "total_predicted": 10929.0,
+      "obs_pred_ratio": 1.0,
+      "pearson_chi_sq": 124347.08,
+      "deviance": 19423.63,
+      "df_residual": 53764,
+      "pearson_per_df": 2.312832,
+      "deviance_per_df": 0.361276
+    },
+    "dose_category_validation": {
+      "1": {
+        "observed": 4621.0,
+        "predicted": 4753.71,
+        "obs_pred_ratio": 0.9721
+      },
+      "2": {
+        "observed": 1719.0,
+        "predicted": 1752.78,
+        "obs_pred_ratio": 0.9807
+      },
+      "3": {
+        "observed": 769.0,
+        "predicted": 810.59,
+        "obs_pred_ratio": 0.9487
+      },
+      "4": {
+        "observed": 539.0,
+        "predicted": 555.0,
+        "obs_pred_ratio": 0.9712
+      },
+      "5": {
+        "observed": 353.0,
+        "predicted": 353.18,
+        "obs_pred_ratio": 0.9995
+      },
+      "6": {
+        "observed": 273.0,
+        "predicted": 280.67,
+        "obs_pred_ratio": 0.9727
+      },
+      "7": {
+        "observed": 230.0,
+        "predicted": 266.69,
+        "obs_pred_ratio": 0.8624
+      },
+      "8": {
+        "observed": 227.0,
+        "predicted": 212.12,
+        "obs_pred_ratio": 1.0701
+      },
+      "9": {
+        "observed": 183.0,
+        "predicted": 195.37,
+        "obs_pred_ratio": 0.9367
+      },
+      "10": {
+        "observed": 149.0,
+        "predicted": 128.9,
+        "obs_pred_ratio": 1.1559
+      },
+      "11": {
+        "observed": 203.0,
+        "predicted": 211.89,
+        "obs_pred_ratio": 0.9581
+      },
+      "12": {
+        "observed": 214.0,
+        "predicted": 195.36,
+        "obs_pred_ratio": 1.0954
+      },
+      "13": {
+        "observed": 453.0,
+        "predicted": 456.92,
+        "obs_pred_ratio": 0.9914
+      },
+      "14": {
+        "observed": 298.0,
+        "predicted": 288.84,
+        "obs_pred_ratio": 1.0317
+      },
+      "15": {
+        "observed": 221.0,
+        "predicted": 163.66,
+        "obs_pred_ratio": 1.3504
+      },
+      "16": {
+        "observed": 140.0,
+        "predicted": 102.04,
+        "obs_pred_ratio": 1.372
+      },
+      "17": {
+        "observed": 92.0,
+        "predicted": 72.7,
+        "obs_pred_ratio": 1.2654
+      },
+      "18": {
+        "observed": 82.0,
+        "predicted": 35.34,
+        "obs_pred_ratio": 2.3204
+      },
+      "19": {
+        "observed": 39.0,
+        "predicted": 23.37,
+        "obs_pred_ratio": 1.6691
+      },
+      "20": {
+        "observed": 81.0,
+        "predicted": 46.91,
+        "obs_pred_ratio": 1.7268
+      },
+      "21": {
+        "observed": 41.0,
+        "predicted": 22.39,
+        "obs_pred_ratio": 1.8314
+      },
+      "22": {
+        "observed": 2.0,
+        "predicted": 0.59,
+        "obs_pred_ratio": 3.4076
+      }
+    }
+  },
+  "neural_dose_branch": {
+    "description": "DoseMLP \u2014 linear trend + SiLU MLP with zero-centering. Trained on residuals after linear branch frozen. f(0 Gy) = 0 by construction.",
+    "dose_response_by_bias": {
+      "bias_00pct": {
+        "0.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0,
+            "95_CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "0.05_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0091,
+            "95_CI": [
+              -0.0018,
+              0.0163
+            ]
+          }
+        },
+        "0.10_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0184,
+            "95_CI": [
+              -0.0027,
+              0.0325
+            ]
+          }
+        },
+        "0.15_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.028,
+            "95_CI": [
+              -0.0025,
+              0.0485
+            ]
+          }
+        },
+        "0.20_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0375,
+            "95_CI": [
+              -0.0011,
+              0.0644
+            ]
+          }
+        },
+        "0.30_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0579,
+            "95_CI": [
+              0.0024,
+              0.0959
+            ]
+          }
+        },
+        "0.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.1012,
+            "95_CI": [
+              0.0222,
+              0.1578
+            ]
+          }
+        },
+        "0.75_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.1632,
+            "95_CI": [
+              0.0691,
+              0.2379
+            ]
+          }
+        },
+        "1.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.2294,
+            "95_CI": [
+              0.1239,
+              0.3167
+            ]
+          }
+        },
+        "1.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.3718,
+            "95_CI": [
+              0.2393,
+              0.4957
+            ]
+          }
+        },
+        "2.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.523,
+            "95_CI": [
+              0.3573,
+              0.7079
+            ]
+          }
+        },
+        "3.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.8582,
+            "95_CI": [
+              0.5303,
+              1.144
+            ]
+          }
+        }
+      },
+      "bias_10pct": {
+        "0.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0,
+            "95_CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "0.05_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0062,
+            "95_CI": [
+              -0.0361,
+              0.0045
+            ]
+          }
+        },
+        "0.10_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0113,
+            "95_CI": [
+              -0.0664,
+              0.0092
+            ]
+          }
+        },
+        "0.15_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0153,
+            "95_CI": [
+              -0.0907,
+              0.0141
+            ]
+          }
+        },
+        "0.20_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0184,
+            "95_CI": [
+              -0.1089,
+              0.0189
+            ]
+          }
+        },
+        "0.30_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0221,
+            "95_CI": [
+              -0.1275,
+              0.0287
+            ]
+          }
+        },
+        "0.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.019,
+            "95_CI": [
+              -0.1037,
+              0.05
+            ]
+          }
+        },
+        "0.75_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0137,
+            "95_CI": [
+              -0.0462,
+              0.0877
+            ]
+          }
+        },
+        "1.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0797,
+            "95_CI": [
+              -0.0196,
+              0.1649
+            ]
+          }
+        },
+        "1.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.2409,
+            "95_CI": [
+              0.0342,
+              0.4206
+            ]
+          }
+        },
+        "2.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.439,
+            "95_CI": [
+              0.108,
+              0.5848
+            ]
+          }
+        },
+        "3.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.8199,
+            "95_CI": [
+              0.2215,
+              1.0439
+            ]
+          }
+        }
+      },
+      "bias_20pct": {
+        "0.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0,
+            "95_CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "0.05_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.0586,
+            "95_CI": [
+              -0.1111,
+              -0.0112
+            ]
+          }
+        },
+        "0.10_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.1081,
+            "95_CI": [
+              -0.1887,
+              -0.0213
+            ]
+          }
+        },
+        "0.15_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.1484,
+            "95_CI": [
+              -0.238,
+              -0.0304
+            ]
+          }
+        },
+        "0.20_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.1808,
+            "95_CI": [
+              -0.2671,
+              -0.0384
+            ]
+          }
+        },
+        "0.30_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.219,
+            "95_CI": [
+              -0.2786,
+              -0.0513
+            ]
+          }
+        },
+        "0.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.1932,
+            "95_CI": [
+              -0.2515,
+              -0.064
+            ]
+          }
+        },
+        "0.75_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.094,
+            "95_CI": [
+              -0.1601,
+              0.009
+            ]
+          }
+        },
+        "1.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0394,
+            "95_CI": [
+              -0.089,
+              0.1507
+            ]
+          }
+        },
+        "1.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.2661,
+            "95_CI": [
+              0.0467,
+              0.415
+            ]
+          }
+        },
+        "2.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.4068,
+            "95_CI": [
+              0.2581,
+              0.529
+            ]
+          }
+        },
+        "3.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.5957,
+            "95_CI": [
+              0.1706,
+              1.0128
+            ]
+          }
+        }
+      },
+      "bias_30pct": {
+        "0.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0,
+            "95_CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "0.05_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.1553,
+            "95_CI": [
+              -0.2651,
+              -0.0492
+            ]
+          }
+        },
+        "0.10_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.266,
+            "95_CI": [
+              -0.3947,
+              -0.0945
+            ]
+          }
+        },
+        "0.15_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.3387,
+            "95_CI": [
+              -0.4249,
+              -0.1352
+            ]
+          }
+        },
+        "0.20_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.3708,
+            "95_CI": [
+              -0.4276,
+              -0.1709
+            ]
+          }
+        },
+        "0.30_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.3581,
+            "95_CI": [
+              -0.4109,
+              -0.1903
+            ]
+          }
+        },
+        "0.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.2625,
+            "95_CI": [
+              -0.3664,
+              -0.1177
+            ]
+          }
+        },
+        "0.75_Gy": {
+          "f_dose_log_RR": {
+            "Median": -0.089,
+            "95_CI": [
+              -0.2507,
+              0.0057
+            ]
+          }
+        },
+        "1.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.0303,
+            "95_CI": [
+              -0.1435,
+              0.1043
+            ]
+          }
+        },
+        "1.50_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.2047,
+            "95_CI": [
+              0.0594,
+              0.3326
+            ]
+          }
+        },
+        "2.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.3136,
+            "95_CI": [
+              0.1783,
+              0.4445
+            ]
+          }
+        },
+        "3.00_Gy": {
+          "f_dose_log_RR": {
+            "Median": 0.4625,
+            "95_CI": [
+              0.0472,
+              0.765
+            ]
+          }
+        }
+      }
+    }
+  },
+  "hormesis_metrics": {
+    "bias_00pct": {
+      "trough_dose_Gy": 0.0,
+      "trough_log_RR": 0.0,
+      "trough_95CI": [
+        0.0,
+        0.0
+      ],
+      "recovery_dose_Gy": 0.0
+    },
+    "bias_10pct": {
+      "trough_dose_Gy": 0.371,
+      "trough_log_RR": -0.023,
+      "trough_95CI": [
+        -0.127,
+        0.036
+      ],
+      "recovery_dose_Gy": 0.692
+    },
+    "bias_20pct": {
+      "trough_dose_Gy": 0.341,
+      "trough_log_RR": -0.225,
+      "trough_95CI": [
+        -0.276,
+        -0.055
+      ],
+      "recovery_dose_Gy": 0.942
+    },
+    "bias_30pct": {
+      "trough_dose_Gy": 0.221,
+      "trough_log_RR": -0.374,
+      "trough_95CI": [
+        -0.426,
+        -0.184
+      ],
+      "recovery_dose_Gy": 0.932
+    }
+  }
+}
